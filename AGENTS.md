@@ -64,6 +64,7 @@ AI-powered, CLI-agnostic job search automation: pipeline tracking, offer evaluat
 | `analyze-patterns.mjs` | Pattern analysis script (JSON output) |
 | `followup-cadence.mjs` | Follow-up cadence calculator (JSON output) |
 | `data/follow-ups.md` | Follow-up history tracker |
+| `.base/` | User-provided source archive: documents, previous applications, current applications, generated CVs/letters, questions, rejections |
 | `scan.mjs` | Zero-token portal scanner — hits Greenhouse/Ashby/Lever APIs directly, zero LLM cost |
 | `check-liveness.mjs` | Job posting liveness checker |
 | `liveness-core.mjs` | Shared liveness logic (expired signals win over generic Apply text) |
@@ -224,6 +225,17 @@ Default modes are in `modes/` (English). Additional language-specific modes are 
 - `article-digest.md` has detailed proof points (optional)
 - **NEVER hardcode metrics** -- read them from these files at evaluation time
 
+### Base Archive (`.base/`)
+
+`.base/` is a user-provided archive of source material and prior job-search work. It may contain:
+- `.base/documents/` -- foundational documents such as work permit, diploma, work certificates, all-experiences exports, and recruiter Q&A material
+- `.base/ongoing/` -- current application material: JDs, tailored CVs, cover letters, application answers, interview prep
+- `.base/refused/` -- previous applications and outcomes: JDs, tailored CVs, cover letters, questions, rejections, interview prep
+
+**When setting up or refreshing required files, use `.base/` as input context.** Mine it to update `cv.md`, `config/profile.yml`, `modes/_profile.md`, `article-digest.md`, `interview-prep/story-bank.md`, `data/applications.md`, and `data/follow-ups.md` when relevant.
+
+**Do not blindly overwrite canonical files from `.base/`.** Treat `.base/` as raw source evidence. Extract stable facts, proof points, patterns, application outcomes, and reusable answers; then write cleaned, deduplicated content into the required user-layer files.
+
 ---
 
 ## Ethical Use -- CRITICAL
@@ -243,6 +255,8 @@ Default modes are in `modes/` (English). Additional language-specific modes are 
 1. `browser_navigate` to the URL
 2. `browser_snapshot` to read content
 3. Only footer/navbar without JD = closed. Title + description + Apply = active.
+
+**Chromium sandbox note:** Do not run Chromium/Playwright inside the command sandbox for browser verification or PDF rendering. It hangs or fails on this machine because Chromium cannot access required macOS services from the sandbox. If Chromium is needed, request escalation and run it outside the sandbox.
 
 **Exception for batch workers (headless mode):** Playwright is not available in headless pipe mode. Use WebFetch as fallback and mark the report header with `**Verification:** unconfirmed (batch mode)`. The user can verify manually later.
 
