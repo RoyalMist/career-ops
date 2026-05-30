@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 43 | 2026-05-30 | Deloitte | Manager - Artificial Intelligence & Data - AI Strategy | 3.6/5 | Discarded | ❌ | [043](reports/043-deloitte-2026-05-30.md) | Discarded by candidate: relevant AI strategy content, but Manager-level consulting is below target CTO/Field CTO/VP Engineering/Director lane and likely below comp target. |
 | 42 | 2026-05-30 | Luxtelligence | Chief Executive Officer | 3.2/5 | Discarded | ❌ | [042](reports/042-luxtelligence-2026-05-30.md) | Discarded by candidate: not going forward; CEO/fundraising/commercial photonics hardware mandate is outside the target CTO/Field CTO/VP Engineering lane. |
 | 41 | 2026-05-30 | Visium | AI Engineering Director | 3.4/5 | Discarded | ❌ | [041](reports/041-visium-2026-05-30.md) | Discarded by candidate: Zurich full-time/no remote is a work-mode blocker despite strong AI transformation and client-delivery fit. |
 | 40 | 2026-05-30 | SIE SA / EMS | Head of IT & Transformation Digitale | 4.1/5 | Discarded | ✅ | [040](reports/040-sie-sa-ems-2026-05-30.md) | Discarded by candidate: small-team local Head of IT scope is not compelling enough without clear executive package, broader scale, and low hands-on operations burden. |
