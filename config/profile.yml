@@ -1,0 +1,121 @@
+# Career-Ops Profile Configuration
+# Single source of truth for personal data across all modes.
+# Populated from _base/ documents on 2026-05-29.
+
+candidate:
+  full_name: "Thibault Fouache"
+  email: "thibault.fouache@pm.me"
+  phone: "+41 76 585 71 89"
+  location: "Geneva, Switzerland"
+  linkedin: "www.linkedin.com/in/thibault-gva"
+  portfolio_url: ""
+  github: "https://github.com/RoyalMist"
+  twitter: ""
+
+target_roles:
+  # North Star roles -- what the job search is optimized for.
+  primary:
+    - "Field CTO"
+    - "Chief Technology Officer"
+    - "VP Engineering"
+    - "Head of Engineering"
+    - "Director of Software Engineering"
+  # Archetypes help the evaluation system score fit.
+  archetypes:
+    - name: "Field CTO / Enterprise Solutions Leader"
+      level: "Executive"
+      fit: "primary" # primary = dream role, secondary = good fit, adjacent = stretch
+    - name: "CTO / VP Engineering"
+      level: "Executive"
+      fit: "primary"
+    - name: "Director / Head of Engineering"
+      level: "Senior Executive"
+      fit: "primary"
+    - name: "AI Transformation / Enterprise AI Adoption Lead"
+      level: "Executive"
+      fit: "secondary"
+    - name: "Fintech / Blockchain Technology Leader"
+      level: "Senior Executive"
+      fit: "secondary"
+    - name: "Enterprise Architect / Solution Architect"
+      level: "Senior Executive"
+      fit: "secondary"
+
+narrative:
+  # Your professional headline (1 line)
+  headline: "CTO and engineering executive for AI, fintech, cloud, and blockchain platforms"
+  # Your exit story -- what makes you unique
+  exit_story: "Engineering leader in Geneva with CTO, Field CTO, Head of Engineering, and Director Software Engineering experience; now focused on Swiss enterprise technology leadership, AI adoption, and high-trust fintech/cloud platforms."
+  # Your top 3-5 superpowers
+  superpowers:
+    - "Executive engineering leadership across teams up to 50 people"
+    - "Enterprise presales and client delivery for AI platform capabilities"
+    - "Technical architecture across fintech, blockchain custody, banking, cloud, and DevOps"
+    - "Organizational design: squads, delivery accountability, coaching, hiring, and career growth"
+    - "Pragmatic AI adoption, including Claude Enterprise integrated with Slack, Linear, email, and calendars"
+  # Proof points — projects, articles, case studies with measurable impact
+  proof_points:
+    - name: "Wonderful - Field CTO"
+      url: ""
+      hero_metric: "Led technical demonstrations and presales for Swiss enterprise AI platform prospects"
+    - name: "SCRYPT - AI operating system for executive work"
+      url: ""
+      hero_metric: "Implemented Claude Enterprise via Slack with Linear, email, and calendars for always-on cross-functional support"
+    - name: "Ripple / Metaco - Director Software Engineering"
+      url: ""
+      hero_metric: "Led up to 50 professionals developing a blockchain custody solution"
+    - name: "FlowBank - Global Head of Technology"
+      url: ""
+      hero_metric: "Led a ~40-person technology department and initiated the transition from on-premise infrastructure to AWS"
+    - name: "Pictet Asset Management - SRE contractor"
+      url: ""
+      hero_metric: "Created EKS clusters, Helm charts, and Terraform infrastructure in a security-constrained environment"
+    - name: "UBP - Internal Auditor"
+      url: ""
+      hero_metric: "Uncovered an application-role bug affecting 0.5% of bank users during identity access management audit"
+  # Optional: dashboard/demo URL with credentials
+  # dashboard:
+  #   url: "https://your-demo.example"
+  #   password: "demo-2026"
+
+compensation:
+  target_range: "230k" # Target total compensation not found in _base.
+  currency: "CHF"
+  minimum: "160k" # Walk-away number not found in _base.
+  location_flexibility: "Geneva/Lausanne/Swiss market preferred; remote or hybrid availability to confirm"
+
+location:
+  country: "Switzerland"
+  city: "Geneva"
+  timezone: "Europe/Zurich"
+  visa_status: "Work permit C"
+  # For remote roles outside your country:
+  onsite_availability: "Geneva and Lausanne available; broader travel availability to confirm"
+
+languages:
+  French: "Native or bilingual"
+  English: "Full professional"
+  German: "Limited working"
+
+certifications:
+  - "Programming with Google Go"
+  - "Ethereum Developer"
+  - "Quorum"
+
+education:
+  - institution: "EIGSI La Rochelle, ecole d'ingenieurs generalistes"
+    credential: "Master of Science, Computer Science"
+    years: "2003-2009"
+  - institution: "B9lab"
+    credential: "Ethereum Blockstars, Blockchain"
+    years: "2019"
+  - institution: "MongoDB University"
+    credential: "Training, Data Modeling/Warehousing and Database Administration"
+    years: "2013-2014"
+
+cv:
+  output_format: "html" # "html" (default) or "latex"
+  # (Optional) Canva resume design ID for visual CV generation via /career-ops pdf.
+  # Find it in your Canva design URL: https://www.canva.com/design/DAxxxxxxx/...
+  # The ID starts with "D" and is 11 characters long.
+  # canva_resume_design_id: "DAxxxxxxxxx"

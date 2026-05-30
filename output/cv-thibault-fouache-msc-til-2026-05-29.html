@@ -1,0 +1,523 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Thibault Fouache — CV</title>
+<style>
+  @font-face {
+    font-family: 'Space Grotesk';
+    src: url('./fonts/space-grotesk-latin.woff2') format('woff2');
+    font-weight: 300 700;
+    font-style: normal;
+    font-display: swap;
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  }
+
+  @font-face {
+    font-family: 'Space Grotesk';
+    src: url('./fonts/space-grotesk-latin-ext.woff2') format('woff2');
+    font-weight: 300 700;
+    font-style: normal;
+    font-display: swap;
+    unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+  }
+
+  @font-face {
+    font-family: 'DM Sans';
+    src: url('./fonts/dm-sans-latin.woff2') format('woff2');
+    font-weight: 100 1000;
+    font-style: normal;
+    font-display: swap;
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  }
+
+  @font-face {
+    font-family: 'DM Sans';
+    src: url('./fonts/dm-sans-latin-ext.woff2') format('woff2');
+    font-weight: 100 1000;
+    font-style: normal;
+    font-display: swap;
+    unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+  }
+
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  html {
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+
+  body {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 11px;
+    line-height: 1.5;
+    color: #1a1a2e;
+    background: #ffffff;
+    padding: 0;
+    margin: 0;
+  }
+
+  .page {
+    width: 100%;
+    max-width: 210mm;
+    margin: 0 auto;
+    padding: 2px 0;
+  }
+
+  /* === HEADER === */
+  .header {
+    margin-bottom: 20px;
+  }
+
+  .header h1 {
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 28px;
+    font-weight: 700;
+    color: #1a1a2e;
+    letter-spacing: -0.02em;
+    margin-bottom: 6px;
+    line-height: 1.1;
+  }
+
+  .header-gradient {
+    height: 2px;
+    background: linear-gradient(to right, hsl(187, 74%, 32%), hsl(270, 70%, 45%));
+    border-radius: 1px;
+    margin-bottom: 10px;
+  }
+
+  .contact-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px 14px;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 10.5px;
+    line-height: 1.4;
+    color: #555;
+  }
+
+  .contact-row a {
+    color: #555;
+    text-decoration: none;
+  }
+
+  .contact-row .separator {
+    color: #ccc;
+  }
+
+  /* === SECTIONS === */
+  .section {
+    margin-bottom: 18px;
+  }
+
+  .section-title {
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 12px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: hsl(187, 74%, 32%);
+    border-bottom: 1.5px solid #e2e2e2;
+    padding-bottom: 4px;
+    margin-bottom: 10px;
+    line-height: 1.2;
+  }
+
+  /* === PROFESSIONAL SUMMARY === */
+  .summary-text {
+    font-size: 11px;
+    line-height: 1.7;
+    color: #2f2f2f;
+  }
+
+  /* Links must never break across lines */
+  a {
+    white-space: nowrap;
+  }
+
+  /* === CORE COMPETENCIES === */
+  .competencies-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+
+  .competency-tag {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 10px;
+    font-weight: 500;
+    color: hsl(187, 74%, 28%);
+    background: hsl(187, 40%, 95%);
+    padding: 4px 10px;
+    border-radius: 3px;
+    border: 1px solid hsl(187, 40%, 88%);
+  }
+
+  /* === WORK EXPERIENCE === */
+  .job {
+    margin-bottom: 14px;
+  }
+
+  .job-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 12px;
+    margin-bottom: 4px;
+  }
+
+  .job-company {
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 12.5px;
+    font-weight: 600;
+    color: hsl(270, 70%, 45%);
+  }
+
+  .job-period {
+    font-size: 10.5px;
+    color: #777;
+    white-space: nowrap;
+  }
+
+  .job-role {
+    font-size: 11px;
+    font-weight: 600;
+    color: #333;
+    margin-bottom: 6px;
+  }
+
+  .job-location {
+    font-size: 10px;
+    color: #888;
+  }
+
+  .job ul {
+    padding-left: 18px;
+    margin-top: 6px;
+  }
+
+  .job li {
+    font-size: 10.5px;
+    line-height: 1.6;
+    color: #333;
+    margin-bottom: 4px;
+  }
+
+  .job li strong {
+    font-weight: 600;
+  }
+
+  /* === PROJECTS === */
+  .project {
+    margin-bottom: 12px;
+  }
+
+  .project-title {
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 11.5px;
+    font-weight: 600;
+    color: hsl(270, 70%, 45%);
+  }
+
+  .project-badge {
+    font-size: 9px;
+    font-weight: 500;
+    color: hsl(187, 74%, 32%);
+    background: hsl(187, 40%, 95%);
+    padding: 1px 6px;
+    border-radius: 2px;
+    margin-left: 6px;
+  }
+
+  .project-desc {
+    font-size: 10.5px;
+    color: #444;
+    margin-top: 3px;
+    line-height: 1.55;
+  }
+
+  .project-tech {
+    font-size: 9.5px;
+    color: #888;
+    margin-top: 3px;
+  }
+
+  /* === EDUCATION === */
+  .edu-item {
+    margin-bottom: 8px;
+  }
+
+  .edu-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 12px;
+  }
+
+  .edu-title {
+    font-weight: 600;
+    font-size: 11px;
+    color: #333;
+  }
+
+  .edu-org {
+    color: hsl(270, 70%, 45%);
+    font-weight: 500;
+  }
+
+  .edu-year {
+    font-size: 10px;
+    color: #777;
+    white-space: nowrap;
+  }
+
+  .edu-desc {
+    font-size: 10px;
+    color: #666;
+    margin-top: 2px;
+    line-height: 1.5;
+  }
+
+  /* === CERTIFICATIONS === */
+  .cert-item {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) minmax(90px, max-content) 44px;
+    align-items: baseline;
+    gap: 12px;
+    margin-bottom: 6px;
+  }
+
+  .cert-title {
+    font-size: 10.5px;
+    font-weight: 500;
+    color: #333;
+    min-width: 0;
+  }
+
+  .cert-org {
+    color: hsl(270, 70%, 45%);
+    white-space: nowrap;
+  }
+
+  .cert-year {
+    font-size: 10px;
+    color: #777;
+    white-space: nowrap;
+    text-align: right;
+  }
+
+  /* === SKILLS === */
+  .skills-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px 14px;
+  }
+
+  .skill-item {
+    font-size: 10.5px;
+    color: #444;
+  }
+
+  .skill-category {
+    font-weight: 600;
+    color: #333;
+    font-size: 10.5px;
+  }
+
+  /* === PRINT === */
+  @media print {
+    body {
+      -webkit-print-color-adjust: exact;
+      print-color-adjust: exact;
+    }
+
+    .page {
+      padding: 0;
+    }
+  }
+
+  /* === PAGE BREAK CONTROL === */
+  .avoid-break,
+  .job,
+  .project,
+  .edu-item,
+  .cert-item {
+    break-inside: avoid;
+    page-break-inside: avoid;
+  }
+</style>
+</head>
+<body>
+<div class="page">
+
+  <!-- HEADER -->
+  <div class="header avoid-break">
+    <h1>Thibault Fouache</h1>
+    <div class="header-gradient"></div>
+    <div class="contact-row">
+      <span>+41 76 585 71 89</span>
+      <span class="separator">|</span>
+      <span>thibault.fouache@pm.me</span>
+      <span class="separator">|</span>
+      <a href="https://www.linkedin.com/in/thibault-gva">linkedin.com/in/thibault-gva</a>
+      <span class="separator">|</span>
+      <a href="https://github.com/RoyalMist">github.com/RoyalMist</a>
+      <span class="separator">|</span>
+      <span>Geneva, Switzerland</span>
+    </div>
+  </div>
+
+  <!-- PROFESSIONAL SUMMARY -->
+  <div class="section avoid-break">
+    <div class="section-title">Professional Summary</div>
+    <div class="summary-text">CTO and engineering executive for global technology transformation across fintech, logistics-adjacent platforms, cloud, cybersecurity, and regulated systems. Led teams up to 50 people, built technology strategy and target architecture, managed budgets and executive stakeholders, and delivered secure platforms across banking, blockchain custody, DevOps, and enterprise AI. Now focused on applying IT/OT architecture, cybersecurity governance, and portfolio-wide technology standards to terminal operations and global supply-chain infrastructure.</div>
+  </div>
+
+  <!-- CORE COMPETENCIES -->
+  <div class="section">
+    <div class="section-title">Core Competencies</div>
+    <div class="competencies-grid">
+      <span class="competency-tag">Technology strategy for global operations</span>
+<span class="competency-tag">IT / OT / communications architecture</span>
+<span class="competency-tag">Cybersecurity governance and standards</span>
+<span class="competency-tag">Portfolio-wide technology blueprints</span>
+<span class="competency-tag">Board and risk committee reporting</span>
+<span class="competency-tag">Project governance and investment planning</span>
+<span class="competency-tag">Stakeholder and partner negotiation</span>
+<span class="competency-tag">Terminal/logistics technology transformation</span>
+    </div>
+  </div>
+
+  <!-- WORK EXPERIENCE -->
+  <div class="section">
+    <div class="section-title">Work Experience</div>
+    
+<div class="job">
+  <div class="job-header"><div class="job-company">Wonderful</div><div class="job-period">2026 - Present</div></div>
+  <div class="job-role">Field CTO, Switzerland <span class="job-location">| Zurich, Switzerland</span></div>
+  <ul><li>Lead enterprise presales and client delivery for Swiss technology buyers, translating complex AI platform capabilities into business value.</li>
+<li>Bridge client needs and product capabilities across technical and executive stakeholders to improve delivery outcomes.</li>
+<li>Use a strong Romandie network to open strategic conversations with Swiss enterprise companies.</li></ul>
+</div>
+
+<div class="job">
+  <div class="job-header"><div class="job-company">Bazzile Technology SA</div><div class="job-period">2020 - Present</div></div>
+  <div class="job-role">Chief Product &amp; Technology Officer, Partner <span class="job-location">| Geneva, Switzerland</span></div>
+  <ul><li>Lead product and technology strategy across architecture, backend, cloud, mobile delivery, cybersecurity risk assessment, and provider management.</li>
+<li>Delivered new backend and mobile application versions using React Native, React, and Elixir while leading a 3-person engineering team.</li>
+<li>Selected and managed cloud infrastructure and coordinated external providers to meet business needs quickly.</li></ul>
+</div>
+
+<div class="job">
+  <div class="job-header"><div class="job-company">SCRYPT</div><div class="job-period">2025</div></div>
+  <div class="job-role">Head of Engineering <span class="job-location">| Zurich, Switzerland</span></div>
+  <ul><li>Defined and delivered the product and engineering roadmap during a focused transformation mandate.</li>
+<li>Reorganized technology teams around delivery and L3 support squads, improving ownership and operational accountability.</li>
+<li>Implemented Claude Enterprise through Slack with Linear, email, and calendars for always-on cross-functional coordination.</li></ul>
+</div>
+
+<div class="job">
+  <div class="job-header"><div class="job-company">Ripple / Metaco</div><div class="job-period">2023 - 2025</div></div>
+  <div class="job-role">Director Software Engineering <span class="job-location">| Geneva, Switzerland</span></div>
+  <ul><li>Led up to 50 professionals developing a blockchain custody solution in a regulated, security-sensitive environment.</li>
+<li>Defined technical architecture across multiple products and services, ensuring coherence, maintainability, reliability, and operational excellence.</li>
+<li>Established practices for monitoring, code and design reviews, QA, release management, L3 support, and technical debt control.</li>
+<li>Partnered with leadership on technical and organizational strategy while maintaining close relationships with key clients.</li></ul>
+</div>
+
+<div class="job">
+  <div class="job-header"><div class="job-company">FlowBank</div><div class="job-period">2022 - 2023</div></div>
+  <div class="job-role">Global Head of Technology, Executive Director <span class="job-location">| Geneva, Switzerland</span></div>
+  <ul><li>Led a 40-person technology department for a neobank covering banking services and crypto-enabled products.</li>
+<li>Built the technology vision, target architecture, roadmap, and budget for the Executive Committee.</li>
+<li>Initiated the transition from on-premise infrastructure to AWS and brought DevOps practices into the department.</li>
+<li>Launched core projects including CRM and Core Banking while enabling data-driven services for quantitative teams.</li></ul>
+</div>
+
+<div class="job">
+  <div class="job-header"><div class="job-company">Pictet Asset Management</div><div class="job-period">2021</div></div>
+  <div class="job-role">Site Reliability Engineer, Contractor <span class="job-location">| Geneva, Switzerland</span></div>
+  <ul><li>Technically led an End User Computing implementation in a security-constrained environment.</li>
+<li>Created EKS clusters, Helm deployment structures, and Terraform infrastructure.</li>
+<li>Led 2 SREs and provided internal React training.</li></ul>
+</div>
+
+<div class="job">
+  <div class="job-header"><div class="job-company">UBP - Union Bancaire Privee</div><div class="job-period">2018 - 2020</div></div>
+  <div class="job-role">Internal Auditor <span class="job-location">| Geneva, Switzerland</span></div>
+  <ul><li>Led IT and banking security audits covering governance, risk, procedures, GDPR-related controls, and annual risk assessment.</li>
+<li>Prepared recommendations for leadership and wrote audit reports in French and English.</li>
+<li>Uncovered an application-role bug affecting 0.5% of bank users during an identity access management audit.</li></ul>
+</div>
+
+<div class="job">
+  <div class="job-header"><div class="job-company">BCP / SIX / Glencore / Swissquote / Rolex / Axway</div><div class="job-period">2009 - 2018</div></div>
+  <div class="job-role">Software Engineer, Technical Lead, Contractor <span class="job-location">| Switzerland and France</span></div>
+  <ul><li>Built banking, trade finance, structured products, commodity trading, Forex, identity management, and SEPA systems.</li>
+<li>Introduced CI/CD, Kubernetes, Docker, GitLab pipelines, Bamboo, Nexus, Maven, TDD, Scrum, and pair programming across teams.</li>
+<li>Led offshore and cross-functional teams, captured user needs, and translated business requirements into technical specifications.</li></ul>
+</div>
+  </div>
+
+  <!-- PROJECTS -->
+  <div class="section avoid-break">
+    <div class="section-title">Relevant Projects</div>
+    
+<div class="project">
+  <div class="project-title">Digital Bank Technology Transformation<span class="project-badge">FlowBank</span></div>
+  <div class="project-desc">Led target architecture, AWS migration, DevOps culture, budget planning, CRM, Core Banking, and data-driven service enablement for a Swiss neobank.</div>
+  <div class="project-tech">AWS, DevOps, core banking, CRM, executive roadmap</div>
+</div>
+
+<div class="project">
+  <div class="project-title">Blockchain Custody Engineering Organization<span class="project-badge">Ripple / Metaco</span></div>
+  <div class="project-desc">Led engineering for a blockchain custody platform, with focus on architecture, security, technical debt, L3 support, release quality, and client-facing delivery.</div>
+  <div class="project-tech">Blockchain custody, security, architecture, L3 support</div>
+</div>
+
+<div class="project">
+  <div class="project-title">Enterprise AI Operating System<span class="project-badge">SCRYPT</span></div>
+  <div class="project-desc">Implemented Claude Enterprise connected to Slack, Linear, email, and calendars to support executive and cross-functional coordination.</div>
+  <div class="project-tech">Claude Enterprise, Slack, Linear, automation</div>
+</div>
+
+<div class="project">
+  <div class="project-title">Cloud and DevOps Platform Work<span class="project-badge">Pictet / BCP</span></div>
+  <div class="project-desc">Built EKS clusters, Helm deployment structures, Terraform infrastructure, and CI/CD pipelines in regulated environments.</div>
+  <div class="project-tech">EKS, Kubernetes, Terraform, Helm, GitLab CI/CD</div>
+</div>
+  </div>
+
+  <!-- EDUCATION -->
+  <div class="section avoid-break">
+    <div class="section-title">Education</div>
+    
+<div class="edu-item"><div class="edu-header"><div class="edu-title">Master of Science, Computer Science <span class="edu-org">EIGSI La Rochelle</span></div><div class="edu-year">2003 - 2009</div></div></div>
+
+<div class="edu-item"><div class="edu-header"><div class="edu-title">Ethereum Blockstars, Blockchain <span class="edu-org">B9lab</span></div><div class="edu-year">2019</div></div></div>
+
+<div class="edu-item"><div class="edu-header"><div class="edu-title">Data Modeling/Warehousing and Database Administration <span class="edu-org">MongoDB University</span></div><div class="edu-year">2013 - 2014</div></div></div>
+  </div>
+
+  <!-- CERTIFICATIONS -->
+  <div class="section avoid-break">
+    <div class="section-title">Certifications</div>
+    <div class="cert-item"><div class="cert-title">Programming with Google Go</div><div class="cert-org"></div><div class="cert-year"></div></div>
+<div class="cert-item"><div class="cert-title">Ethereum Developer</div><div class="cert-org"></div><div class="cert-year"></div></div>
+<div class="cert-item"><div class="cert-title">Quorum</div><div class="cert-org"></div><div class="cert-year"></div></div>
+  </div>
+
+  <!-- SKILLS -->
+  <div class="section avoid-break">
+    <div class="section-title">Skills</div>
+    <div class="skills-grid"><div class="skill-item"><span class="skill-category">Leadership:</span> CTO, Head of Engineering, Director Software Engineering, hiring, coaching, squads</div><div class="skill-item"><span class="skill-category">Architecture:</span> IT strategy, cloud, AWS, Kubernetes, EKS, Terraform, Helm, network/security concepts</div><div class="skill-item"><span class="skill-category">Engineering:</span> React, React Native, Elixir, Scala, Java, Spring Boot, Angular, Node.js, Python, Go</div><div class="skill-item"><span class="skill-category">Governance:</span> cybersecurity, audit, risk, GDPR, identity access management, board reporting</div><div class="skill-item"><span class="skill-category">Languages:</span> French native/bilingual, English full professional, German limited working</div></div>
+  </div>
+
+</div>
+</body>
+</html>
