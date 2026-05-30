@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 51 | 2026-05-30 | Bug Bounty Switzerland | Applied AI Engineer | 3.6/5 | Discarded | ❌ | [051](reports/051-bug-bounty-switzerland-2026-05-30.md) | Discarded by candidate: technically attractive AI/security role, but hands-on IC scope, hybrid Zurich/Bern setup and likely comp/path mismatch make it low priority. |
 | 50 | 2026-05-30 | SWISS KRONO AG | Manager AI Strategy & Implementation | 3.3/5 | Discarded | ❌ | [050](reports/050-swiss-krono-2026-05-30.md) | Discarded by candidate: remote within Switzerland is possible, but role is downlevel and compensation is unlikely to meet target. |
 | 49 | 2026-05-30 | IATA | Senior Enterprise Architect | 3.9/5 | Discarded | ❌ | [049](reports/049-iata-2026-05-30.md) | Discarded by candidate: senior IC architecture role is below CTO/Head/Director target and likely below compensation target. |
 | 48 | 2026-05-30 | Atlantic Gate | Corporate IT Director | 4.2/5 | Discarded | ✅ | [048](reports/048-atlantic-gate-2026-05-30.md) | Discarded by candidate: strong fit, but compensation signal is not enough for the Corporate IT Director mandate. |
