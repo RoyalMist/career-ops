@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 41 | 2026-05-30 | Visium | AI Engineering Director | 3.4/5 | Discarded | ❌ | [041](reports/041-visium-2026-05-30.md) | Discarded by candidate: Zurich full-time/no remote is a work-mode blocker despite strong AI transformation and client-delivery fit. |
 | 40 | 2026-05-30 | SIE SA / EMS | Head of IT & Transformation Digitale | 4.1/5 | Discarded | ✅ | [040](reports/040-sie-sa-ems-2026-05-30.md) | Discarded by candidate: small-team local Head of IT scope is not compelling enough without clear executive package, broader scale, and low hands-on operations burden. |
 | 39 | 2026-05-30 | Insignia Group of Companies | Head of Executive Office | 3.8/5 | Discarded | ❌ | [039](reports/039-insignia-2026-05-30.md) | Discarded by candidate: PMO/executive-office scope is not technology leadership and expected CHF 150k-200k package does not justify moving forward. |
 | 38 | 2026-05-30 | EY-Parthenon | Manager (IT) - Strategy & Execution | 3.5/5 | Discarded | ❌ | [038](reports/038-ey-parthenon-2026-05-30.md) | Discarded by candidate: Manager-level transaction tech consulting is a downlevel/compromise and not aligned with target technology leadership roles. |
