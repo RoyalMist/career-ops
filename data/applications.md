@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 39 | 2026-05-30 | Insignia Group of Companies | Head of Executive Office | 3.8/5 | Discarded | ❌ | [039](reports/039-insignia-2026-05-30.md) | Discarded by candidate: PMO/executive-office scope is not technology leadership and expected CHF 150k-200k package does not justify moving forward. |
 | 38 | 2026-05-30 | EY-Parthenon | Manager (IT) - Strategy & Execution | 3.5/5 | Evaluated | ❌ | [038](reports/038-ey-parthenon-2026-05-30.md) | Relevant IT strategy/transformation adjacency, but direct Tech DD/M&A consulting gap plus Manager-level comp/seniority make it lower priority; do not apply unless pursuing transaction tech consulting. |
 | 37 | 2026-05-30 | Bitcoin Suisse | AI Strategy & Product Lead | 4.1/5 | Evaluated | ❌ | [037](reports/037-bitcoin-suisse-2026-05-30.md) | Strong AI strategy/product and crypto-fintech fit; worth applying if scope owns roadmap/governance/adoption, but clarify reporting line, team/budget, Zug hybrid and comp early. |
 | 36 | 2026-05-30 | granular | CTO and Co-Founder | 3.3/5 | Evaluated | ❌ | [036](reports/036-granular-2026-05-30.md) | Interesting Swiss AI finance product, but poor fit as written because it expects hands-on founder CTO work in an apparently chosen TypeScript/Python stack; only discuss if CTO has real architecture/product authority. |

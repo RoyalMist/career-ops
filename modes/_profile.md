@@ -66,6 +66,10 @@ Frame profile as **"Technical builder with real-world proof"** that adapts frami
 - If a posting asks for a hands-on founder CTO in a specific stack that is already set, cap the score around **3.3/5** unless there is clear evidence of broad CTO decision rights, meaningful founder economics, and freedom to revisit architectural choices.
 - If the role is effectively "founding engineer with CTO title", score it as a poor fit even if the company/domain is interesting.
 
+**PMO / Executive Office roles:**
+- Do **not** prioritize PMO, Executive Office, Chief of Staff, or strategic execution roles unless they clearly include technology leadership, AI transformation ownership, or enterprise operating-model authority with compensation near the executive target.
+- For non-technology PMO/executive-office roles expected around CHF 150k-200k, recommend against applying by default.
+
 ## Your Portfolio / Demo
 
 <!-- If you have a live demo, dashboard, or public project:
