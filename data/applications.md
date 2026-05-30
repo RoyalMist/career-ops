@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 59 | 2026-05-30 | Oracle | Software Development Snr Manager | 3.5/5 | Applied | ✅ | [059](reports/059-oracle-2026-05-30.md) | Applied 2026-05-30 with tailored CV and cover letter; qualify product org, team scope, remote policy and M3 compensation if contacted. |
 | 58 | 2026-05-30 | NVIDIA | Solutions Architect - AI for Drug Discovery | 3.2/5 | Discarded | ❌ | [058](reports/058-nvidia-2026-05-30.md) | Discarded by candidate: drug discovery, life sciences AI, CUDA/HPC and scientific model training requirements are outside the candidate's proof points. |
 | 57 | 2026-05-30 | Kraken / HR | AI Agents Solutions Architect - HR | 3.4/5 | Discarded | ❌ | [057](reports/057-kraken-hr-2026-05-30.md) | Discarded by candidate: lacks the required HR/People Ops, Workday, payroll and HRIS automation depth despite relevant agentic AI layer. |
 | 56 | 2026-05-30 | Kraken / Compliance | AI Agents Solutions Architect - Compliance | 4.0/5 | Discarded | ❌ | [056](reports/056-kraken-compliance-2026-05-30.md) | Discarded by candidate: lacks the deep AML/KYC, sanctions, financial crime and compliance-operations depth required for this track. |
