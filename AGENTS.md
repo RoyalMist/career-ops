@@ -197,6 +197,8 @@ Default modes are in `modes/` (English). Additional language-specific modes are 
 
 **When NOT to:** If the user applies to English-language roles, even at French, German, Japanese, or Turkish companies, use the default English modes — *unless* the user has explicitly requested another mode in this conversation, or `language.modes_dir` is set in `config/profile.yml` (the explicit user preference always wins over JD-language detection).
 
+**Resume/CV and cover letter language:** Always generate resumes/CVs and cover letters in English by default. Use French only when the job offer itself is written in French, unless the user explicitly asks for another language.
+
 ### Skill Modes
 
 | If the user... | Mode |
