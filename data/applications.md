@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 50 | 2026-05-30 | SWISS KRONO AG | Manager AI Strategy & Implementation | 3.3/5 | Discarded | ❌ | [050](reports/050-swiss-krono-2026-05-30.md) | Discarded by candidate: remote within Switzerland is possible, but role is downlevel and compensation is unlikely to meet target. |
 | 49 | 2026-05-30 | IATA | Senior Enterprise Architect | 3.9/5 | Discarded | ❌ | [049](reports/049-iata-2026-05-30.md) | Discarded by candidate: senior IC architecture role is below CTO/Head/Director target and likely below compensation target. |
 | 48 | 2026-05-30 | Atlantic Gate | Corporate IT Director | 4.2/5 | Discarded | ✅ | [048](reports/048-atlantic-gate-2026-05-30.md) | Discarded by candidate: strong fit, but compensation signal is not enough for the Corporate IT Director mandate. |
 | 47 | 2026-05-30 | Explora Journeys | Digital Platforms Manager | 3.3/5 | Discarded | ❌ | [047](reports/047-explora-journeys-2026-05-30.md) | Discarded by candidate: digital product/platform manager role is below CTO/Head/Director target and likely below comp target. |
