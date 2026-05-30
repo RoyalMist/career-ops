@@ -105,3 +105,12 @@ This file accumulates your best interview stories over time. Each evaluation (Bl
 **R (Result):** Operated a Swiss-hosted production platform with 99.95% uptime and created the foundation for continued product development, including a voice AI agent for real estate search.
 **Reflection:** Founder-stage technology work needs pragmatic architecture, customer proximity, production discipline and the courage to avoid complexity until it earns its keep.
 **Best for questions about:** CTO/co-founder fit, blank-page building, hands-on leadership, production systems, product strategy, early-stage delivery.
+
+### Field CTO - Wonderful Enterprise AI Presales
+**Source:** Report #053 - Anthropic - Solutions Architect, Applied AI
+**S (Situation):** Swiss enterprise prospects needed to understand whether an AI platform could create business value in regulated and operationally complex environments.
+**T (Task):** Translate AI platform capabilities into credible adoption paths for both executive and technical audiences.
+**A (Action):** Led technical demonstrations of AI agent workflows, RAG, voice AI, automation pipelines and integration patterns; connected customer needs to platform capabilities and adoption planning.
+**R (Result):** Opened strategic enterprise discussions and created a practical bridge between AI product capabilities, business value and technical deployment.
+**Reflection:** Field CTO work is valuable when it reduces uncertainty for both buyers and implementers; the strongest demos connect architecture, workflow fit, risk and measurable adoption.
+**Best for questions about:** Field CTO fit, enterprise AI presales, Solutions Architect roles, executive communication, Claude adoption, technical discovery, customer workshops.

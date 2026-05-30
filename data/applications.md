@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 53 | 2026-05-30 | Anthropic | Solutions Architect, Applied AI | 4.1/5 | Discarded | ❌ | [053](reports/053-anthropic-2026-05-30.md) | Discarded by candidate: German C1/native requirement and likely Swiss-German customer presence make the role impractical despite strong Field CTO / Applied AI fit. |
 | 52 | 2026-05-30 | Our Common Home | Fractional IT Manager | 2.5/5 | Discarded | ❌ | [052](reports/052-our-common-home-2026-05-30.md) | Discarded by candidate: fresh and legitimate fractional IT support/admin mandate, but far below CTO/Head/Director target level and likely below compensation target. |
 | 51 | 2026-05-30 | Bug Bounty Switzerland | Applied AI Engineer | 3.6/5 | Discarded | ❌ | [051](reports/051-bug-bounty-switzerland-2026-05-30.md) | Discarded by candidate: technically attractive AI/security role, but hands-on IC scope, hybrid Zurich/Bern setup and likely comp/path mismatch make it low priority. |
 | 50 | 2026-05-30 | SWISS KRONO AG | Manager AI Strategy & Implementation | 3.3/5 | Discarded | ❌ | [050](reports/050-swiss-krono-2026-05-30.md) | Discarded by candidate: remote within Switzerland is possible, but role is downlevel and compensation is unlikely to meet target. |

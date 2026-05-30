@@ -76,6 +76,11 @@ Frame profile as **"Technical builder with real-world proof"** that adapts frami
 - Do **not** pursue associate/specialist community, partner engagement, event, or ecosystem operations roles, even in cybersecurity or AI-adjacent domains, unless they are explicitly Lead/Head/Director mandates with strategic ownership.
 - Do **not** over-score small-team local Head of IT roles when the team is around 5 people and the work may include hands-on infrastructure/support operations. These are only worth pursuing if compensation is clearly near the executive target, decision rights are broad, transformation scope is strategic, and the role is not mainly operational IT management.
 
+**Language / Swiss-German territory constraints:**
+- Treat roles requiring native/C1 German as practical blockers unless the posting explicitly says French/English coverage is sufficient or German is only a minor nice-to-have.
+- Deprioritize Zurich/DACH-facing customer roles that likely require frequent presence in the Swiss-German market, especially pre-sales, consulting, Field CTO, customer success, and enterprise solutions roles where German customer interaction is core to the job.
+- If a role is otherwise excellent but states native/C1 German, cap the score around **3.6/5** unless there is clear evidence the candidate can cover a French-speaking or international territory.
+
 **HR / People Analytics roles:**
 - Do **not** prioritize HR/People Analytics roles centered on Workday, Visier, HR reporting, or HR data governance unless they include broader enterprise technology, AI transformation, or executive operating-model ownership.
 
