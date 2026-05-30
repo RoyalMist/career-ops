@@ -1,11 +1,11 @@
 # Evaluation: Michael Page / Confidential -- IT Director
 
 **Date:** 2026-05-13
-**URL:** local:.base/ongoing/michael page/it director.md
+**URL:** local:_base/ongoing/michael page/it director.md
 **Archetype:** Historical archive import
 **Score:** 4.0/5 (approximate)
 **Legitimacy:** Proceed with Caution
-**PDF:** .base/ongoing/michael page/cv-it-director.pdf
+**PDF:** _base/ongoing/michael page/cv-it-director.pdf
 **Status:** Applied
 
 ---
@@ -16,21 +16,21 @@
 |---|---|
 | Company | Michael Page / Confidential |
 | Role | IT Director |
-| Source folder | [.base/ongoing/michael page](../.base/ongoing/michael page) |
-| Source JD | [it director.md](../.base/ongoing/michael page/it director.md) |
-| Archived CV/PDF | [cv-it-director.pdf](../.base/ongoing/michael page/cv-it-director.pdf) |
+| Source folder | [_base/ongoing/michael page](../_base/ongoing/michael page) |
+| Source JD | [it director.md](../_base/ongoing/michael page/it director.md) |
+| Archived CV/PDF | [cv-it-director.pdf](../_base/ongoing/michael page/cv-it-director.pdf) |
 | Tracker status | Applied |
-| Tracker note | Archived from .base/ongoing/michael page; Geneva permanent IT Director. |
+| Tracker note | Archived from _base/ongoing/michael page; Geneva permanent IT Director. |
 
 IT Director Geneva Permanent Added 11/05/2026 Product delivery IT Management About Our Client Our client is an international, privately held company operating in a data-driven digital environment. Headquartered in Geneva with teams across Europe, North America and Asia, the organisation is undergoing strong growth and product expansion. Technology plays a central role in enabling its strategy, innovation roadmap, and operational excellence. To support this growth, our client is strengthening its internal leadership team and is seeking an IT Director to own and drive the technology function end to end. Job Description The IT Director is responsible for defining, implementing, and operating the company's technology strategy in direct alignment with business objectives. This role provides leadership over software engineering, data engineering, infrastructure, and technical delivery, while ensuring scalability, reliability, and cost efficiency.
 
 ## B) Match with CV
 
-This report was generated from the historical archive in `.base/`. It preserves the application record and source job offer, but it is not a fresh A-G career-ops evaluation. The score is an approximate fit estimate based on the archived JD, canonical CV, target roles, and recorded outcome.
+This report was generated from the historical archive in `_base/`. It preserves the application record and source job offer, but it is not a fresh A-G career-ops evaluation. The score is an approximate fit estimate based on the archived JD, canonical CV, target roles, and recorded outcome.
 
 ## C) Application Material
 
-- [cover-letter.md](../.base/ongoing/michael page/cover-letter.md)
+- [cover-letter.md](../_base/ongoing/michael page/cover-letter.md)
 
 ## D) Status and Outcome
 
@@ -40,7 +40,7 @@ This report was generated from the historical archive in `.base/`. It preserves 
 
 ## E) Archived Job Offer
 
-Source: [it director.md](../.base/ongoing/michael page/it director.md)
+Source: [it director.md](../_base/ongoing/michael page/it director.md)
 
 ```markdown
 IT Director

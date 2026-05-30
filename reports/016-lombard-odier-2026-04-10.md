@@ -1,11 +1,11 @@
 # Evaluation: Lombard Odier -- Directeur / Directrice Produit - Digital and Wealth Management
 
 **Date:** 2026-04-10
-**URL:** local:.base/refused/lodh/director.md
+**URL:** local:_base/refused/lodh/director.md
 **Archetype:** Historical archive import
 **Score:** 3.7/5 (approximate)
 **Legitimacy:** Proceed with Caution
-**PDF:** .base/refused/lodh/cv-product-director.pdf
+**PDF:** _base/refused/lodh/cv-product-director.pdf
 **Status:** Rejected
 
 ---
@@ -16,9 +16,9 @@
 |---|---|
 | Company | Lombard Odier |
 | Role | Directeur / Directrice Produit - Digital and Wealth Management |
-| Source folder | [.base/refused/lodh](../.base/refused/lodh) |
-| Source JD | [director.md](../.base/refused/lodh/director.md) |
-| Archived CV/PDF | [cv-product-director.pdf](../.base/refused/lodh/cv-product-director.pdf) |
+| Source folder | [_base/refused/lodh](../_base/refused/lodh) |
+| Source JD | [director.md](../_base/refused/lodh/director.md) |
+| Archived CV/PDF | [cv-product-director.pdf](../_base/refused/lodh/cv-product-director.pdf) |
 | Tracker status | Rejected |
 | Tracker note | Rejected; feedback says too few years of management experience. |
 
@@ -26,11 +26,11 @@
 
 ## B) Match with CV
 
-This report was generated from the historical archive in `.base/`. It preserves the application record and source job offer, but it is not a fresh A-G career-ops evaluation. The score is an approximate fit estimate based on the archived JD, canonical CV, target roles, and recorded outcome.
+This report was generated from the historical archive in `_base/`. It preserves the application record and source job offer, but it is not a fresh A-G career-ops evaluation. The score is an approximate fit estimate based on the archived JD, canonical CV, target roles, and recorded outcome.
 
 ## C) Application Material
 
-- [rejection.md](../.base/refused/lodh/rejection.md)
+- [rejection.md](../_base/refused/lodh/rejection.md)
 
 ## D) Status and Outcome
 
@@ -40,7 +40,7 @@ This report was generated from the historical archive in `.base/`. It preserves 
 
 ## E) Archived Job Offer
 
-Source: [director.md](../.base/refused/lodh/director.md)
+Source: [director.md](../_base/refused/lodh/director.md)
 
 ```markdown
 ## Directeur / Directrice Produit - Digital & Wealth Management (80-100%)

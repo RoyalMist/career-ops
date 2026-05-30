@@ -1,11 +1,11 @@
 # Evaluation: Pictet Alternative Advisors -- Head of Products, Tech Client Solutions
 
 **Date:** 2026-04-19
-**URL:** local:.base/refused/pictet/head of products.md
+**URL:** local:_base/refused/pictet/head of products.md
 **Archetype:** Historical archive import
 **Score:** 3.8/5 (approximate)
 **Legitimacy:** Proceed with Caution
-**PDF:** .base/refused/pictet/cv-head-of-products.pdf
+**PDF:** _base/refused/pictet/cv-head-of-products.pdf
 **Status:** Rejected
 
 ---
@@ -16,9 +16,9 @@
 |---|---|
 | Company | Pictet Alternative Advisors |
 | Role | Head of Products, Tech Client Solutions |
-| Source folder | [.base/refused/pictet](../.base/refused/pictet) |
-| Source JD | [head of products.md](../.base/refused/pictet/head of products.md) |
-| Archived CV/PDF | [cv-head-of-products.pdf](../.base/refused/pictet/cv-head-of-products.pdf) |
+| Source folder | [_base/refused/pictet](../_base/refused/pictet) |
+| Source JD | [head of products.md](../_base/refused/pictet/head of products.md) |
+| Archived CV/PDF | [cv-head-of-products.pdf](../_base/refused/pictet/cv-head-of-products.pdf) |
 | Tracker status | Rejected |
 | Tracker note | Application not shortlisted. |
 
@@ -26,12 +26,12 @@ About the job Your team Pictet Alternative Advisors (PAA) is a leading alternati
 
 ## B) Match with CV
 
-This report was generated from the historical archive in `.base/`. It preserves the application record and source job offer, but it is not a fresh A-G career-ops evaluation. The score is an approximate fit estimate based on the archived JD, canonical CV, target roles, and recorded outcome.
+This report was generated from the historical archive in `_base/`. It preserves the application record and source job offer, but it is not a fresh A-G career-ops evaluation. The score is an approximate fit estimate based on the archived JD, canonical CV, target roles, and recorded outcome.
 
 ## C) Application Material
 
-- [cover-letter.md](../.base/refused/pictet/cover-letter.md)
-- [rejection.md](../.base/refused/pictet/rejection.md)
+- [cover-letter.md](../_base/refused/pictet/cover-letter.md)
+- [rejection.md](../_base/refused/pictet/rejection.md)
 
 ## D) Status and Outcome
 
@@ -41,7 +41,7 @@ This report was generated from the historical archive in `.base/`. It preserves 
 
 ## E) Archived Job Offer
 
-Source: [head of products.md](../.base/refused/pictet/head of products.md)
+Source: [head of products.md](../_base/refused/pictet/head of products.md)
 
 ```markdown
 About the job

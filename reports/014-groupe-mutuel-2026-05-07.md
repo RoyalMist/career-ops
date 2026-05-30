@@ -1,11 +1,11 @@
 # Evaluation: Groupe Mutuel -- Responsable Data Transformation and AI Center of Excellence
 
 **Date:** 2026-05-07
-**URL:** local:.base/refused/groupe mutuel/responsable.md
+**URL:** local:_base/refused/groupe mutuel/responsable.md
 **Archetype:** Historical archive import
 **Score:** 3.8/5 (approximate)
 **Legitimacy:** Proceed with Caution
-**PDF:** .base/refused/groupe mutuel/cv-responsable-data-ai.pdf
+**PDF:** _base/refused/groupe mutuel/cv-responsable-data-ai.pdf
 **Status:** Discarded
 
 ---
@@ -16,22 +16,22 @@
 |---|---|
 | Company | Groupe Mutuel |
 | Role | Responsable Data Transformation and AI Center of Excellence |
-| Source folder | [.base/refused/groupe mutuel](../.base/refused/groupe mutuel) |
-| Source JD | [responsable.md](../.base/refused/groupe mutuel/responsable.md) |
-| Archived CV/PDF | [cv-responsable-data-ai.pdf](../.base/refused/groupe mutuel/cv-responsable-data-ai.pdf) |
+| Source folder | [_base/refused/groupe mutuel](../_base/refused/groupe mutuel) |
+| Source JD | [responsable.md](../_base/refused/groupe mutuel/responsable.md) |
+| Archived CV/PDF | [cv-responsable-data-ai.pdf](../_base/refused/groupe mutuel/cv-responsable-data-ai.pdf) |
 | Tracker status | Discarded |
-| Tracker note | Archived from .base/refused/groupe mutuel; no response recorded. |
+| Tracker note | Archived from _base/refused/groupe mutuel; no response recorded. |
 
 Responsable Data Transformation & AI Center of Excellence (h/f) 80-100% Référence: req4020 Lausanne, VD Publié le : 06/05/2026 Retour à la Recherche En tant que Responsable Data Transformation & AI CoE, tu es l’un des piliers de la transformation Data et AI du Groupe Mutuel. Ton rôle est double : orchestrer la transformation transverse de nos départements Data afin de garantir une coordination et des synergies alignées avec nos ambitions, et piloter le Center of Excellence (CoE) IA. Tu agis en véritable facilitateur pour lever les barrières technologiques et humaines, en veillant à ce que nos ambitions en data et en intelligence artificielle se traduisent par des résultats concrets et mesurables. Intéressé/e ? Postule et fais-toi connaître de nos spécialistes en recrutement. TA MISSION Afin de garantir une coordination fluide et de maximiser les synergies, tu orchestres la transformation transverse des départements Data Tu assures l’alignement entre les initiatives Data, les enjeux métiers et les objectifs stratégiques du Groupe Tu pilotes et fais évoluer le Center of Excellence (CoE) AI mis en place, en développant un portefeuille de cas d’usage à forte valeur ajoutée avec les métiers
 
 ## B) Match with CV
 
-This report was generated from the historical archive in `.base/`. It preserves the application record and source job offer, but it is not a fresh A-G career-ops evaluation. The score is an approximate fit estimate based on the archived JD, canonical CV, target roles, and recorded outcome.
+This report was generated from the historical archive in `_base/`. It preserves the application record and source job offer, but it is not a fresh A-G career-ops evaluation. The score is an approximate fit estimate based on the archived JD, canonical CV, target roles, and recorded outcome.
 
 ## C) Application Material
 
-- [cover-letter.md](../.base/refused/groupe mutuel/cover-letter.md)
-- [rejection.md](../.base/refused/groupe mutuel/rejection.md)
+- [cover-letter.md](../_base/refused/groupe mutuel/cover-letter.md)
+- [rejection.md](../_base/refused/groupe mutuel/rejection.md)
 
 ## D) Status and Outcome
 
@@ -41,7 +41,7 @@ This report was generated from the historical archive in `.base/`. It preserves 
 
 ## E) Archived Job Offer
 
-Source: [responsable.md](../.base/refused/groupe mutuel/responsable.md)
+Source: [responsable.md](../_base/refused/groupe mutuel/responsable.md)
 
 ```markdown
 Responsable Data Transformation & AI Center of Excellence (h/f) 80-100%

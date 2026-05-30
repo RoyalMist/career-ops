@@ -1,11 +1,11 @@
 # Evaluation: Etat de Geneve / OCSIN -- Cheffe ou chef de Service - Programmes et projets metiers
 
 **Date:** 2026-05-21
-**URL:** local:.base/ongoing/ge ocsin/chef de service.md
+**URL:** local:_base/ongoing/ge ocsin/chef de service.md
 **Archetype:** Historical archive import
 **Score:** 4.0/5 (approximate)
 **Legitimacy:** Proceed with Caution
-**PDF:** .base/ongoing/ge ocsin/cv-chef-de-service.pdf
+**PDF:** _base/ongoing/ge ocsin/cv-chef-de-service.pdf
 **Status:** Applied
 
 ---
@@ -16,21 +16,21 @@
 |---|---|
 | Company | Etat de Geneve / OCSIN |
 | Role | Cheffe ou chef de Service - Programmes et projets metiers |
-| Source folder | [.base/ongoing/ge ocsin](../.base/ongoing/ge ocsin) |
-| Source JD | [chef de service.md](../.base/ongoing/ge ocsin/chef de service.md) |
-| Archived CV/PDF | [cv-chef-de-service.pdf](../.base/ongoing/ge ocsin/cv-chef-de-service.pdf) |
+| Source folder | [_base/ongoing/ge ocsin](../_base/ongoing/ge ocsin) |
+| Source JD | [chef de service.md](../_base/ongoing/ge ocsin/chef de service.md) |
+| Archived CV/PDF | [cv-chef-de-service.pdf](../_base/ongoing/ge ocsin/cv-chef-de-service.pdf) |
 | Tracker status | Applied |
-| Tracker note | Archived from .base/ongoing/ge ocsin; classe 25, 100%. |
+| Tracker note | Archived from _base/ongoing/ge ocsin; classe 25, 100%. |
 
 Cheffe ou chef de Service - Programmes et projets métiers Date de publication : 21 mai 2026 Rémunération : classe 25 Taux d'activité : 100% Type de contrat : CDI Délai d'inscription : 31.05.2026 Entrée en fonction : Dès que possible Votre mission L'office cantonal des systèmes d'information et du numérique (OCSIN) élabore et concrétise la stratégie des systèmes d'information et de communication de l'administration cantonale ainsi que la politique de sécurité de l'information. L'OCSIN esquisse les contours de la politique du numérique du Conseil d’Etat, visant à faire du canton un acteur important de la transformation de notre société, induite par l'essor du numérique. En savoir plus sur "Genève numérique". ​Son service Programmes et projets internes, au sein de la direction Performance Pilotage Projet, assure le pilotage de l'ensemble des programmes et des projets informatiques pour les métiers de l'ensemble des départements de l'adminitration publique genevoise.
 
 ## B) Match with CV
 
-This report was generated from the historical archive in `.base/`. It preserves the application record and source job offer, but it is not a fresh A-G career-ops evaluation. The score is an approximate fit estimate based on the archived JD, canonical CV, target roles, and recorded outcome.
+This report was generated from the historical archive in `_base/`. It preserves the application record and source job offer, but it is not a fresh A-G career-ops evaluation. The score is an approximate fit estimate based on the archived JD, canonical CV, target roles, and recorded outcome.
 
 ## C) Application Material
 
-- [cover-letter.md](../.base/ongoing/ge ocsin/cover-letter.md)
+- [cover-letter.md](../_base/ongoing/ge ocsin/cover-letter.md)
 
 ## D) Status and Outcome
 
@@ -40,7 +40,7 @@ This report was generated from the historical archive in `.base/`. It preserves 
 
 ## E) Archived Job Offer
 
-Source: [chef de service.md](../.base/ongoing/ge ocsin/chef de service.md)
+Source: [chef de service.md](../_base/ongoing/ge ocsin/chef de service.md)
 
 ```markdown
 Cheffe ou chef de Service - Programmes et projets métiers

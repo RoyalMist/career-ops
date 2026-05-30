@@ -64,7 +64,7 @@ AI-powered, CLI-agnostic job search automation: pipeline tracking, offer evaluat
 | `analyze-patterns.mjs` | Pattern analysis script (JSON output) |
 | `followup-cadence.mjs` | Follow-up cadence calculator (JSON output) |
 | `data/follow-ups.md` | Follow-up history tracker |
-| `.base/` | User-provided source archive: documents, previous applications, current applications, generated CVs/letters, questions, rejections |
+| `_base/` | User-provided source archive: documents, previous applications, current applications, generated CVs/letters, questions, rejections |
 | `scan.mjs` | Zero-token portal scanner — hits Greenhouse/Ashby/Lever APIs directly, zero LLM cost |
 | `check-liveness.mjs` | Job posting liveness checker |
 | `liveness-core.mjs` | Shared liveness logic (expired signals win over generic Apply text) |
@@ -227,16 +227,16 @@ Default modes are in `modes/` (English). Additional language-specific modes are 
 - `article-digest.md` has detailed proof points (optional)
 - **NEVER hardcode metrics** -- read them from these files at evaluation time
 
-### Base Archive (`.base/`)
+### Base Archive (`_base/`)
 
-`.base/` is a user-provided archive of source material and prior job-search work. It may contain:
-- `.base/documents/` -- foundational documents such as work permit, diploma, work certificates, all-experiences exports, and recruiter Q&A material
-- `.base/ongoing/` -- current application material: JDs, tailored CVs, cover letters, application answers, interview prep
-- `.base/refused/` -- previous applications and outcomes: JDs, tailored CVs, cover letters, questions, rejections, interview prep
+`_base/` is a user-provided archive of source material and prior job-search work. It may contain:
+- `_base/documents/` -- foundational documents such as work permit, diploma, work certificates, all-experiences exports, and recruiter Q&A material
+- `_base/ongoing/` -- current application material: JDs, tailored CVs, cover letters, application answers, interview prep
+- `_base/refused/` -- previous applications and outcomes: JDs, tailored CVs, cover letters, questions, rejections, interview prep
 
-**When setting up or refreshing required files, use `.base/` as input context.** Mine it to update `cv.md`, `config/profile.yml`, `modes/_profile.md`, `article-digest.md`, `interview-prep/story-bank.md`, `data/applications.md`, and `data/follow-ups.md` when relevant.
+**When setting up or refreshing required files, use `_base/` as input context.** Mine it to update `cv.md`, `config/profile.yml`, `modes/_profile.md`, `article-digest.md`, `interview-prep/story-bank.md`, `data/applications.md`, and `data/follow-ups.md` when relevant.
 
-**Do not blindly overwrite canonical files from `.base/`.** Treat `.base/` as raw source evidence. Extract stable facts, proof points, patterns, application outcomes, and reusable answers; then write cleaned, deduplicated content into the required user-layer files.
+**Do not blindly overwrite canonical files from `_base/`.** Treat `_base/` as raw source evidence. Extract stable facts, proof points, patterns, application outcomes, and reusable answers; then write cleaned, deduplicated content into the required user-layer files.
 
 ---
 

@@ -1,11 +1,11 @@
 # Evaluation: Geneve Aeroport -- Responsable de pole back-office
 
 **Date:** 2026-04-30
-**URL:** local:.base/refused/geneve aeroport/responsable pole back office.md
+**URL:** local:_base/refused/geneve aeroport/responsable pole back office.md
 **Archetype:** Historical archive import
 **Score:** 3.6/5 (approximate)
 **Legitimacy:** Proceed with Caution
-**PDF:** .base/refused/geneve aeroport/cv-responsable-pole-back-office.pdf
+**PDF:** _base/refused/geneve aeroport/cv-responsable-pole-back-office.pdf
 **Status:** Discarded
 
 ---
@@ -16,22 +16,22 @@
 |---|---|
 | Company | Geneve Aeroport |
 | Role | Responsable de pole back-office |
-| Source folder | [.base/refused/geneve aeroport](../.base/refused/geneve aeroport) |
-| Source JD | [responsable pole back office.md](../.base/refused/geneve aeroport/responsable pole back office.md) |
-| Archived CV/PDF | [cv-responsable-pole-back-office.pdf](../.base/refused/geneve aeroport/cv-responsable-pole-back-office.pdf) |
+| Source folder | [_base/refused/geneve aeroport](../_base/refused/geneve aeroport) |
+| Source JD | [responsable pole back office.md](../_base/refused/geneve aeroport/responsable pole back office.md) |
+| Archived CV/PDF | [cv-responsable-pole-back-office.pdf](../_base/refused/geneve aeroport/cv-responsable-pole-back-office.pdf) |
 | Tracker status | Discarded |
-| Tracker note | Archived from .base/refused/geneve aeroport; no response recorded. |
+| Tracker note | Archived from _base/refused/geneve aeroport; no response recorded. |
 
 Responsable de pôle back-office Vous souhaitez relever un nouveau défi dans un environnement dynamique au cœur de multiples enjeux opérationnels, techniques et humains ? Vous voulez contribuer à l’excellence d’un aéroport conscient des enjeux climatiques ? Vous avez envie de rejoindre le Service solutions métiers de la Direction Technologies en assurant la gestion de Systèmes d’Information (SI) ? Alors, ce poste est fait pour vous ! Vos responsabilités Diriger, coordonner et animer le pôle d’activités pour atteindre les objectifs fixés par la Direction Être le point de contact reconnu de la Direction Technologies pour les responsables métiers, les fournisseurs de services et de prestations, et les autres instances concernant les problématiques liés à la gestion et la digitalisation des processus finances, RH, et de la gestion de portefeuille de projet et de services Garantir la cohérence de la feuille de route applicative proposée par le pôle en intégrant les études d’évolution, les projets de transformation ainsi que les changements techniques et fonctionnels Assurer le partage des bonnes pratiques et des méthodologies entre les pôles et avec les autres services de la Direction Technologies
 
 ## B) Match with CV
 
-This report was generated from the historical archive in `.base/`. It preserves the application record and source job offer, but it is not a fresh A-G career-ops evaluation. The score is an approximate fit estimate based on the archived JD, canonical CV, target roles, and recorded outcome.
+This report was generated from the historical archive in `_base/`. It preserves the application record and source job offer, but it is not a fresh A-G career-ops evaluation. The score is an approximate fit estimate based on the archived JD, canonical CV, target roles, and recorded outcome.
 
 ## C) Application Material
 
-- [cover-letter.md](../.base/refused/geneve aeroport/cover-letter.md)
-- [rejection.md](../.base/refused/geneve aeroport/rejection.md)
+- [cover-letter.md](../_base/refused/geneve aeroport/cover-letter.md)
+- [rejection.md](../_base/refused/geneve aeroport/rejection.md)
 
 ## D) Status and Outcome
 
@@ -41,7 +41,7 @@ This report was generated from the historical archive in `.base/`. It preserves 
 
 ## E) Archived Job Offer
 
-Source: [responsable pole back office.md](../.base/refused/geneve aeroport/responsable pole back office.md)
+Source: [responsable pole back office.md](../_base/refused/geneve aeroport/responsable pole back office.md)
 
 ```markdown
 Responsable de pôle back-office

@@ -1,11 +1,11 @@
 # Evaluation: Albedis / Confidential -- Head of Digital Platform
 
 **Date:** 2026-04-21
-**URL:** local:.base/refused/albedis/head of digital platform.md
+**URL:** local:_base/refused/albedis/head of digital platform.md
 **Archetype:** Historical archive import
 **Score:** 4.0/5 (approximate)
 **Legitimacy:** Proceed with Caution
-**PDF:** .base/refused/albedis/cv-head-of-digital-platform.pdf
+**PDF:** _base/refused/albedis/cv-head-of-digital-platform.pdf
 **Status:** Rejected
 
 ---
@@ -16,9 +16,9 @@
 |---|---|
 | Company | Albedis / Confidential |
 | Role | Head of Digital Platform |
-| Source folder | [.base/refused/albedis](../.base/refused/albedis) |
-| Source JD | [head of digital platform.md](../.base/refused/albedis/head of digital platform.md) |
-| Archived CV/PDF | [cv-head-of-digital-platform.pdf](../.base/refused/albedis/cv-head-of-digital-platform.pdf) |
+| Source folder | [_base/refused/albedis](../_base/refused/albedis) |
+| Source JD | [head of digital platform.md](../_base/refused/albedis/head of digital platform.md) |
+| Archived CV/PDF | [cv-head-of-digital-platform.pdf](../_base/refused/albedis/cv-head-of-digital-platform.pdf) |
 | Tracker status | Rejected |
 | Tracker note | Rejected 2026-04-29; folder references Head of Digital Delivery INT-104577. |
 
@@ -26,11 +26,11 @@ For one of our clients in Geneva, we are looking for a senior technology executi
 
 ## B) Match with CV
 
-This report was generated from the historical archive in `.base/`. It preserves the application record and source job offer, but it is not a fresh A-G career-ops evaluation. The score is an approximate fit estimate based on the archived JD, canonical CV, target roles, and recorded outcome.
+This report was generated from the historical archive in `_base/`. It preserves the application record and source job offer, but it is not a fresh A-G career-ops evaluation. The score is an approximate fit estimate based on the archived JD, canonical CV, target roles, and recorded outcome.
 
 ## C) Application Material
 
-- [rejection.md](../.base/refused/albedis/rejection.md)
+- [rejection.md](../_base/refused/albedis/rejection.md)
 
 ## D) Status and Outcome
 
@@ -40,7 +40,7 @@ This report was generated from the historical archive in `.base/`. It preserves 
 
 ## E) Archived Job Offer
 
-Source: [head of digital platform.md](../.base/refused/albedis/head of digital platform.md)
+Source: [head of digital platform.md](../_base/refused/albedis/head of digital platform.md)
 
 ```markdown
 For one of our clients in Geneva, we are looking for a senior technology executive to take ownership of a digital platform portfolio and manage high-calibre teams.

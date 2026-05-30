@@ -1,7 +1,7 @@
 # Evaluation: Lombard Odier -- CTO
 
 **Date:** 2026-04-11
-**URL:** local:.base/refused/lodh/cto.md
+**URL:** local:_base/refused/lodh/cto.md
 **Archetype:** Historical archive import
 **Score:** 3.9/5 (approximate)
 **Legitimacy:** Proceed with Caution
@@ -16,8 +16,8 @@
 |---|---|
 | Company | Lombard Odier |
 | Role | CTO |
-| Source folder | [.base/refused/lodh](../.base/refused/lodh) |
-| Source JD | [cto.md](../.base/refused/lodh/cto.md) |
+| Source folder | [_base/refused/lodh](../_base/refused/lodh) |
+| Source JD | [cto.md](../_base/refused/lodh/cto.md) |
 | Archived CV/PDF | not available |
 | Tracker status | Rejected |
 | Tracker note | Rejected; feedback says preference for a London-based candidate. |
@@ -26,11 +26,11 @@ locations Geneva London time type Full time posted on Posted 4 Days Ago time lef
 
 ## B) Match with CV
 
-This report was generated from the historical archive in `.base/`. It preserves the application record and source job offer, but it is not a fresh A-G career-ops evaluation. The score is an approximate fit estimate based on the archived JD, canonical CV, target roles, and recorded outcome.
+This report was generated from the historical archive in `_base/`. It preserves the application record and source job offer, but it is not a fresh A-G career-ops evaluation. The score is an approximate fit estimate based on the archived JD, canonical CV, target roles, and recorded outcome.
 
 ## C) Application Material
 
-- [rejection.md](../.base/refused/lodh/rejection.md)
+- [rejection.md](../_base/refused/lodh/rejection.md)
 
 ## D) Status and Outcome
 
@@ -40,7 +40,7 @@ This report was generated from the historical archive in `.base/`. It preserves 
 
 ## E) Archived Job Offer
 
-Source: [cto.md](../.base/refused/lodh/cto.md)
+Source: [cto.md](../_base/refused/lodh/cto.md)
 
 ```markdown
 locations

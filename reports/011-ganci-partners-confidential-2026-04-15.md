@@ -1,11 +1,11 @@
 # Evaluation: Ganci Partners / Confidential -- Senior Global IT Director
 
 **Date:** 2026-04-15
-**URL:** local:.base/refused/ganci partners/senior global it director.md
+**URL:** local:_base/refused/ganci partners/senior global it director.md
 **Archetype:** Historical archive import
 **Score:** 4.0/5 (approximate)
 **Legitimacy:** Proceed with Caution
-**PDF:** .base/refused/ganci partners/cv-senior-global-it-director.pdf
+**PDF:** _base/refused/ganci partners/cv-senior-global-it-director.pdf
 **Status:** Rejected
 
 ---
@@ -16,9 +16,9 @@
 |---|---|
 | Company | Ganci Partners / Confidential |
 | Role | Senior Global IT Director |
-| Source folder | [.base/refused/ganci partners](../.base/refused/ganci partners) |
-| Source JD | [senior global it director.md](../.base/refused/ganci partners/senior global it director.md) |
-| Archived CV/PDF | [cv-senior-global-it-director.pdf](../.base/refused/ganci partners/cv-senior-global-it-director.pdf) |
+| Source folder | [_base/refused/ganci partners](../_base/refused/ganci partners) |
+| Source JD | [senior global it director.md](../_base/refused/ganci partners/senior global it director.md) |
+| Archived CV/PDF | [cv-senior-global-it-director.pdf](../_base/refused/ganci partners/cv-senior-global-it-director.pdf) |
 | Tracker status | Rejected |
 | Tracker note | Rejected 2026-04-23; agro-commodities global IT role. |
 
@@ -26,11 +26,11 @@ An international company operating in the agro-commodities sector is seeking its
 
 ## B) Match with CV
 
-This report was generated from the historical archive in `.base/`. It preserves the application record and source job offer, but it is not a fresh A-G career-ops evaluation. The score is an approximate fit estimate based on the archived JD, canonical CV, target roles, and recorded outcome.
+This report was generated from the historical archive in `_base/`. It preserves the application record and source job offer, but it is not a fresh A-G career-ops evaluation. The score is an approximate fit estimate based on the archived JD, canonical CV, target roles, and recorded outcome.
 
 ## C) Application Material
 
-- [rejection.md](../.base/refused/ganci partners/rejection.md)
+- [rejection.md](../_base/refused/ganci partners/rejection.md)
 
 ## D) Status and Outcome
 
@@ -40,7 +40,7 @@ This report was generated from the historical archive in `.base/`. It preserves 
 
 ## E) Archived Job Offer
 
-Source: [senior global it director.md](../.base/refused/ganci partners/senior global it director.md)
+Source: [senior global it director.md](../_base/refused/ganci partners/senior global it director.md)
 
 ```markdown
 An international company operating in the agro-commodities sector is seeking its future Senior Global IT Director.

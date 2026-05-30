@@ -1,11 +1,11 @@
 # Evaluation: Neural Concept -- VP of Engineering
 
 **Date:** 2026-04-15
-**URL:** local:.base/refused/neural concept/vp engineering.md
+**URL:** local:_base/refused/neural concept/vp engineering.md
 **Archetype:** Historical archive import
 **Score:** 4.0/5 (approximate)
 **Legitimacy:** Proceed with Caution
-**PDF:** .base/refused/neural concept/cv-vp-engineering.pdf
+**PDF:** _base/refused/neural concept/cv-vp-engineering.pdf
 **Status:** Discarded
 
 ---
@@ -16,22 +16,22 @@
 |---|---|
 | Company | Neural Concept |
 | Role | VP of Engineering |
-| Source folder | [.base/refused/neural concept](../.base/refused/neural concept) |
-| Source JD | [vp engineering.md](../.base/refused/neural concept/vp engineering.md) |
-| Archived CV/PDF | [cv-vp-engineering.pdf](../.base/refused/neural concept/cv-vp-engineering.pdf) |
+| Source folder | [_base/refused/neural concept](../_base/refused/neural concept) |
+| Source JD | [vp engineering.md](../_base/refused/neural concept/vp engineering.md) |
+| Archived CV/PDF | [cv-vp-engineering.pdf](../_base/refused/neural concept/cv-vp-engineering.pdf) |
 | Tracker status | Discarded |
-| Tracker note | Archived from .base/refused/neural concept; no response recorded. |
+| Tracker note | Archived from _base/refused/neural concept; no response recorded. |
 
 About the job About The Role As VP of Engineering, you will be responsible for building, scaling, and operating a high-performing software engineering organization capable of reliably delivering Neural Concept’s ambitious product and technology roadmap. You will turn product vision into software reality, while ensuring our teams and culture scale sustainably — in quality, velocity, and people development. What You Will Do Own engineering execution and delivery Ensure predictable, high-quality delivery across product and platform initiatives Translate product and technical strategy into realistic plans, milestones, and commitments Identify risks early and manage trade-offs transparently Structure the engineering organization
 
 ## B) Match with CV
 
-This report was generated from the historical archive in `.base/`. It preserves the application record and source job offer, but it is not a fresh A-G career-ops evaluation. The score is an approximate fit estimate based on the archived JD, canonical CV, target roles, and recorded outcome.
+This report was generated from the historical archive in `_base/`. It preserves the application record and source job offer, but it is not a fresh A-G career-ops evaluation. The score is an approximate fit estimate based on the archived JD, canonical CV, target roles, and recorded outcome.
 
 ## C) Application Material
 
-- [questions.md](../.base/refused/neural concept/questions.md)
-- [rejection.md](../.base/refused/neural concept/rejection.md)
+- [questions.md](../_base/refused/neural concept/questions.md)
+- [rejection.md](../_base/refused/neural concept/rejection.md)
 
 ## D) Status and Outcome
 
@@ -41,7 +41,7 @@ This report was generated from the historical archive in `.base/`. It preserves 
 
 ## E) Archived Job Offer
 
-Source: [vp engineering.md](../.base/refused/neural concept/vp engineering.md)
+Source: [vp engineering.md](../_base/refused/neural concept/vp engineering.md)
 
 ```markdown
 About the job

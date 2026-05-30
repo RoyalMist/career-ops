@@ -6,6 +6,7 @@
 **Score:** 4.0/5
 **Legitimacy:** Proceed with Caution
 **PDF:** output/cv-thibault-fouache-lb-recrutement-confidential-fr-2026-05-30.pdf; output/cover-letter-thibault-fouache-lb-recrutement-confidential-fr-2026-05-30.pdf
+**Decision:** Applied by candidate on 2026-05-30 - strong Geneva Head of IT fit across ERP, cloud, cyber, SLA, budget, and transformation; qualify hidden client, team size, ERP scope, and compensation early.
 
 ---
 

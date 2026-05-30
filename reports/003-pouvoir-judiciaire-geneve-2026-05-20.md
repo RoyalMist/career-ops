@@ -1,11 +1,11 @@
 # Evaluation: Pouvoir judiciaire Geneve -- Architecte et conseiller strategique en Intelligence Artificielle
 
 **Date:** 2026-05-20
-**URL:** local:.base/ongoing/ge justice/architecte IA.md
+**URL:** local:_base/ongoing/ge justice/architecte IA.md
 **Archetype:** Historical archive import
 **Score:** 4.2/5 (approximate)
 **Legitimacy:** Proceed with Caution
-**PDF:** .base/ongoing/ge justice/cv-architecte-ia.pdf
+**PDF:** _base/ongoing/ge justice/cv-architecte-ia.pdf
 **Status:** Applied
 
 ---
@@ -16,21 +16,21 @@
 |---|---|
 | Company | Pouvoir judiciaire Geneve |
 | Role | Architecte et conseiller strategique en Intelligence Artificielle |
-| Source folder | [.base/ongoing/ge justice](../.base/ongoing/ge justice) |
-| Source JD | [architecte IA.md](../.base/ongoing/ge justice/architecte IA.md) |
-| Archived CV/PDF | [cv-architecte-ia.pdf](../.base/ongoing/ge justice/cv-architecte-ia.pdf) |
+| Source folder | [_base/ongoing/ge justice](../_base/ongoing/ge justice) |
+| Source JD | [architecte IA.md](../_base/ongoing/ge justice/architecte IA.md) |
+| Archived CV/PDF | [cv-architecte-ia.pdf](../_base/ongoing/ge justice/cv-architecte-ia.pdf) |
 | Tracker status | Applied |
-| Tracker note | Archived from .base/ongoing/ge justice; classe 23, 100%. |
+| Tracker note | Archived from _base/ongoing/ge justice; classe 23, 100%. |
 
 Architecte et conseillère ou conseiller stratégique en Intelligence Artificielle (IA) pour l’institution judiciaire (Conseiller ou conseillère en organisation de l’information) Date de publication : 12 mai 2026 Rémunération : classe 23 Taux d'activité : 100% Type de contrat : CDI Délai d'inscription : 02.06.2026 Entrée en fonction : 01.09.2026 Votre mission Le Pouvoir judiciaire est le troisième pouvoir de l'Etat. Séparé des pouvoirs législatif et exécutif, il remplit sa mission en toute indépendance, dispose de sa propre administration et est un employeur autonome. Il réunit l'ensemble des autorités judiciaires du canton et comprend 170 magistrates et magistrats titulaires, 850 membres du personnel administratif et scientifique et quelque 600 magistrates et magistrats non titulaires. Intégrant le pôle d'architecture et de sécurité de la direction des systèmes d'information (DSI), dont la mission est d'assurer la qualité, la disponibilité, la sécurité et l'évolutivité des systèmes d'information du Pouvoir judiciaire, vous jouerez un rôle central dans la transition numérique de l'institution et, plus particulièrement, dans l'intégration progressive de l'intelligence artificielle dans les processus de travail des juridictions et directions de support. Vous contribuerez de manière déterminante à la définition de la stratégie du Pouvoir judiciaire dans ce domaine et, à cette fin, à l'identification et à la priorisation des cas et modalités d'utilisation de l'IA dans les juridictions, notamment pour enrichir les outils d'aide à la rédaction des décisions judiciaires, à l'instruction des procédures, à la recherche jurisprudentielle et doctrinale et à la gestion administrative des procédures, tout en tenant compte des spécificités induites par le secret des procédures et les exigences de sécurité, d'intégrité et de confidentialité des données. Vous agirez de même à l'attention des directions et processus de support.
 
 ## B) Match with CV
 
-This report was generated from the historical archive in `.base/`. It preserves the application record and source job offer, but it is not a fresh A-G career-ops evaluation. The score is an approximate fit estimate based on the archived JD, canonical CV, target roles, and recorded outcome.
+This report was generated from the historical archive in `_base/`. It preserves the application record and source job offer, but it is not a fresh A-G career-ops evaluation. The score is an approximate fit estimate based on the archived JD, canonical CV, target roles, and recorded outcome.
 
 ## C) Application Material
 
-- [cover-letter.md](../.base/ongoing/ge justice/cover-letter.md)
+- [cover-letter.md](../_base/ongoing/ge justice/cover-letter.md)
 
 ## D) Status and Outcome
 
@@ -40,7 +40,7 @@ This report was generated from the historical archive in `.base/`. It preserves 
 
 ## E) Archived Job Offer
 
-Source: [architecte IA.md](../.base/ongoing/ge justice/architecte IA.md)
+Source: [architecte IA.md](../_base/ongoing/ge justice/architecte IA.md)
 
 ```markdown
 Architecte et conseillère ou conseiller stratégique en Intelligence Artificielle (IA) pour l’institution judiciaire (Conseiller ou conseillère en organisation de l’information)
