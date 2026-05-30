@@ -96,3 +96,12 @@ This file accumulates your best interview stories over time. Each evaluation (Bl
 **R (Result):** Improved development foundations and created more consistent engineering practices across internal application teams.
 **Reflection:** Engineering quality improves when teams get useful defaults, shared tooling, and standards that reduce friction instead of adding ceremony.
 **Best for questions about:** code quality, CI/CD, developer tooling, engineering standards, testing culture, software factory, Sonar-style product relevance.
+
+### Founder Build - Bazzile First Production Version
+**Source:** Report #036 - granular - CTO and Co-Founder
+**S (Situation):** Bazzile needed a first production version of a real estate mobile application business in Switzerland.
+**T (Task):** Own product and technology from blank page through production, covering architecture, backend, APIs, cloud, mobile delivery, and AI-enabled product work.
+**A (Action):** Built the first production version end-to-end with Elixir/Phoenix, PostgreSQL, APIs, mobile delivery and production infrastructure; led a small multidisciplinary team and external providers.
+**R (Result):** Operated a Swiss-hosted production platform with 99.95% uptime and created the foundation for continued product development, including a voice AI agent for real estate search.
+**Reflection:** Founder-stage technology work needs pragmatic architecture, customer proximity, production discipline and the courage to avoid complexity until it earns its keep.
+**Best for questions about:** CTO/co-founder fit, blank-page building, hands-on leadership, production systems, product strategy, early-stage delivery.

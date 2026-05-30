@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 36 | 2026-05-30 | granular | CTO and Co-Founder | 3.3/5 | Evaluated | ❌ | [036](reports/036-granular-2026-05-30.md) | Interesting Swiss AI finance product, but poor fit as written because it expects hands-on founder CTO work in an apparently chosen TypeScript/Python stack; only discuss if CTO has real architecture/product authority. |
 | 35 | 2026-05-30 | Sonar | Engineering Manager | 3.6/5 | Evaluated | ❌ | [035](reports/035-sonar-2026-05-30.md) | Active Geneva EM role in attractive AI code verification domain, but squad-level scope and likely CHF 170k-210k comp are below Head/Director target; apply only with a strategic reason. |
 | 34 | 2026-05-30 | World Economic Forum | Community Specialist, Centre for Cybersecurity | 2.6/5 | Evaluated | ❌ | [034](reports/034-world-economic-forum-2026-05-30.md) | Active and legitimate Geneva cybersecurity community role, but associate-level 3-5 year partner operations scope is far below CTO/Head of IT target; do not apply. |
 | 33 | 2026-05-30 | LB Recrutement / Confidential | Responsable des technologies de l'information | 4.0/5 | Evaluated | ✅ | [033](reports/033-lb-recrutement-confidential-2026-05-30.md) | Strong Geneva Head of IT fit across ERP, cloud, cyber, SLA, budget, and transformation; qualify hidden client, team size, ERP scope, and comp before applying. |

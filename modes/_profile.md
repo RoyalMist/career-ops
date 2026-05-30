@@ -58,6 +58,14 @@ Use the candidate's exit story from `config/profile.yml` to frame ALL content:
 
 Frame profile as **"Technical builder with real-world proof"** that adapts framing to the role.
 
+## Your Role Preferences and Deal-Breakers
+
+**Founder / CTO roles:**
+- Do **not** prioritize CTO/co-founder roles where the stack has already been chosen and the main expectation is hands-on implementation in that predetermined stack.
+- Founder CTO roles are attractive only when the candidate has real authority over architecture, product/technology strategy, team design, build-vs-buy decisions, security posture, and engineering operating model.
+- If a posting asks for a hands-on founder CTO in a specific stack that is already set, cap the score around **3.3/5** unless there is clear evidence of broad CTO decision rights, meaningful founder economics, and freedom to revisit architectural choices.
+- If the role is effectively "founding engineer with CTO title", score it as a poor fit even if the company/domain is interesting.
+
 ## Your Portfolio / Demo
 
 <!-- If you have a live demo, dashboard, or public project:
