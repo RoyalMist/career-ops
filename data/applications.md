@@ -4,32 +4,32 @@
 |---|------|---------|------|-------|--------|-----|--------|-------|
 | 2 | 2026-05-30 | EPFL | Directeur.trice du domaine des systemes d'information de l'EPFL | 4.2/5 | Evaluated | ✅ | [002](reports/002-epfl-2026-05-30.md) | Strong Swiss CIO/CTO fit in Lausanne; apply, but address 160 ETP/MCHF 50 scale and academic governance directly. |
 | 1 | 2026-05-29 | MSC / TIL | Director of Technology | 4.1/5 | Evaluated | ✅ | [001](reports/001-msc-til-2026-05-29.md) | Strong executive technology fit in Geneva; apply, but address the ports/terminals domain gap directly. |
-| 6 | 2026-05-27 | Options Group / Confidential | Head of Compliance, Ops and Audit Technology | N/A | Applied | ✅ | - | Archived from .base/ongoing/options group; commodity trading technology role. |
-| 4 | 2026-05-21 | Etat de Geneve / OCSIN | Cheffe ou chef de Service - Programmes et projets metiers | N/A | Applied | ✅ | - | Archived from .base/ongoing/ge ocsin; classe 25, 100%. |
-| 3 | 2026-05-20 | Pouvoir judiciaire Geneve | Architecte et conseiller strategique en Intelligence Artificielle | N/A | Applied | ✅ | - | Archived from .base/ongoing/ge justice; classe 23, 100%. |
-| 5 | 2026-05-13 | Michael Page / Confidential | IT Director | N/A | Applied | ✅ | - | Archived from .base/ongoing/michael page; Geneva permanent IT Director. |
-| 28 | 2026-05-07 | Ripple | Manager, Software Engineering | N/A | Rejected | ✅ | - | Rejected; candidates more closely aligned with role needs. |
-| 14 | 2026-05-07 | Groupe Mutuel | Responsable Data Transformation and AI Center of Excellence | N/A | Discarded | ✅ | - | Archived from .base/refused/groupe mutuel; no response recorded. |
-| 25 | 2026-05-03 | PMI | Sr. Manager R&D Architecture | N/A | Discarded | ✅ | - | Archived from .base/refused/pmi; no response recorded. |
-| 18 | 2026-05-01 | Mirabaud | Head of IT - Asset Management | N/A | Discarded | ✅ | - | Archived from .base/refused/mirabaud; no response recorded. |
-| 19 | 2026-04-30 | Mistral AI | Founder in Residence | N/A | Discarded | ✅ | - | Archived from .base/refused/mistral; no response recorded. |
-| 12 | 2026-04-30 | Geneve Aeroport | Responsable de pole back-office | N/A | Discarded | ✅ | - | Archived from .base/refused/geneve aeroport; no response recorded. |
-| 8 | 2026-04-29 | BCV | Architecte logiciel expert | N/A | Discarded | ✅ | - | Archived from .base/refused/bcv; no response recorded. |
-| 29 | 2026-04-25 | RogerHR | AI Chief of Staff | N/A | Rejected | ✅ | - | Rejected; role was more junior than profile. |
-| 24 | 2026-04-24 | Pipekit | Head of Engineering | N/A | Discarded | ✅ | - | Archived from .base/refused/pipekit; interview prep dated 2026-04-29, no final response recorded. |
-| 31 | 2026-04-21 | Talan | AI Engineering Lead | N/A | Discarded | ✅ | - | Candidate declined after process; proposal noted as 150k CHF base plus 30k CHF max bonus. |
-| 7 | 2026-04-21 | Albedis / Confidential | Head of Digital Platform | N/A | Rejected | ✅ | - | Rejected 2026-04-29; folder references Head of Digital Delivery INT-104577. |
-| 23 | 2026-04-19 | Pictet Alternative Advisors | Head of Products, Tech Client Solutions | N/A | Rejected | ✅ | - | Application not shortlisted. |
-| 22 | 2026-04-15 | Overstory | CTO | N/A | Discarded | ✅ | - | Archived from .base/refused/overstory; no response recorded. |
-| 21 | 2026-04-15 | Neural Concept | VP of Engineering | N/A | Discarded | ✅ | - | Archived from .base/refused/neural concept; no response recorded. |
-| 13 | 2026-04-15 | Gold Avenue | Senior Engineering Manager Backend | N/A | Discarded | ✅ | - | Archived from .base/refused/gold avenue; no response recorded. |
-| 11 | 2026-04-15 | Ganci Partners / Confidential | Senior Global IT Director | N/A | Rejected | ✅ | - | Rejected 2026-04-23; agro-commodities global IT role. |
-| 10 | 2026-04-15 | EY | Director - Technology Consulting - Geneva Hub Lead | N/A | Rejected | ✅ | - | Rejected by EY; requisition 1660864. |
-| 20 | 2026-04-14 | moOngy / Near.U | Chief Technology Officer | N/A | Rejected | ✅ | - | Rejected; stronger matched candidates selected. |
-| 17 | 2026-04-11 | Lombard Odier | CTO | N/A | Rejected | ❌ | - | Rejected; feedback says preference for a London-based candidate. |
-| 30 | 2026-04-10 | Sonar | VP of Engineering | N/A | Rejected | ✅ | - | Rejected; profile did not match team needs for this role. |
-| 16 | 2026-04-10 | Lombard Odier | Directeur / Directrice Produit - Digital and Wealth Management | N/A | Rejected | ✅ | - | Rejected; feedback says too few years of management experience. |
-| 15 | 2026-04-10 | J. Safra Sarasin | Head Artificial Intelligence | N/A | Rejected | ✅ | - | Rejected after high applicant interest. |
-| 27 | 2026-04-04 | qiibee | Head of AI and Automation | N/A | Rejected | ✅ | - | Rejected; other applicants better matched requirements. |
-| 26 | 2026-04-03 | Proton | Engineering Director | N/A | Rejected | ✅ | - | Rejected; other applications more closely matched current needs. |
-| 9 | 2026-04-03 | BCP / Experis | Head of IT | N/A | Rejected | ✅ | - | Archived from .base/refused/experis; note says role was for bcp.bank and someone was found. |
+| 6 | 2026-05-27 | Options Group / Confidential | Head of Compliance, Ops and Audit Technology | 3.8/5 | Applied | ✅ | [006](reports/006-options-group-confidential-2026-05-27.md) | Approx score from archive import. Archived from .base/ongoing/options group; commodity trading technology role. |
+| 4 | 2026-05-21 | Etat de Geneve / OCSIN | Cheffe ou chef de Service - Programmes et projets metiers | 4.0/5 | Applied | ✅ | [004](reports/004-etat-de-geneve-ocsin-2026-05-21.md) | Approx score from archive import. Archived from .base/ongoing/ge ocsin; classe 25, 100%. |
+| 3 | 2026-05-20 | Pouvoir judiciaire Geneve | Architecte et conseiller strategique en Intelligence Artificielle | 4.2/5 | Applied | ✅ | [003](reports/003-pouvoir-judiciaire-geneve-2026-05-20.md) | Approx score from archive import. Archived from .base/ongoing/ge justice; classe 23, 100%. |
+| 5 | 2026-05-13 | Michael Page / Confidential | IT Director | 4.0/5 | Applied | ✅ | [005](reports/005-michael-page-confidential-2026-05-13.md) | Approx score from archive import. Archived from .base/ongoing/michael page; Geneva permanent IT Director. |
+| 28 | 2026-05-07 | Ripple | Manager, Software Engineering | 3.8/5 | Rejected | ✅ | [028](reports/028-ripple-2026-05-07.md) | Approx score from archive import. Rejected; candidates more closely aligned with role needs. |
+| 14 | 2026-05-07 | Groupe Mutuel | Responsable Data Transformation and AI Center of Excellence | 3.8/5 | Discarded | ✅ | [014](reports/014-groupe-mutuel-2026-05-07.md) | Approx score from archive import. Archived from .base/refused/groupe mutuel; no response recorded. |
+| 25 | 2026-05-03 | PMI | Sr. Manager R&D Architecture | 3.7/5 | Discarded | ✅ | [025](reports/025-pmi-2026-05-03.md) | Approx score from archive import. Archived from .base/refused/pmi; no response recorded. |
+| 18 | 2026-05-01 | Mirabaud | Head of IT - Asset Management | 4.2/5 | Discarded | ✅ | [018](reports/018-mirabaud-2026-05-01.md) | Approx score from archive import. Archived from .base/refused/mirabaud; no response recorded. |
+| 19 | 2026-04-30 | Mistral AI | Founder in Residence | 4.1/5 | Discarded | ✅ | [019](reports/019-mistral-ai-2026-04-30.md) | Approx score from archive import. Archived from .base/refused/mistral; no response recorded. |
+| 12 | 2026-04-30 | Geneve Aeroport | Responsable de pole back-office | 3.6/5 | Discarded | ✅ | [012](reports/012-geneve-aeroport-2026-04-30.md) | Approx score from archive import. Archived from .base/refused/geneve aeroport; no response recorded. |
+| 8 | 2026-04-29 | BCV | Architecte logiciel expert | 3.6/5 | Discarded | ✅ | [008](reports/008-bcv-2026-04-29.md) | Approx score from archive import. Archived from .base/refused/bcv; no response recorded. |
+| 29 | 2026-04-25 | RogerHR | AI Chief of Staff | 3.4/5 | Rejected | ✅ | [029](reports/029-rogerhr-2026-04-25.md) | Approx score from archive import. Rejected; role was more junior than profile. |
+| 24 | 2026-04-24 | Pipekit | Head of Engineering | 3.8/5 | Discarded | ✅ | [024](reports/024-pipekit-2026-04-24.md) | Approx score from archive import. Archived from .base/refused/pipekit; interview prep dated 2026-04-29, no final response recorded. |
+| 31 | 2026-04-21 | Talan | AI Engineering Lead | 3.9/5 | Discarded | ✅ | [031](reports/031-talan-2026-04-21.md) | Approx score from archive import. Candidate declined after process; proposal noted as 150k CHF base plus 30k CHF max bonus. |
+| 7 | 2026-04-21 | Albedis / Confidential | Head of Digital Platform | 4.0/5 | Rejected | ✅ | [007](reports/007-albedis-confidential-2026-04-21.md) | Approx score from archive import. Rejected 2026-04-29; folder references Head of Digital Delivery INT-104577. |
+| 23 | 2026-04-19 | Pictet Alternative Advisors | Head of Products, Tech Client Solutions | 3.8/5 | Rejected | ✅ | [023](reports/023-pictet-alternative-advisors-2026-04-19.md) | Approx score from archive import. Application not shortlisted. |
+| 22 | 2026-04-15 | Overstory | CTO | 3.6/5 | Discarded | ✅ | [022](reports/022-overstory-2026-04-15.md) | Approx score from archive import. Archived from .base/refused/overstory; no response recorded. |
+| 21 | 2026-04-15 | Neural Concept | VP of Engineering | 4.0/5 | Discarded | ✅ | [021](reports/021-neural-concept-2026-04-15.md) | Approx score from archive import. Archived from .base/refused/neural concept; no response recorded. |
+| 13 | 2026-04-15 | Gold Avenue | Senior Engineering Manager Backend | 3.5/5 | Discarded | ✅ | [013](reports/013-gold-avenue-2026-04-15.md) | Approx score from archive import. Archived from .base/refused/gold avenue; no response recorded. |
+| 11 | 2026-04-15 | Ganci Partners / Confidential | Senior Global IT Director | 4.0/5 | Rejected | ✅ | [011](reports/011-ganci-partners-confidential-2026-04-15.md) | Approx score from archive import. Rejected 2026-04-23; agro-commodities global IT role. |
+| 10 | 2026-04-15 | EY | Director - Technology Consulting - Geneva Hub Lead | 4.1/5 | Rejected | ✅ | [010](reports/010-ey-2026-04-15.md) | Approx score from archive import. Rejected by EY; requisition 1660864. |
+| 20 | 2026-04-14 | moOngy / Near.U | Chief Technology Officer | 4.0/5 | Rejected | ✅ | [020](reports/020-moongy-near-u-2026-04-14.md) | Approx score from archive import. Rejected; stronger matched candidates selected. |
+| 17 | 2026-04-11 | Lombard Odier | CTO | 3.9/5 | Rejected | ❌ | [017](reports/017-lombard-odier-2026-04-11.md) | Approx score from archive import. Rejected; feedback says preference for a London-based candidate. |
+| 30 | 2026-04-10 | Sonar | VP of Engineering | 3.7/5 | Rejected | ✅ | [030](reports/030-sonar-2026-04-10.md) | Approx score from archive import. Rejected; profile did not match team needs for this role. |
+| 16 | 2026-04-10 | Lombard Odier | Directeur / Directrice Produit - Digital and Wealth Management | 3.7/5 | Rejected | ✅ | [016](reports/016-lombard-odier-2026-04-10.md) | Approx score from archive import. Rejected; feedback says too few years of management experience. |
+| 15 | 2026-04-10 | J. Safra Sarasin | Head Artificial Intelligence | 4.0/5 | Rejected | ✅ | [015](reports/015-j-safra-sarasin-2026-04-10.md) | Approx score from archive import. Rejected after high applicant interest. |
+| 27 | 2026-04-04 | qiibee | Head of AI and Automation | 4.0/5 | Rejected | ✅ | [027](reports/027-qiibee-2026-04-04.md) | Approx score from archive import. Rejected; other applicants better matched requirements. |
+| 26 | 2026-04-03 | Proton | Engineering Director | 3.6/5 | Rejected | ✅ | [026](reports/026-proton-2026-04-03.md) | Approx score from archive import. Rejected; other applications more closely matched current needs. |
+| 9 | 2026-04-03 | BCP / Experis | Head of IT | 4.0/5 | Rejected | ✅ | [009](reports/009-bcp-experis-2026-04-03.md) | Approx score from archive import. Archived from .base/refused/experis; note says role was for bcp.bank and someone was found. |
