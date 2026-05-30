@@ -78,3 +78,12 @@ This file accumulates your best interview stories over time. Each evaluation (Bl
 **R (Result):** Led up to 50 professionals and achieved 90-96% team satisfaction through transparent ownership, coaching, and squad autonomy.
 **Reflection:** People metrics become useful when they are tied to operating changes that teams can feel in daily work.
 **Best for questions about:** people analytics adjacency, organization design, team health, management operating model, executive workforce insights.
+
+### Industry Systems - Glencore Commodity Trade Rewrite
+**Source:** Report #033 - LB Recrutement / Confidential - Responsable des technologies de l'information
+**S (Situation):** Glencore was rewriting a commodity trade system used by business users with operational constraints.
+**T (Task):** Capture trader needs and contribute architecture and delivery practices in a commodity trading environment.
+**A (Action):** Worked with trader requirements, applied TDD and Scrum, integrated a new front-end build system into an existing Java stack, built Spring Boot and Angular applications, and migrated a Forex application to new server standards.
+**R (Result):** Delivered practical architecture and implementation work in a supply-chain-adjacent commodity trading context.
+**Reflection:** Industrial and supply-chain systems require fast domain learning, respect for operational workflows, and technical choices that do not disrupt business continuity.
+**Best for questions about:** industry/supply-chain adjacency, ERP/core systems, business process understanding, operational systems, domain ramp-up.
