@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 44 | 2026-05-30 | DEPT | Head of Engineering | 3.8/5 | Discarded | ❌ | [044](reports/044-dept-2026-05-30.md) | Discarded by candidate: relevant Head of Engineering and AI-driven development scope, but 7-9 person agency team, German requirement, Zurich/Bern hybrid setup and likely comp ceiling make it weaker than CTO/VP/Director targets. |
 | 43 | 2026-05-30 | Deloitte | Manager - Artificial Intelligence & Data - AI Strategy | 3.6/5 | Discarded | ❌ | [043](reports/043-deloitte-2026-05-30.md) | Discarded by candidate: relevant AI strategy content, but Manager-level consulting is below target CTO/Field CTO/VP Engineering/Director lane and likely below comp target. |
 | 42 | 2026-05-30 | Luxtelligence | Chief Executive Officer | 3.2/5 | Discarded | ❌ | [042](reports/042-luxtelligence-2026-05-30.md) | Discarded by candidate: not going forward; CEO/fundraising/commercial photonics hardware mandate is outside the target CTO/Field CTO/VP Engineering lane. |
 | 41 | 2026-05-30 | Visium | AI Engineering Director | 3.4/5 | Discarded | ❌ | [041](reports/041-visium-2026-05-30.md) | Discarded by candidate: Zurich full-time/no remote is a work-mode blocker despite strong AI transformation and client-delivery fit. |
