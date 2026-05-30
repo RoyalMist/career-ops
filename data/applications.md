@@ -45,7 +45,7 @@
 | 25 | 2026-05-03 | PMI | Sr. Manager R&D Architecture | 3.7/5 | Discarded | ✅ | [025](reports/025-pmi-2026-05-03.md) | Approx score from archive import. Archived from _base/refused/pmi; no response recorded. |
 | 18 | 2026-05-31 | Mirabaud | Head of IT - Asset Management | 4.2/5 | Applied | ✅ | [018](reports/018-mirabaud-2026-05-01.md) | Follow-up email sent 2026-05-31 to HR; no response recorded yet. Strong Geneva Head of IT / Asset Management fit. |
 | 19 | 2026-04-30 | Mistral AI | Founder in Residence | 4.1/5 | Discarded | ✅ | [019](reports/019-mistral-ai-2026-04-30.md) | Approx score from archive import. Archived from _base/refused/mistral; no response recorded. |
-| 12 | 2026-05-31 | Geneve Aeroport | Responsable de pole back-office | 3.6/5 | Applied | ✅ | [012](reports/012-geneve-aeroport-2026-04-30.md) | Applied; still ongoing, no outcome recorded yet. |
+| 12 | 2026-05-31 | Geneve Aeroport | Responsable de pole back-office | 3.6/5 | Discarded | ✅ | [012](reports/012-geneve-aeroport-2026-04-30.md) | Discarded by candidate: no response after ~1 month, likely compensation and scope below target. |
 | 8 | 2026-04-29 | BCV | Architecte logiciel expert | 3.6/5 | Discarded | ✅ | [008](reports/008-bcv-2026-04-29.md) | Approx score from archive import. Archived from _base/refused/bcv; no response recorded. |
 | 29 | 2026-04-25 | RogerHR | AI Chief of Staff | 3.4/5 | Rejected | ✅ | [029](reports/029-rogerhr-2026-04-25.md) | Approx score from archive import. Rejected; role was more junior than profile. |
 | 24 | 2026-05-31 | Pipekit | Head of Engineering | 3.8/5 | Rejected | ✅ | [024](reports/024-pipekit-2026-04-24.md) | Closure email sent 2026-05-31 after interview and no response; recorded as rejected/no-response. |
