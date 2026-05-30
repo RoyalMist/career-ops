@@ -6,6 +6,7 @@
 **Score:** 2.6/5
 **Legitimacy:** High Confidence
 **PDF:** not generated - score below recommended application threshold
+**Decision:** Discarded by candidate on 2026-05-30 - associate-level community/partner operations role is far below CTO/Head of IT target despite interesting cybersecurity theme.
 
 ---
 
@@ -24,7 +25,7 @@
 | Team size | Not specified |
 | TL;DR | Active Geneva role at a strong institution, but it is an associate-level partner/community specialist position, not a CTO, Head of IT, cybersecurity leadership, or transformation mandate. |
 
-**Recommendation:** Do not apply. The organization and cybersecurity theme are interesting, but the role is heavily downleveled and operational. It would underuse the candidate's CTO / Head of Engineering / Head of Technology profile.
+**Recommendation:** Do not apply. The user decided not to move forward because the role is associate-level, operational community/partner management, not cybersecurity or technology leadership.
 
 ## B) Match with CV
 

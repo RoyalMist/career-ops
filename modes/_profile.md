@@ -73,6 +73,10 @@ Frame profile as **"Technical builder with real-world proof"** that adapts frami
 **Downlevel roles:**
 - Do **not** prioritize squad-level Engineering Manager roles when the scope is 5-10 engineers, even in attractive AI/developer-tooling domains, unless there is explicit Director/Head growth path, cross-organization authority, and compensation near the executive target.
 - Do **not** prioritize Manager-level consulting roles in transaction technology, Tech DD, M&A, carve-outs, or integration/separation unless the role is clearly Director/Partner-track and values operator-side technology leadership over consulting-native deal experience.
+- Do **not** pursue associate/specialist community, partner engagement, event, or ecosystem operations roles, even in cybersecurity or AI-adjacent domains, unless they are explicitly Lead/Head/Director mandates with strategic ownership.
+
+**HR / People Analytics roles:**
+- Do **not** prioritize HR/People Analytics roles centered on Workday, Visier, HR reporting, or HR data governance unless they include broader enterprise technology, AI transformation, or executive operating-model ownership.
 
 ## Your Portfolio / Demo
 
