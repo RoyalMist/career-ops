@@ -81,6 +81,10 @@ Frame profile as **"Technical builder with real-world proof"** that adapts frami
 - Deprioritize Zurich/DACH-facing customer roles that likely require frequent presence in the Swiss-German market, especially pre-sales, consulting, Field CTO, customer success, and enterprise solutions roles where German customer interaction is core to the job.
 - If a role is otherwise excellent but states native/C1 German, cap the score around **3.6/5** unless there is clear evidence the candidate can cover a French-speaking or international territory.
 
+**Culture constraints:**
+- Do **not** prioritize roles that require participation in religious or faith-based team life. The candidate is atheist, so explicit requirements to pray, join devotion, or embed into faith-based team practices are culture blockers even when the technical scope is relevant.
+- Faith-based organizations are not automatically excluded if the role is secular and participation is not expected, but any mandatory or strongly embedded religious practice should cap the score around **3.5/5** or lower.
+
 **HR / People Analytics roles:**
 - Do **not** prioritize HR/People Analytics roles centered on Workday, Visier, HR reporting, or HR data governance unless they include broader enterprise technology, AI transformation, or executive operating-model ownership.
 
