@@ -87,3 +87,12 @@ This file accumulates your best interview stories over time. Each evaluation (Bl
 **R (Result):** Delivered practical architecture and implementation work in a supply-chain-adjacent commodity trading context.
 **Reflection:** Industrial and supply-chain systems require fast domain learning, respect for operational workflows, and technical choices that do not disrupt business continuity.
 **Best for questions about:** industry/supply-chain adjacency, ERP/core systems, business process understanding, operational systems, domain ramp-up.
+
+### Engineering Quality - Rolex Software Factory
+**Source:** Report #035 - Sonar - Engineering Manager
+**S (Situation):** Rolex development teams needed more consistent internal tooling, build practices, and front-end engineering standards.
+**T (Task):** Improve the development foundation and make quality practices easier for teams to adopt.
+**A (Action):** Created and administered a software factory using Bamboo, Nexus, and Maven; owned web stack choices; evangelized Angular and Karma; managed an Identity Management project involving web and infrastructure teams.
+**R (Result):** Improved development foundations and created more consistent engineering practices across internal application teams.
+**Reflection:** Engineering quality improves when teams get useful defaults, shared tooling, and standards that reduce friction instead of adding ceremony.
+**Best for questions about:** code quality, CI/CD, developer tooling, engineering standards, testing culture, software factory, Sonar-style product relevance.
