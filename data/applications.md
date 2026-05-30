@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 34 | 2026-05-30 | World Economic Forum | Community Specialist, Centre for Cybersecurity | 2.6/5 | Evaluated | ❌ | [034](reports/034-world-economic-forum-2026-05-30.md) | Active and legitimate Geneva cybersecurity community role, but associate-level 3-5 year partner operations scope is far below CTO/Head of IT target; do not apply. |
 | 33 | 2026-05-30 | LB Recrutement / Confidential | Responsable des technologies de l'information | 4.0/5 | Evaluated | ✅ | [033](reports/033-lb-recrutement-confidential-2026-05-30.md) | Strong Geneva Head of IT fit across ERP, cloud, cyber, SLA, budget, and transformation; qualify hidden client, team size, ERP scope, and comp before applying. |
 | 32 | 2026-05-30 | Richemont | Group People Analytics Director | 3.2/5 | Evaluated | ❌ | [032](reports/032-richemont-2026-05-30.md) | Active and legitimate Bellevue role, but weak fit for CTO/VP Engineering target due People Analytics, Workday, and Visier specialization gaps; do not prioritize unless pursuing HR analytics pivot. |
 | 2 | 2026-05-30 | EPFL | Directeur.trice du domaine des systemes d'information de l'EPFL | 4.2/5 | Evaluated | ✅ | [002](reports/002-epfl-2026-05-30.md) | Strong Swiss CIO/CTO fit in Lausanne; apply, but address 160 ETP/MCHF 50 scale and academic governance directly. |
