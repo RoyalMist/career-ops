@@ -48,7 +48,7 @@
 | 12 | 2026-05-31 | Geneve Aeroport | Responsable de pole back-office | 3.6/5 | Applied | ✅ | [012](reports/012-geneve-aeroport-2026-04-30.md) | Applied; still ongoing, no outcome recorded yet. |
 | 8 | 2026-04-29 | BCV | Architecte logiciel expert | 3.6/5 | Discarded | ✅ | [008](reports/008-bcv-2026-04-29.md) | Approx score from archive import. Archived from _base/refused/bcv; no response recorded. |
 | 29 | 2026-04-25 | RogerHR | AI Chief of Staff | 3.4/5 | Rejected | ✅ | [029](reports/029-rogerhr-2026-04-25.md) | Approx score from archive import. Rejected; role was more junior than profile. |
-| 24 | 2026-04-24 | Pipekit | Head of Engineering | 3.8/5 | Rejected | ✅ | [024](reports/024-pipekit-2026-04-24.md) | Interview completed; no news for more than 3 weeks, recorded as rejected/no-response. |
+| 24 | 2026-05-31 | Pipekit | Head of Engineering | 3.8/5 | Rejected | ✅ | [024](reports/024-pipekit-2026-04-24.md) | Closure email sent 2026-05-31 after interview and no response; recorded as rejected/no-response. |
 | 31 | 2026-04-21 | Talan | AI Engineering Lead | 3.9/5 | Discarded | ✅ | [031](reports/031-talan-2026-04-21.md) | Approx score from archive import. Candidate declined after process; proposal noted as 150k CHF base plus 30k CHF max bonus. |
 | 7 | 2026-04-21 | Albedis / Confidential | Head of Digital Platform | 4.0/5 | Rejected | ✅ | [007](reports/007-albedis-confidential-2026-04-21.md) | Approx score from archive import. Rejected 2026-04-29; folder references Head of Digital Delivery INT-104577. |
 | 23 | 2026-04-19 | Pictet Alternative Advisors | Head of Products, Tech Client Solutions | 3.8/5 | Rejected | ✅ | [023](reports/023-pictet-alternative-advisors-2026-04-19.md) | Approx score from archive import. Application not shortlisted. |
