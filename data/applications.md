@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 46 | 2026-05-30 | Harmattan AI | Engineering Manager | 3.7/5 | Discarded | ❌ | [046](reports/046-harmattan-ai-2026-05-30.md) | Discarded by candidate: downlevel EM/recruiting scope is below Head/Director/CTO target despite strong company momentum. |
 | 45 | 2026-05-30 | OM Pharma | Head of IT - Geneva | 4.2/5 | Applied | ✅ | [045](reports/045-om-pharma-2026-05-30.md) | Applied by candidate: strong Geneva Head of IT fit with 17-person team, CTO reporting, CAPEX/OPEX, GxP/security and ExCo exposure; clarify comp and hands-on operations burden early. |
 | 44 | 2026-05-30 | DEPT | Head of Engineering | 3.8/5 | Discarded | ❌ | [044](reports/044-dept-2026-05-30.md) | Discarded by candidate: relevant Head of Engineering and AI-driven development scope, but 7-9 person agency team, German requirement, Zurich/Bern hybrid setup and likely comp ceiling make it weaker than CTO/VP/Director targets. |
 | 43 | 2026-05-30 | Deloitte | Manager - Artificial Intelligence & Data - AI Strategy | 3.6/5 | Discarded | ❌ | [043](reports/043-deloitte-2026-05-30.md) | Discarded by candidate: relevant AI strategy content, but Manager-level consulting is below target CTO/Field CTO/VP Engineering/Director lane and likely below comp target. |
