@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 61 | 2026-05-30 | Vontobel | Senior AI Architect | 4.0/5 | Discarded | ❌ | [061](reports/061-vontobel-2026-05-30.md) | Discarded: official role is Zurich/Bleicherweg and Geneva-office base is too uncertain. |
 | 60 | 2026-05-30 | Softcom | Head of Delivery, Tribe Energies | 3.8/5 | Discarded | ❌ | [060](reports/060-softcom-2026-05-30.md) | Discarded: likely comp below target plus expected Fribourg hybrid/presence burden from Geneva. |
 | 59 | 2026-05-30 | Oracle | Software Development Snr Manager | 3.5/5 | Applied | ✅ | [059](reports/059-oracle-2026-05-30.md) | Applied 2026-05-30 with tailored CV and cover letter; qualify product org, team scope, remote policy and M3 compensation if contacted. |
 | 58 | 2026-05-30 | NVIDIA | Solutions Architect - AI for Drug Discovery | 3.2/5 | Discarded | ❌ | [058](reports/058-nvidia-2026-05-30.md) | Discarded by candidate: drug discovery, life sciences AI, CUDA/HPC and scientific model training requirements are outside the candidate's proof points. |
