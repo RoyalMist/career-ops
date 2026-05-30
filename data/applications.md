@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 48 | 2026-05-30 | Atlantic Gate | Corporate IT Director | 4.2/5 | Discarded | ✅ | [048](reports/048-atlantic-gate-2026-05-30.md) | Discarded by candidate: strong fit, but compensation signal is not enough for the Corporate IT Director mandate. |
 | 47 | 2026-05-30 | Explora Journeys | Digital Platforms Manager | 3.3/5 | Discarded | ❌ | [047](reports/047-explora-journeys-2026-05-30.md) | Discarded by candidate: digital product/platform manager role is below CTO/Head/Director target and likely below comp target. |
 | 46 | 2026-05-30 | Harmattan AI | Engineering Manager | 3.7/5 | Discarded | ❌ | [046](reports/046-harmattan-ai-2026-05-30.md) | Discarded by candidate: downlevel EM/recruiting scope is below Head/Director/CTO target despite strong company momentum. |
 | 45 | 2026-05-30 | OM Pharma | Head of IT - Geneva | 4.2/5 | Applied | ✅ | [045](reports/045-om-pharma-2026-05-30.md) | Applied by candidate: strong Geneva Head of IT fit with 17-person team, CTO reporting, CAPEX/OPEX, GxP/security and ExCo exposure; clarify comp and hands-on operations burden early. |
