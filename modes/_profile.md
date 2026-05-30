@@ -70,6 +70,10 @@ Frame profile as **"Technical builder with real-world proof"** that adapts frami
 - Do **not** prioritize PMO, Executive Office, Chief of Staff, or strategic execution roles unless they clearly include technology leadership, AI transformation ownership, or enterprise operating-model authority with compensation near the executive target.
 - For non-technology PMO/executive-office roles expected around CHF 150k-200k, recommend against applying by default.
 
+**Downlevel roles:**
+- Do **not** prioritize squad-level Engineering Manager roles when the scope is 5-10 engineers, even in attractive AI/developer-tooling domains, unless there is explicit Director/Head growth path, cross-organization authority, and compensation near the executive target.
+- Do **not** prioritize Manager-level consulting roles in transaction technology, Tech DD, M&A, carve-outs, or integration/separation unless the role is clearly Director/Partner-track and values operator-side technology leadership over consulting-native deal experience.
+
 ## Your Portfolio / Demo
 
 <!-- If you have a live demo, dashboard, or public project:
