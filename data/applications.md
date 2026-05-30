@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 32 | 2026-05-30 | Richemont | Group People Analytics Director | 3.2/5 | Evaluated | ❌ | [032](reports/032-richemont-2026-05-30.md) | Active and legitimate Bellevue role, but weak fit for CTO/VP Engineering target due People Analytics, Workday, and Visier specialization gaps; do not prioritize unless pursuing HR analytics pivot. |
 | 2 | 2026-05-30 | EPFL | Directeur.trice du domaine des systemes d'information de l'EPFL | 4.2/5 | Evaluated | ✅ | [002](reports/002-epfl-2026-05-30.md) | Strong Swiss CIO/CTO fit in Lausanne; apply, but address 160 ETP/MCHF 50 scale and academic governance directly. |
 | 1 | 2026-05-29 | MSC / TIL | Director of Technology | 4.1/5 | Evaluated | ✅ | [001](reports/001-msc-til-2026-05-29.md) | Strong executive technology fit in Geneva; apply, but address the ports/terminals domain gap directly. |
 | 6 | 2026-05-27 | Options Group / Confidential | Head of Compliance, Ops and Audit Technology | 3.8/5 | Applied | ✅ | [006](reports/006-options-group-confidential-2026-05-27.md) | Approx score from archive import. Archived from .base/ongoing/options group; commodity trading technology role. |

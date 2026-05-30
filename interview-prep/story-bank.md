@@ -69,3 +69,12 @@ This file accumulates your best interview stories over time. Each evaluation (Bl
 **R (Result):** Created an always-on AI assistant for executive and cross-functional work and improved visibility across dependencies.
 **Reflection:** AI adoption works when it is embedded in existing workflows and governance, not treated as a side experiment.
 **Best for questions about:** AI adoption, transformation, operating model, stakeholder enablement, change management.
+
+### Organization Analytics - Ripple / Metaco Team Satisfaction and Operating Model
+**Source:** Report #032 - Richemont - Group People Analytics Director
+**S (Situation):** Ripple / Metaco needed a stronger engineering operating model across Geneva and San Francisco while building a regulated blockchain custody platform.
+**T (Task):** Improve ownership, delivery focus, coaching, and team effectiveness across managers, tech leads, and engineering squads.
+**A (Action):** Organized teams into squads, launched a dedicated support and L3 squad, coached managers and engineers, and established clearer practices for quality, monitoring, technical debt, release management, and support.
+**R (Result):** Led up to 50 professionals and achieved 90-96% team satisfaction through transparent ownership, coaching, and squad autonomy.
+**Reflection:** People metrics become useful when they are tied to operating changes that teams can feel in daily work.
+**Best for questions about:** people analytics adjacency, organization design, team health, management operating model, executive workforce insights.
