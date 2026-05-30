@@ -1,0 +1,530 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Thibault Fouache — Chief Technology Officer</title>
+<style>
+  /* ── Reset & Base ── */
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  :root {
+    --accent: #1a3040;
+    --accent-light: #e6eef3;
+    --accent-mid: #2a6080;
+    --text: #1c1c1e;
+    --muted: #6b7280;
+    --border: #d1d5db;
+    --bg: #ffffff;
+    --sidebar-bg: #f4f7f9;
+    --page-width: 210mm;
+    --page-height: 297mm;
+    font-family: 'Georgia', 'Times New Roman', serif;
+  }
+
+  html { background: #e5e7eb; }
+
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-size: 10pt;
+    line-height: 1.5;
+    max-width: var(--page-width);
+    margin: 20px auto;
+    box-shadow: 0 4px 24px rgba(0,0,0,0.15);
+  }
+
+  /* ── Header ── */
+  .header {
+    background: var(--accent);
+    color: white;
+    padding: 28px 32px 24px;
+    display: grid;
+    grid-template-columns: 1fr auto;
+    gap: 16px;
+    align-items: end;
+  }
+
+  .header-name {
+    font-size: 26pt;
+    font-weight: 400;
+    letter-spacing: 0.5px;
+    line-height: 1.1;
+  }
+
+  .header-title {
+    font-size: 11pt;
+    color: rgba(255,255,255,0.8);
+    font-style: italic;
+    margin-top: 4px;
+  }
+
+  .header-contact {
+    text-align: right;
+    font-size: 8.5pt;
+    color: rgba(255,255,255,0.85);
+    font-family: 'Arial', sans-serif;
+    line-height: 1.7;
+  }
+
+  .header-contact a { color: rgba(255,255,255,0.85); text-decoration: none; }
+
+  /* ── Tag line ── */
+  .tagline {
+    background: var(--accent-mid);
+    color: white;
+    padding: 8px 32px;
+    font-size: 8.5pt;
+    font-family: 'Arial', sans-serif;
+    letter-spacing: 0.8px;
+    text-transform: uppercase;
+  }
+
+  /* ── Body layout ── */
+  .body {
+    display: grid;
+    grid-template-columns: 1fr 168px;
+    gap: 0;
+    min-height: calc(var(--page-height) - 110px);
+  }
+
+  /* ── Main ── */
+  .main {
+    padding: 24px 28px 24px 32px;
+    border-right: 1px solid var(--border);
+  }
+
+  /* ── Sidebar ── */
+  .sidebar {
+    background: var(--sidebar-bg);
+    padding: 24px 18px;
+  }
+
+  /* ── Section titles ── */
+  .section-title {
+    font-family: 'Arial', sans-serif;
+    font-size: 7.5pt;
+    font-weight: 700;
+    letter-spacing: 1.4px;
+    text-transform: uppercase;
+    color: var(--accent);
+    border-bottom: 1.5px solid var(--accent);
+    padding-bottom: 4px;
+    margin-bottom: 14px;
+    margin-top: 22px;
+  }
+
+  .section-title:first-child { margin-top: 0; }
+
+  /* ── Experience blocks ── */
+  .exp-block {
+    margin-bottom: 16px;
+    page-break-inside: avoid;
+  }
+
+  .exp-header {
+    display: grid;
+    grid-template-columns: 1fr auto;
+    gap: 8px;
+    align-items: baseline;
+    margin-bottom: 2px;
+  }
+
+  .exp-company {
+    font-family: 'Arial', sans-serif;
+    font-weight: 700;
+    font-size: 10pt;
+    color: var(--accent);
+  }
+
+  .exp-period {
+    font-family: 'Arial', sans-serif;
+    font-size: 8pt;
+    color: var(--muted);
+    white-space: nowrap;
+  }
+
+  .exp-role {
+    font-style: italic;
+    font-size: 9.5pt;
+    color: var(--text);
+    margin-bottom: 5px;
+  }
+
+  .exp-bullets {
+    list-style: none;
+    padding: 0;
+  }
+
+  .exp-bullets li {
+    padding-left: 12px;
+    position: relative;
+    margin-bottom: 3px;
+    font-size: 9.5pt;
+    line-height: 1.45;
+  }
+
+  .exp-bullets li::before {
+    content: '–';
+    position: absolute;
+    left: 0;
+    color: var(--accent-mid);
+  }
+
+  /* ── One-liner experience ── */
+  .exp-oneliner {
+    display: grid;
+    grid-template-columns: auto 1fr auto;
+    gap: 6px 10px;
+    align-items: baseline;
+    margin-bottom: 5px;
+    font-size: 9pt;
+  }
+
+  .exp-oneliner .ol-company {
+    font-family: 'Arial', sans-serif;
+    font-weight: 700;
+    color: var(--accent);
+    white-space: nowrap;
+  }
+
+  .exp-oneliner .ol-desc {
+    color: var(--muted);
+    font-style: italic;
+  }
+
+  .exp-oneliner .ol-period {
+    font-family: 'Arial', sans-serif;
+    font-size: 8pt;
+    color: var(--muted);
+    white-space: nowrap;
+    text-align: right;
+  }
+
+  /* ── Sidebar widgets ── */
+  .sidebar .section-title {
+    font-size: 7pt;
+    margin-top: 20px;
+  }
+
+  .sidebar .section-title:first-child { margin-top: 0; }
+
+  .skill-group {
+    margin-bottom: 12px;
+  }
+
+  .skill-group-name {
+    font-family: 'Arial', sans-serif;
+    font-size: 7.5pt;
+    font-weight: 700;
+    color: var(--accent);
+    text-transform: uppercase;
+    letter-spacing: 0.6px;
+    margin-bottom: 4px;
+  }
+
+  .skill-tag {
+    display: inline-block;
+    background: var(--accent-light);
+    color: var(--accent);
+    font-family: 'Arial', sans-serif;
+    font-size: 7.5pt;
+    padding: 2px 6px;
+    border-radius: 2px;
+    margin: 2px 2px 2px 0;
+    line-height: 1.4;
+  }
+
+  .lang-item {
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Arial', sans-serif;
+    font-size: 8.5pt;
+    margin-bottom: 4px;
+    align-items: center;
+  }
+
+  .lang-level {
+    color: var(--muted);
+    font-size: 7.5pt;
+    font-style: italic;
+  }
+
+  .edu-item {
+    margin-bottom: 10px;
+    font-size: 8.5pt;
+    line-height: 1.4;
+  }
+
+  .edu-degree {
+    font-weight: bold;
+    color: var(--accent);
+    font-family: 'Arial', sans-serif;
+    font-size: 8pt;
+  }
+
+  .edu-school {
+    color: var(--muted);
+    font-style: italic;
+  }
+
+  .profile-text {
+    font-size: 9.5pt;
+    line-height: 1.55;
+    color: var(--text);
+    font-style: italic;
+    border-left: 3px solid var(--accent-mid);
+    padding-left: 12px;
+    margin-bottom: 4px;
+  }
+
+  /* ── Print ── */
+  @media print {
+    html { background: white; }
+
+    body {
+      margin: 0;
+      max-width: none;
+      box-shadow: none;
+      width: 210mm;
+      min-height: 297mm;
+      font-size: 9.5pt;
+    }
+
+    @page {
+      size: A4;
+      margin: 0;
+    }
+
+    .exp-block { page-break-inside: avoid; }
+    .section-title { page-break-after: avoid; }
+    a { color: inherit !important; text-decoration: none !important; }
+  }
+</style>
+</head>
+<body>
+
+<!-- ══ HEADER ══ -->
+<header class="header">
+  <div>
+    <h1 class="header-name">Thibault Fouache</h1>
+    <div class="header-title">Chief Technology Officer &nbsp;&middot;&nbsp; Banking &amp; Financial Services</div>
+  </div>
+  <div class="header-contact">
+    Geneva, Switzerland<br>
+    <a href="mailto:thibault.fouache@pm.me">thibault.fouache@pm.me</a><br>
+    +41 76 585 71 89<br>
+    <a href="https://linkedin.com/in/thibault-fouache">linkedin.com/in/thibault-fouache</a>
+  </div>
+</header>
+
+<div class="tagline">Technology Strategy &nbsp;&middot;&nbsp; Nearshore Team Leadership &nbsp;&middot;&nbsp; Digital Banking Transformation &nbsp;&middot;&nbsp; FINMA-Regulated Environments</div>
+
+<!-- ══ BODY ══ -->
+<div class="body">
+
+  <!-- ── MAIN COLUMN ── -->
+  <main class="main">
+
+    <!-- Profile -->
+    <p class="profile-text">
+      Senior technology executive with 15+ years in Swiss financial services, including CTO and Global Head of Technology roles at FINMA-regulated institutions.
+      Proven track record building and scaling nearshore engineering teams — designed and stood up a nearshore delivery centre in Portugal, growing it into an integrated extension of the Swiss engineering function.
+      Deep expertise across core banking systems, digital channels, cloud migration, and regulatory compliance.
+      Equally effective presenting technology strategy to the Board and leading distributed engineering organisations across multiple countries.
+    </p>
+
+    <!-- Experience -->
+    <h2 class="section-title">Professional Experience</h2>
+
+    <!-- FlowBank -->
+    <div class="exp-block">
+      <div class="exp-header">
+        <span class="exp-company">FlowBank SA</span>
+        <span class="exp-period">Aug 2022 – Aug 2023</span>
+      </div>
+      <div class="exp-role">Global Head of Technology — Executive Director</div>
+      <p style="font-size:9.5pt;line-height:1.5;margin-bottom:6px;">
+        Full accountability for technology strategy, delivery and operations at a FINMA-regulated Swiss digital bank. Led the entire IT department (~40 people) across software engineering, infrastructure and support, delivering web and mobile platforms for trading, banking and crypto-enabled products.
+      </p>
+      <ul class="exp-bullets">
+        <li>Designed and built a nearshore engineering centre in Portugal — owned the full lifecycle from vendor evaluation, site selection and onboarding to performance management and cultural integration with the Geneva headquarters.</li>
+        <li>Established collaboration frameworks, tooling standards and agile ceremonies that enabled the nearshore team to operate as a seamless extension of the Swiss engineering function, not a separate outsourced unit.</li>
+        <li>Defined the IT strategy and multi-year technology roadmap; presented to the Executive Committee and Board, translating technical decisions into business impact.</li>
+        <li>Architected a real-time event-driven data platform connecting trading systems to compliance, marketing and finance — enabling live data flows across the bank's core functions.</li>
+        <li>Initiated the cloud migration from on-premise to AWS, designing scalable cloud-native target architecture and introducing DevOps practices across the department.</li>
+        <li>Ensured compliance with FINMA regulations, Swiss data residency requirements and business continuity planning (BCP/DRP) across all technology systems.</li>
+      </ul>
+    </div>
+
+    <!-- Ripple -->
+    <div class="exp-block">
+      <div class="exp-header">
+        <span class="exp-company">Ripple</span>
+        <span class="exp-period">Sep 2023 – Oct 2025</span>
+      </div>
+      <div class="exp-role">Director of Software Engineering — Institutional Custody Platform</div>
+      <p style="font-size:9.5pt;line-height:1.5;margin-bottom:6px;">
+        Led a distributed engineering organisation of 50 engineers across Geneva and San Francisco, building a regulated institutional custody platform for top-tier financial institutions.
+      </p>
+      <ul class="exp-bullets">
+        <li>Managed a distributed engineering organisation across two countries — established delivery cadence, knowledge transfer and escalation frameworks that maintained quality and velocity across time zones.</li>
+        <li>Scaled the organisation from 40 to 50 engineers — defined hiring strategy, structured interviews and levelling frameworks, continuously raising the bar on talent density.</li>
+        <li>Restructured engineering into autonomous squads with clear domain ownership across mobile, backend and platform teams, increasing cross-functional delivery velocity.</li>
+        <li>Led technical design in a cryptographic context — HSM integration, key management and secure transaction signing for institutional custody.</li>
+        <li>Partnered with Product and executive leadership to translate business goals into an executable technical roadmap, balancing feature velocity with platform reliability and security.</li>
+      </ul>
+    </div>
+
+    <!-- Bazzile -->
+    <div class="exp-block">
+      <div class="exp-header">
+        <span class="exp-company">Bazzile Technology SA</span>
+        <span class="exp-period">Aug 2020 – Present</span>
+      </div>
+      <div class="exp-role">CTO / CPO — Partner</div>
+      <ul class="exp-bullets">
+        <li>Architected and delivered the full technology stack — cloud infrastructure, Elixir backend services and Flutter cross-platform mobile app — following TDD and API-first design principles.</li>
+        <li>Drove reliability engineering to achieve more than 99.95% platform uptime; planned cybersecurity risk assessment and mitigation strategy.</li>
+        <li>Owned the product roadmap end-to-end — user research, prioritised delivery cycles, and iterative shipping with a focus on quality.</li>
+      </ul>
+    </div>
+
+    <!-- UBP -->
+    <div class="exp-block">
+      <div class="exp-header">
+        <span class="exp-company">Union Bancaire Privée</span>
+        <span class="exp-period">Nov 2018 – Jul 2020</span>
+      </div>
+      <div class="exp-role">Internal Auditor — IT &amp; Security</div>
+      <ul class="exp-bullets">
+        <li>Conducted IT and banking security audits across the bank's technology estate, ensuring adherence to GDPR, FINMA and internal compliance frameworks.</li>
+        <li>Uncovered a critical identity access management vulnerability through a thorough IAM audit; reported risk posture and remediation priorities directly to top management.</li>
+        <li>Built data analytics tooling (R, Tableau) to increase audit coverage and credibility with stakeholders.</li>
+      </ul>
+    </div>
+
+    <!-- Earlier — condensed -->
+    <h2 class="section-title">Other Experiences</h2>
+
+    <div class="exp-oneliner">
+      <span class="ol-company">Wonderful</span>
+      <span class="ol-desc">Field CTO</span>
+      <span class="ol-period">Jan 2026 – Mar 2026</span>
+    </div>
+    <div class="exp-oneliner">
+      <span class="ol-company">Scrypt</span>
+      <span class="ol-desc">Head of Engineering</span>
+      <span class="ol-period">Nov 2025 – Dec 2025</span>
+    </div>
+    <div class="exp-oneliner">
+      <span class="ol-company">Banque de Commerce et de Placements</span>
+      <span class="ol-desc">Software Engineer — Core Banking</span>
+      <span class="ol-period">Nov 2017 – Oct 2018</span>
+    </div>
+    <div class="exp-oneliner">
+      <span class="ol-company">SIX Swiss Exchange</span>
+      <span class="ol-desc">Scala Developer — Financial Markets</span>
+      <span class="ol-period">Feb 2017 – Oct 2017</span>
+    </div>
+    <div class="exp-oneliner">
+      <span class="ol-company">Glencore</span>
+      <span class="ol-desc">Software Engineer</span>
+      <span class="ol-period">Aug 2016 – Jan 2017</span>
+    </div>
+    <div class="exp-oneliner">
+      <span class="ol-company">Swissquote</span>
+      <span class="ol-desc">Technical Lead — Consumer Fintech</span>
+      <span class="ol-period">Jan 2016 – Jul 2016</span>
+    </div>
+    <div class="exp-oneliner">
+      <span class="ol-company">Rolex SA</span>
+      <span class="ol-desc">Software Engineer (5 years)</span>
+      <span class="ol-period">Jan 2011 – Dec 2015</span>
+    </div>
+    <div class="exp-oneliner">
+      <span class="ol-company">Axway</span>
+      <span class="ol-desc">Software Engineer</span>
+      <span class="ol-period">Jan 2009 – Dec 2010</span>
+    </div>
+
+  </main>
+
+  <!-- ── SIDEBAR ── -->
+  <section class="sidebar">
+
+    <h2 class="section-title">Nearshore &amp; Distributed</h2>
+    <div class="skill-group">
+      <span class="skill-tag">Nearshore setup (Portugal)</span>
+      <span class="skill-tag">Distributed teams</span>
+      <span class="skill-tag">Vendor governance</span>
+      <span class="skill-tag">Cross-border delivery</span>
+      <span class="skill-tag">Cultural alignment</span>
+    </div>
+
+    <h2 class="section-title">Technology</h2>
+    <div class="skill-group">
+      <span class="skill-tag">Cloud-native (AWS)</span>
+      <span class="skill-tag">Microservices</span>
+      <span class="skill-tag">Event-driven</span>
+      <span class="skill-tag">API-first</span>
+      <span class="skill-tag">CI/CD</span>
+      <span class="skill-tag">DevSecOps</span>
+    </div>
+
+    <h2 class="section-title">Regulatory</h2>
+    <div class="skill-group">
+      <span class="skill-tag">FINMA</span>
+      <span class="skill-tag">GDPR</span>
+      <span class="skill-tag">ISO 27001</span>
+      <span class="skill-tag">Data residency</span>
+      <span class="skill-tag">BCP/DRP</span>
+      <span class="skill-tag">IT security audit</span>
+    </div>
+
+    <h2 class="section-title">Leadership</h2>
+    <div class="skill-group">
+      <span class="skill-tag">Manager of managers</span>
+      <span class="skill-tag">Team scaling (50+)</span>
+      <span class="skill-tag">Board reporting</span>
+      <span class="skill-tag">IT governance</span>
+      <span class="skill-tag">OKR frameworks</span>
+      <span class="skill-tag">Budget &amp; roadmap</span>
+    </div>
+
+    <h2 class="section-title">Domains</h2>
+    <div class="skill-group">
+      <span class="skill-tag">Private banking</span>
+      <span class="skill-tag">Digital banking</span>
+      <span class="skill-tag">Core banking</span>
+      <span class="skill-tag">Financial markets</span>
+      <span class="skill-tag">Blockchain custody</span>
+    </div>
+
+    <h2 class="section-title">Languages</h2>
+    <div class="lang-item"><span>French</span><span class="lang-level">Native</span></div>
+    <div class="lang-item"><span>English</span><span class="lang-level">C1</span></div>
+    <div class="lang-item"><span>German</span><span class="lang-level">A2</span></div>
+
+    <h2 class="section-title">Education</h2>
+    <div class="edu-item">
+      <div class="edu-degree">MSc Informatics &amp; Networking</div>
+      <div class="edu-school">EIGSI La Rochelle, 2009</div>
+    </div>
+    <div class="edu-item">
+      <div class="edu-degree">Ethereum Blockstars</div>
+      <div class="edu-school">B9lab Certification, 2019</div>
+    </div>
+
+    <h2 class="section-title">Location</h2>
+    <div style="font-family: Arial, sans-serif; font-size: 8.5pt; color: var(--muted); line-height: 1.5;">
+      Geneva, Switzerland<br>
+      Swiss resident
+    </div>
+
+  </section>
+
+</div><!-- /.body -->
+
+</body>
+</html>

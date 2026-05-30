@@ -51,3 +51,21 @@ This file accumulates your best interview stories over time. Each evaluation (Bl
 **R (Result):** Improved focus, reduced silos and created a stronger operating model for a security-sensitive platform.
 **Reflection:** Portfolio standardization sticks only when teams understand ownership and operating consequences.
 **Best for questions about:** architecture, team scaling, operational excellence, technical debt, regulated platforms.
+
+### Academic Service - CREA Teaching and Curriculum Alignment
+**Source:** Report #002 - EPFL - Directeur.trice du domaine des systemes d'information
+**S (Situation):** CREA needed React courses for Web and App Development Bachelor students that stayed connected to real engineering practice.
+**T (Task):** Teach technical material in a way that was useful, current and accessible.
+**A (Action):** Developed and delivered React courses, collaborated with industry professionals, and used practical teaching methods.
+**R (Result):** Improved student engagement and connected the curriculum to real-world engineering practice.
+**Reflection:** Academic and technical audiences need clarity, service mindset and respect for context; authority comes from usefulness, not hierarchy.
+**Best for questions about:** academic environment, stakeholder communication, teaching, service culture, explaining technical trade-offs.
+
+### Enterprise AI Adoption - SCRYPT AI Operating System
+**Source:** Report #002 - EPFL - Directeur.trice du domaine des systemes d'information
+**S (Situation):** SCRYPT needed more structure, visibility and cross-functional execution across technology, sales and marketing.
+**T (Task):** Improve operating discipline and create practical AI adoption without disrupting daily workflows.
+**A (Action):** Introduced Linear company-wide and implemented Claude Enterprise integrated through Slack with Linear, email and calendars.
+**R (Result):** Created an always-on AI assistant for executive and cross-functional work and improved visibility across dependencies.
+**Reflection:** AI adoption works when it is embedded in existing workflows and governance, not treated as a side experiment.
+**Best for questions about:** AI adoption, transformation, operating model, stakeholder enablement, change management.

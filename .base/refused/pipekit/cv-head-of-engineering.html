@@ -1,0 +1,520 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Thibault Fouache — Head of Engineering</title>
+<style>
+  /* ── Reset & Base ── */
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  :root {
+    --accent: #0b3d2e;
+    --accent-light: #e8f1ec;
+    --accent-mid: #2e8f6a;
+    --text: #1c1c1e;
+    --muted: #6b7280;
+    --border: #d1d5db;
+    --bg: #ffffff;
+    --sidebar-bg: #f5f8f6;
+    --page-width: 210mm;
+    --page-height: 297mm;
+    font-family: 'Georgia', 'Times New Roman', serif;
+  }
+
+  html { background: #e5e7eb; }
+
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-size: 10pt;
+    line-height: 1.5;
+    max-width: var(--page-width);
+    margin: 20px auto;
+    box-shadow: 0 4px 24px rgba(0,0,0,0.15);
+  }
+
+  /* ── Header ── */
+  .header {
+    background: var(--accent);
+    color: white;
+    padding: 24px 32px 20px;
+    display: grid;
+    grid-template-columns: 1fr auto;
+    gap: 16px;
+    align-items: end;
+  }
+
+  .header-name {
+    font-size: 26pt;
+    font-weight: 400;
+    letter-spacing: 0.5px;
+    line-height: 1.1;
+  }
+
+  .header-title {
+    font-size: 11pt;
+    color: rgba(255,255,255,0.8);
+    font-style: italic;
+    margin-top: 4px;
+  }
+
+  .header-contact {
+    text-align: right;
+    font-size: 8.5pt;
+    color: rgba(255,255,255,0.85);
+    font-family: 'Arial', sans-serif;
+    line-height: 1.7;
+  }
+
+  .header-contact a { color: rgba(255,255,255,0.85); text-decoration: none; }
+
+  /* ── Tag line ── */
+  .tagline {
+    background: var(--accent-mid);
+    color: white;
+    padding: 8px 32px;
+    font-size: 8.5pt;
+    font-family: 'Arial', sans-serif;
+    letter-spacing: 0.8px;
+    text-transform: uppercase;
+  }
+
+  /* ── Body layout ── */
+  .body {
+    display: grid;
+    grid-template-columns: 1fr 168px;
+    gap: 0;
+    max-height: calc(var(--page-height) - 100px);
+  }
+
+  /* ── Main ── */
+  .main {
+    padding: 20px 28px 20px 32px;
+    border-right: 1px solid var(--border);
+  }
+
+  /* ── Sidebar ── */
+  .sidebar {
+    background: var(--sidebar-bg);
+    padding: 24px 18px;
+  }
+
+  /* ── Section titles ── */
+  .section-title {
+    font-family: 'Arial', sans-serif;
+    font-size: 7.5pt;
+    font-weight: 700;
+    letter-spacing: 1.4px;
+    text-transform: uppercase;
+    color: var(--accent);
+    border-bottom: 1.5px solid var(--accent);
+    padding-bottom: 4px;
+    margin-bottom: 10px;
+    margin-top: 16px;
+  }
+
+  .section-title:first-child { margin-top: 0; }
+
+  /* ── Experience blocks ── */
+  .exp-block {
+    margin-bottom: 10px;
+    page-break-inside: avoid;
+  }
+
+  .exp-header {
+    display: grid;
+    grid-template-columns: 1fr auto;
+    gap: 8px;
+    align-items: baseline;
+    margin-bottom: 2px;
+  }
+
+  .exp-company {
+    font-family: 'Arial', sans-serif;
+    font-weight: 700;
+    font-size: 10pt;
+    color: var(--accent);
+  }
+
+  .exp-period {
+    font-family: 'Arial', sans-serif;
+    font-size: 8pt;
+    color: var(--muted);
+    white-space: nowrap;
+  }
+
+  .exp-role {
+    font-style: italic;
+    font-size: 9.5pt;
+    color: var(--text);
+    margin-bottom: 5px;
+  }
+
+  .exp-bullets {
+    list-style: none;
+    padding: 0;
+  }
+
+  .exp-bullets li {
+    padding-left: 12px;
+    position: relative;
+    margin-bottom: 2px;
+    font-size: 9pt;
+    line-height: 1.4;
+  }
+
+  .exp-bullets li::before {
+    content: '–';
+    position: absolute;
+    left: 0;
+    color: var(--accent-mid);
+  }
+
+  /* ── One-liner experience ── */
+  .exp-oneliner {
+    display: grid;
+    grid-template-columns: auto 1fr auto;
+    gap: 4px 8px;
+    align-items: baseline;
+    margin-bottom: 3px;
+    font-size: 8.5pt;
+  }
+
+  .exp-oneliner .ol-company {
+    font-family: 'Arial', sans-serif;
+    font-weight: 700;
+    color: var(--accent);
+    white-space: nowrap;
+  }
+
+  .exp-oneliner .ol-desc {
+    color: var(--muted);
+    font-style: italic;
+  }
+
+  .exp-oneliner .ol-period {
+    font-family: 'Arial', sans-serif;
+    font-size: 8pt;
+    color: var(--muted);
+    white-space: nowrap;
+    text-align: right;
+  }
+
+  /* ── Sidebar widgets ── */
+  .sidebar .section-title {
+    font-size: 7pt;
+    margin-top: 20px;
+  }
+
+  .sidebar .section-title:first-child { margin-top: 0; }
+
+  .skill-group {
+    margin-bottom: 12px;
+  }
+
+  .skill-group-name {
+    font-family: 'Arial', sans-serif;
+    font-size: 7.5pt;
+    font-weight: 700;
+    color: var(--accent);
+    text-transform: uppercase;
+    letter-spacing: 0.6px;
+    margin-bottom: 4px;
+  }
+
+  .skill-tag {
+    display: inline-block;
+    background: var(--accent-light);
+    color: var(--accent);
+    font-family: 'Arial', sans-serif;
+    font-size: 7.5pt;
+    padding: 2px 6px;
+    border-radius: 2px;
+    margin: 2px 2px 2px 0;
+    line-height: 1.4;
+  }
+
+  .lang-item {
+    display: flex;
+    justify-content: space-between;
+    font-family: Arial, sans-serif;
+    font-size: 8.5pt;
+    margin-bottom: 4px;
+    align-items: center;
+  }
+
+  .lang-level {
+    color: var(--muted);
+    font-size: 7.5pt;
+    font-style: italic;
+  }
+
+  .edu-item {
+    margin-bottom: 10px;
+    font-size: 8.5pt;
+    line-height: 1.4;
+  }
+
+  .edu-degree {
+    font-weight: bold;
+    color: var(--accent);
+    font-family: 'Arial', sans-serif;
+    font-size: 8pt;
+  }
+
+  .edu-school {
+    color: var(--muted);
+    font-style: italic;
+  }
+
+  .profile-text {
+    font-size: 9pt;
+    line-height: 1.45;
+    color: var(--text);
+    font-style: italic;
+    border-left: 3px solid var(--accent-mid);
+    padding-left: 12px;
+    margin-bottom: 4px;
+  }
+
+  /* ── Print ── */
+  @media print {
+    html { background: white; }
+
+    body {
+      margin: 0;
+      max-width: none;
+      box-shadow: none;
+      width: 210mm;
+      min-height: 297mm;
+      font-size: 9.5pt;
+    }
+
+    @page {
+      size: A4;
+      margin: 0;
+    }
+
+    .exp-block { page-break-inside: avoid; }
+    .section-title { page-break-after: avoid; }
+    .other-experiences { page-break-before: always; page-break-inside: avoid; break-inside: avoid; }
+    .other-experiences .section-title { margin-top: 24px; }
+    a { color: inherit !important; text-decoration: none !important; }
+  }
+</style>
+</head>
+<body>
+
+<!-- ══ HEADER ══ -->
+<header class="header">
+  <div>
+    <h1 class="header-name">Thibault Fouache</h1>
+    <div class="header-title">Head of Engineering — Cloud-Native Platforms & Open-Source Infrastructure</div>
+  </div>
+  <div class="header-contact">
+    Geneva, Switzerland<br>
+    <a href="mailto:thibault.fouache@pm.me">thibault.fouache@pm.me</a><br>
+    +41 76 585 71 89<br>
+    <a href="https://linkedin.com/in/thibault-fouache">linkedin.com/in/thibault-fouache</a>
+  </div>
+</header>
+
+<div class="tagline">Startup Leadership &nbsp;·&nbsp; Kubernetes-Native Systems &nbsp;·&nbsp; Open Source &nbsp;·&nbsp; Shipping Culture</div>
+
+<!-- ══ BODY ══ -->
+<div class="body">
+
+  <!-- ── MAIN COLUMN ── -->
+  <main class="main">
+
+    <!-- Profile -->
+    <p class="profile-text">
+      Senior engineering leader with 15+ years turning small teams into high-impact execution engines and scaling to 50+ engineers as a manager of managers. Hands-on distributed-systems background across Kubernetes-based platforms, event-driven data architectures, and open-source stacks. Pragmatic, low-ego, direct — bias for shipping over process, comfortable in early-stage ambiguity.
+    </p>
+
+    <!-- Experience -->
+    <h2 class="section-title">Professional Experience</h2>
+
+    <!-- Bazzile -->
+    <div class="exp-block">
+      <div class="exp-header">
+        <span class="exp-company">Bazzile Technology SA</span>
+        <span class="exp-period">Aug 2020 – Present</span>
+      </div>
+      <div class="exp-role">Co-Founder, CTO / CPO — Partner</div>
+      <p style="font-size:9pt;line-height:1.4;margin-bottom:4px;">
+        Co-founded an early-stage technology startup from zero to production. Owned engineering and product end-to-end — small team, open-source stack throughout, ship-weekly cadence, zero bureaucracy.
+      </p>
+      <ul class="exp-bullets">
+        <li>Built the product and platform hands-on: Elixir/Phoenix services, PostgreSQL, cross-platform mobile (Flutter), infrastructure on Hetzner with container-based deployments thanks to Kamal.</li>
+        <li>Sustained 99.95% uptime through reliability engineering, observability and incident practices installed from day one — not bolted on later.</li>
+        <li>Ran product discovery directly with users, translated insights into a prioritised backlog, and shipped iteratively — balancing velocity with pragmatism under tight constraints.</li>
+        <li>Recruited, coached and led a tight engineering unit optimised for ownership and customer impact over process.</li>
+      </ul>
+    </div>
+
+    <!-- Ripple -->
+    <div class="exp-block">
+      <div class="exp-header">
+        <span class="exp-company">Ripple</span>
+        <span class="exp-period">Sep 2023 – Oct 2025</span>
+      </div>
+      <div class="exp-role">Director of Software Engineering — Ripple Custody</div>
+      <p style="font-size:9pt;line-height:1.4;margin-bottom:4px;">
+        Led an international engineering organisation of up to 50 engineers across Geneva and San Francisco, building a mission-critical, data-intensive platform on Kubernetes for top-tier institutional customers.
+      </p>
+      <ul class="exp-bullets">
+        <li>Manager of managers: restructured the org into autonomous cross-functional squads with clear domain ownership, cutting coordination overhead and accelerating delivery.</li>
+        <li>Scaled from 40 to 50 engineers — owned hiring end-to-end from job scoping and levelling to structured interview loops, calibrated bar, and close strategy. Continuously raised talent density.</li>
+        <li>Installed lightweight execution systems: weekly planning, crisp milestones, directly responsible engineers per initiative — fewer escalations, faster decisions, higher throughput.</li>
+        <li>Partnered closely with Product and customer-facing teams to translate priorities into realistic scopes, push back on execution risk, and shape roadmap with engineering perspective.</li>
+        <li>Technical voice externally with key stakeholders and enterprise customers; ran 1:1s, addressed issues early, prevented management and culture debt.</li>
+        <li>Achieved 96% team satisfaction through structured coaching, transparent goals and a culture of ownership — across time zones, remote-first.</li>
+      </ul>
+    </div>
+
+    <!-- FlowBank -->
+    <div class="exp-block">
+      <div class="exp-header">
+        <span class="exp-company">FlowBank SA</span>
+        <span class="exp-period">Aug 2022 – Aug 2023</span>
+      </div>
+      <div class="exp-role">Global Head of Technology — Executive Director</div>
+      <ul class="exp-bullets">
+        <li>Led the entire IT department (~40 people) at a digital bank; defined strategy, annual technology roadmap and budget presented to the Executive Committee.</li>
+        <li>Architected a real-time event-driven data platform (Apache Kafka) connecting trading, compliance, marketing and finance — distributed pipelines running on Kubernetes.</li>
+        <li>Initiated and led the migration from on-premise to AWS, introduced DevOps culture, and established release cadence with quality gates across services and product engineering.</li>
+        <li>Shaped the digital product portfolio including CRM and Core Banking; partnered directly with executives and go-to-market on sequencing and trade-offs.</li>
+      </ul>
+    </div>
+
+    <!-- Other Experiences -->
+    <div class="other-experiences">
+    <h2 class="section-title">Other Experiences</h2>
+
+    <div class="exp-oneliner">
+      <span class="ol-company">Wonderful</span>
+      <span class="ol-desc">Field CTO — AI platform, enterprise delivery</span>
+      <span class="ol-period">Jan 2026 – Mar 2026</span>
+    </div>
+    <div class="exp-oneliner">
+      <span class="ol-company">Scrypt</span>
+      <span class="ol-desc">Head of Engineering — reorganised into squads, introduced lightweight tooling</span>
+      <span class="ol-period">Nov 2025 – Dec 2025</span>
+    </div>
+    <div class="exp-oneliner">
+      <span class="ol-company">Pictet Asset Management</span>
+      <span class="ol-desc">Site Reliability Engineer — K8s, Terraform, Go</span>
+      <span class="ol-period">2021</span>
+    </div>
+    <div class="exp-oneliner">
+      <span class="ol-company">Union Bancaire Privée</span>
+      <span class="ol-desc">Internal Auditor — IT Security</span>
+      <span class="ol-period">Nov 2018 – Jul 2020</span>
+    </div>
+    <div class="exp-oneliner">
+      <span class="ol-company">Banque de Commerce et de Placements</span>
+      <span class="ol-desc">Technical Leader — Go, Kubernetes</span>
+      <span class="ol-period">Nov 2017 – Oct 2018</span>
+    </div>
+    <div class="exp-oneliner">
+      <span class="ol-company">SIX Swiss Exchange</span>
+      <span class="ol-desc">Scala Developer — REST services</span>
+      <span class="ol-period">Feb 2017 – Oct 2017</span>
+    </div>
+    <div class="exp-oneliner">
+      <span class="ol-company">Glencore</span>
+      <span class="ol-desc">Software Engineer — commodity trade systems</span>
+      <span class="ol-period">Aug 2016 – Jan 2017</span>
+    </div>
+    <div class="exp-oneliner">
+      <span class="ol-company">Swissquote</span>
+      <span class="ol-desc">Technical Lead — consumer fintech (millions of users)</span>
+      <span class="ol-period">Jan 2016 – Jul 2016</span>
+    </div>
+    <div class="exp-oneliner">
+      <span class="ol-company">Rolex SA</span>
+      <span class="ol-desc">Software Engineer (5 years, hands-on)</span>
+      <span class="ol-period">Jan 2011 – Dec 2015</span>
+    </div>
+    <div class="exp-oneliner">
+      <span class="ol-company">Axway</span>
+      <span class="ol-desc">Software Engineer — SEPA banking, CI/CD adoption</span>
+      <span class="ol-period">Jan 2009 – Dec 2010</span>
+    </div>
+    </div><!-- /.other-experiences -->
+
+  </main>
+
+  <!-- ── SIDEBAR ── -->
+  <section class="sidebar">
+
+    <h2 class="section-title">Infrastructure</h2>
+    <div class="skill-group">
+      <span class="skill-tag">Kubernetes</span>
+      <span class="skill-tag">Docker</span>
+      <span class="skill-tag">Terraform</span>
+      <span class="skill-tag">AWS</span>
+      <span class="skill-tag">Distributed systems</span>
+      <span class="skill-tag">Event-driven architecture</span>
+      <span class="skill-tag">Data pipelines</span>
+      <span class="skill-tag">Observability</span>
+    </div>
+
+    <h2 class="section-title">Languages & Stack</h2>
+    <div class="skill-group">
+      <span class="skill-tag">Go</span>
+      <span class="skill-tag">Rust</span>
+      <span class="skill-tag">Elixir</span>
+      <span class="skill-tag">Scala</span>
+      <span class="skill-tag">TypeScript</span>
+      <span class="skill-tag">PostgreSQL</span>
+      <span class="skill-tag">GitHub Actions</span>
+    </div>
+
+    <h2 class="section-title">Leadership</h2>
+    <div class="skill-group">
+      <span class="skill-tag">Startup scaling</span>
+      <span class="skill-tag">Early-stage execution</span>
+      <span class="skill-tag">Manager of managers</span>
+      <span class="skill-tag">Manager of individual contributors</span>
+      <span class="skill-tag">Hiring & levelling</span>
+      <span class="skill-tag">Coaching &amp; 1:1s</span>
+      <span class="skill-tag">Founder</span>
+    </div>
+
+    <h2 class="section-title">Delivery</h2>
+    <div class="skill-group">
+      <span class="skill-tag">Lightweight process</span>
+      <span class="skill-tag">Squad model</span>
+      <span class="skill-tag">Pod model</span>
+      <span class="skill-tag">Shipping culture</span>
+      <span class="skill-tag">Reliability</span>
+      <span class="skill-tag">PM partnership</span>
+    </div>
+
+    <h2 class="section-title">Languages</h2>
+    <div class="lang-item"><span>French</span><span class="lang-level">Native</span></div>
+    <div class="lang-item"><span>English</span><span class="lang-level">C1</span></div>
+    <div class="lang-item"><span>German</span><span class="lang-level">A2</span></div>
+
+    <h2 class="section-title">Education</h2>
+    <div class="edu-item">
+      <div class="edu-degree">MSc Informatics &amp; Networking</div>
+      <div class="edu-school">EIGSI La Rochelle, 2009</div>
+    </div>
+
+    <h2 class="section-title">Location</h2>
+    <div style="font-family: Arial, sans-serif; font-size: 8.5pt; color: var(--muted); line-height: 1.5;">
+      Geneva, Switzerland<br>
+      Swiss resident<br>
+      CET time zone
+    </div>
+
+  </section>
+
+</div><!-- /.body -->
+
+</body>
+</html>

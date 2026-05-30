@@ -1,0 +1,92 @@
+Location: Geneva (Hybrid)
+
+Experience: 7+ years in backend engineering, with management experience
+
+Languages: English (C1+) and French (C1)
+
+Contract: Full-time employee
+
+Team: Backend (7 developers), working closely with Frontend and Product
+
+Reports to: CPO
+
+The RoleAs Engineering Manager – Backend, you will own the performance, organization, and evolution of the backend engineering team.
+
+You will work closely with the CPO, Product Manager, Product Owners, and Tech Leads to align engineering capacity with product priorities, while ensuring the platform remains reliable, scalable, and maintainable.
+
+The backend team already has strong technical expertise. Your role is to bring structure, ownership, and long-term vision to the engineering organization.
+
+You will define and drive a forward-looking technical roadmap (6–12 months), anticipate platform risks, and lead structural improvements to support the company’s growth.
+
+This role combines team leadership, engineering strategy, and strong technical credibility.
+
+What You Will Do
+
+Team Leadership
+
+    Manage and mentor backend engineers through regular 1-to-1 meetings
+    Own performance reviews and career development plans
+    Build a strong engineering culture focused on ownership, quality, and accountability
+    Lead hiring decisions and scale the backend team
+
+Engineering Organization
+
+    Own the allocation of backend engineers across squads and initiatives
+    Define and maintain a clear balance between product delivery and technical investment
+    Drive coordination across squads and ensure alignment at the backend level
+    Establish scalable ways of working and improve overall team efficiency
+
+Platform Reliability & Operations
+
+    Own platform reliability, performance and scalability outcomes
+    Define and implement incident management and operational processes
+    Establish operational ownership through rotations (on-call, release management, support roles)
+    Drive improvements in monitoring, observability and system resilience
+
+Technical Leadership & Strategy
+
+    Define and drive the backend technical roadmap in collaboration with Tech Leads
+    Lead key architectural decisions and ensure long-term platform coherence
+    Identify risks early (scalability, performance, technical debt) and proactively address them
+    Set and enforce engineering standards across the backend team
+    Contribute to critical technical topics when needed (CI/CD, infrastructure, monitoring, platform tooling)
+
+The role remains hands-on when necessary, with around 20–30% of time dedicated to technical topics.
+
+Current Technical EnvironmentBackend
+
+    Ruby / Ruby on Rails
+    PostgreSQL
+    Redis / Sidekiq
+    Elasticsearch
+
+Infrastructure & Monitoring
+
+    Heroku
+    AWS
+    Cloudflare
+    Sentry
+    New Relic
+
+Engineering Workflow
+
+    CircleCI
+    Bitbucket
+    Jira
+    Confluence
+
+What We Are Looking For
+
+    Strong backend engineering background building production systems
+    Solid experience with Ruby on Rails in production environments
+    Proven experience managing or leading backend engineering teams
+    Experience working on high-traffic or transactional platforms
+    Ability to drive both execution and long-term technical strategy
+    Strong organizational and communication skills
+    Experience collaborating closely with product teams
+
+Nice to Have
+
+    Experience working on e-commerce or fintech platforms
+    Experience with logistics, order management, or payment systems
+    Experience managing distributed or remote engineering teams

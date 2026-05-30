@@ -1,0 +1,557 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Thibault Fouache — Architecte Logiciel Senior</title>
+<style>
+  /* ── Reset & Base ── */
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  :root {
+    --accent: #005f4b;
+    --accent-light: #e6f1ee;
+    --accent-mid: #2a8a73;
+    --text: #1c1c1e;
+    --muted: #6b7280;
+    --border: #d1d5db;
+    --bg: #ffffff;
+    --sidebar-bg: #f4f9f7;
+    --page-width: 210mm;
+    --page-height: 297mm;
+    font-family: 'Georgia', 'Times New Roman', serif;
+  }
+
+  html { background: #e5e7eb; }
+
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-size: 10pt;
+    line-height: 1.5;
+    max-width: var(--page-width);
+    margin: 20px auto;
+    box-shadow: 0 4px 24px rgba(0,0,0,0.15);
+  }
+
+  /* ── Header ── */
+  .header {
+    background: var(--accent);
+    color: white;
+    padding: 28px 32px 24px;
+    display: grid;
+    grid-template-columns: 1fr auto;
+    gap: 16px;
+    align-items: end;
+  }
+
+  .header-name {
+    font-size: 26pt;
+    font-weight: 400;
+    letter-spacing: 0.5px;
+    line-height: 1.1;
+  }
+
+  .header-title {
+    font-size: 11pt;
+    color: rgba(255,255,255,0.85);
+    font-style: italic;
+    margin-top: 4px;
+  }
+
+  .header-contact {
+    text-align: right;
+    font-size: 8.5pt;
+    color: rgba(255,255,255,0.85);
+    font-family: 'Arial', sans-serif;
+    line-height: 1.7;
+  }
+
+  .header-contact a { color: rgba(255,255,255,0.85); text-decoration: none; }
+
+  /* ── Tag line ── */
+  .tagline {
+    background: var(--accent-mid);
+    color: white;
+    padding: 8px 32px;
+    font-size: 8.5pt;
+    font-family: 'Arial', sans-serif;
+    letter-spacing: 0.8px;
+    text-transform: uppercase;
+  }
+
+  /* ── Body layout ── */
+  .body {
+    display: grid;
+    grid-template-columns: 1fr 168px;
+    gap: 0;
+    min-height: calc(var(--page-height) - 110px);
+  }
+
+  /* ── Main ── */
+  .main {
+    padding: 24px 28px 24px 32px;
+    border-right: 1px solid var(--border);
+  }
+
+  /* ── Sidebar ── */
+  .sidebar {
+    background: var(--sidebar-bg);
+    padding: 24px 18px;
+  }
+
+  /* ── Section titles ── */
+  .section-title {
+    font-family: 'Arial', sans-serif;
+    font-size: 7.5pt;
+    font-weight: 700;
+    letter-spacing: 1.4px;
+    text-transform: uppercase;
+    color: var(--accent);
+    border-bottom: 1.5px solid var(--accent);
+    padding-bottom: 4px;
+    margin-bottom: 14px;
+    margin-top: 22px;
+  }
+
+  .section-title:first-child { margin-top: 0; }
+
+  /* ── Experience blocks ── */
+  .exp-block {
+    margin-bottom: 16px;
+    page-break-inside: avoid;
+  }
+
+  .exp-header {
+    display: grid;
+    grid-template-columns: 1fr auto;
+    gap: 8px;
+    align-items: baseline;
+    margin-bottom: 2px;
+  }
+
+  .exp-company {
+    font-family: 'Arial', sans-serif;
+    font-weight: 700;
+    font-size: 10pt;
+    color: var(--accent);
+  }
+
+  .exp-period {
+    font-family: 'Arial', sans-serif;
+    font-size: 8pt;
+    color: var(--muted);
+    white-space: nowrap;
+  }
+
+  .exp-role {
+    font-style: italic;
+    font-size: 9.5pt;
+    color: var(--text);
+    margin-bottom: 5px;
+  }
+
+  .exp-bullets {
+    list-style: none;
+    padding: 0;
+  }
+
+  .exp-bullets li {
+    padding-left: 12px;
+    position: relative;
+    margin-bottom: 3px;
+    font-size: 9.5pt;
+    line-height: 1.45;
+  }
+
+  .exp-bullets li::before {
+    content: '–';
+    position: absolute;
+    left: 0;
+    color: var(--accent-mid);
+  }
+
+  /* ── One-liner experience ── */
+  .exp-oneliner {
+    display: grid;
+    grid-template-columns: auto 1fr auto;
+    gap: 6px 10px;
+    align-items: baseline;
+    margin-bottom: 5px;
+    font-size: 9pt;
+  }
+
+  .exp-oneliner .ol-company {
+    font-family: 'Arial', sans-serif;
+    font-weight: 700;
+    color: var(--accent);
+    white-space: nowrap;
+  }
+
+  .exp-oneliner .ol-desc {
+    color: var(--muted);
+    font-style: italic;
+  }
+
+  .exp-oneliner .ol-period {
+    font-family: 'Arial', sans-serif;
+    font-size: 8pt;
+    color: var(--muted);
+    white-space: nowrap;
+    text-align: right;
+  }
+
+  /* ── Sidebar widgets ── */
+  .sidebar .section-title {
+    font-size: 7pt;
+    margin-top: 20px;
+  }
+
+  .sidebar .section-title:first-child { margin-top: 0; }
+
+  .skill-group {
+    margin-bottom: 12px;
+  }
+
+  .skill-group-name {
+    font-family: 'Arial', sans-serif;
+    font-size: 7.5pt;
+    font-weight: 700;
+    color: var(--accent);
+    text-transform: uppercase;
+    letter-spacing: 0.6px;
+    margin-bottom: 4px;
+  }
+
+  .skill-tag {
+    display: inline-block;
+    background: var(--accent-light);
+    color: var(--accent);
+    font-family: 'Arial', sans-serif;
+    font-size: 7.5pt;
+    padding: 2px 6px;
+    border-radius: 2px;
+    margin: 2px 2px 2px 0;
+    line-height: 1.4;
+  }
+
+  .lang-item {
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Arial', sans-serif;
+    font-size: 8.5pt;
+    margin-bottom: 4px;
+    align-items: center;
+  }
+
+  .lang-level {
+    color: var(--muted);
+    font-size: 7.5pt;
+    font-style: italic;
+  }
+
+  .edu-item {
+    margin-bottom: 10px;
+    font-size: 8.5pt;
+    line-height: 1.4;
+  }
+
+  .edu-degree {
+    font-weight: bold;
+    color: var(--accent);
+    font-family: 'Arial', sans-serif;
+    font-size: 8pt;
+  }
+
+  .edu-school {
+    color: var(--muted);
+    font-style: italic;
+  }
+
+  .profile-text {
+    font-size: 9.5pt;
+    line-height: 1.55;
+    color: var(--text);
+    font-style: italic;
+    border-left: 3px solid var(--accent-mid);
+    padding-left: 12px;
+    margin-bottom: 4px;
+  }
+
+  /* ── Print ── */
+  @media print {
+    html { background: white; }
+
+    body {
+      margin: 0;
+      max-width: none;
+      box-shadow: none;
+      width: 210mm;
+      min-height: 297mm;
+      font-size: 9.5pt;
+    }
+
+    @page {
+      size: A4;
+      margin: 0;
+    }
+
+    .exp-block { page-break-inside: avoid; }
+    .section-title { page-break-after: avoid; }
+    a { color: inherit !important; text-decoration: none !important; }
+  }
+</style>
+</head>
+<body>
+
+<!-- ══ EN-TÊTE ══ -->
+<header class="header">
+  <div>
+    <h1 class="header-name">Thibault Fouache</h1>
+    <div class="header-title">Architecte Logiciel Senior &nbsp;&middot;&nbsp; Banque Digitale &amp; Sécurité Applicative</div>
+  </div>
+  <div class="header-contact">
+    Genève, Suisse<br>
+    <a href="mailto:thibault.fouache@pm.me">thibault.fouache@pm.me</a><br>
+    +41 76 585 71 89<br>
+    <a href="https://linkedin.com/in/thibault-fouache">linkedin.com/in/thibault-fouache</a>
+  </div>
+</header>
+
+<div class="tagline">Architecture d'entreprise &nbsp;&middot;&nbsp; Private Banking &nbsp;&middot;&nbsp; Trade Finance &nbsp;&middot;&nbsp; Cloud &amp; DevSecOps</div>
+
+<!-- ══ CORPS ══ -->
+<div class="body">
+
+  <!-- ── COLONNE PRINCIPALE ── -->
+  <main class="main">
+
+    <!-- Profil -->
+    <p class="profile-text">
+      Plus de 15 ans dans la conception et la livraison de plateformes digitales notamment en environnement bancaire suisse régulé.
+      Expertise en architectures microservices, REST APIs, patterns cloud, CI/CD et sécurité applicative (cryptographie, threat modeling).
+      Expérience opérationnelle en banque privée, trade finance et custody blockchain, complétée par une lecture règlementaire issue de l'audit interne.
+      Capacité à collaborer étroitement avec Product Owners et équipes de développement, à vulgariser les enjeux techniques et à animer une culture SRE / DevOps / Agile.
+    </p>
+
+    <!-- Expérience -->
+    <h2 class="section-title">Expérience professionnelle</h2>
+
+    <!-- Ripple -->
+    <div class="exp-block">
+      <div class="exp-header">
+        <span class="exp-company">Ripple</span>
+        <span class="exp-period">Sep. 2023 – Oct. 2025</span>
+      </div>
+      <div class="exp-role">Director of Software Engineering — Plateforme de Custody Blockchain</div>
+      <p style="font-size:9.5pt;line-height:1.5;margin-bottom:6px;">
+        Direction d'une organisation impliquant jusqu'à 50 ingénieurs répartie sur Genève, New York et San Francisco pour construire une plateforme de custody blockchain régulée à destination de clients institutionnels. Choix d'architecture, structuration en squads autonomes et alignement avec les contraintes règlementaires.
+      </p>
+      <ul class="exp-bullets">
+        <li>Définition des choix d'architecture de la plateforme (Scala, PostgreSQL, Kubernetes, Rust, React) et alignement transverse avec les exigences de sécurité et de conformité.</li>
+        <li>Restructuration de l'ingénierie en escouades autonomes pour décloisonner les équipes et améliorer la vélocité de livraison transverse.</li>
+        <li>Présentation de la stratégie technologique, de l'état de la livraison et de la posture de risque à la direction générale et aux partenaires externes.</li>
+        <li>Maintien d'une relation étroite avec les clients institutionnels clés afin d'accompagner la livraison de cas d'usage spécifiques et d'assurer l'alignement avec leurs besoins.</li>
+      </ul>
+    </div>
+
+    <!-- FlowBank -->
+    <div class="exp-block">
+      <div class="exp-header">
+        <span class="exp-company">FlowBank SA</span>
+        <span class="exp-period">Août 2022 – Août 2023</span>
+      </div>
+      <div class="exp-role">Global Head of Technology — Executive Director</div>
+      <ul class="exp-bullets">
+        <li>Conception de l'architecture cible AWS d'une banque digitale régulée FINMA — conteneurisation, microservices, API et patterns cloud.</li>
+        <li>Architecture d'une plateforme de données temps réel reliant les nouveaux systèmes de trading à la conformité, au marketing et à la finance, permettant des flux en direct entre les fonctions cœur de la banque.</li>
+        <li>Lancement et direction des programmes Core Banking et CRM, structurant le portefeuille produit digital de la banque dès l'origine.</li>
+        <li>Diffusion d'une culture DevOps / DevSecOps dans le département (~40 personnes) et modernisation de la chaîne CI/CD.</li>
+        <li>Préparation et présentation de la feuille de route technologique et du budget au Comité Exécutif.</li>
+      </ul>
+    </div>
+
+    <!-- Pictet -->
+    <div class="exp-block">
+      <div class="exp-header">
+        <span class="exp-company">Pictet Asset Management</span>
+        <span class="exp-period">2021</span>
+      </div>
+      <div class="exp-role">Site Reliability Engineer — Contractor</div>
+      <ul class="exp-bullets">
+        <li>Direction technique de la mise en œuvre d'une solution End User Computing dans un cadre bancaire suisse exigeant.</li>
+        <li>Architecture et exploitation cloud avec AWS, Terraform, Docker, Kubernetes et Go ; encadrement d'une équipe de deux SRE.</li>
+      </ul>
+    </div>
+
+    <!-- UBP -->
+    <div class="exp-block">
+      <div class="exp-header">
+        <span class="exp-company">Union Bancaire Privée</span>
+        <span class="exp-period">Nov. 2018 – Juil. 2020</span>
+      </div>
+      <div class="exp-role">Auditeur Interne — IT &amp; Sécurité</div>
+      <p style="font-size:9.5pt;line-height:1.5;margin-bottom:6px;">
+        Direction et supervision d'audits IT et de sécurité bancaire dans le respect du LPD / RGPD et des cadres de conformité internes.
+      </p>
+      <ul class="exp-bullets">
+        <li>Identification d'une vulnérabilité critique en gestion des identités et des accès (IAM) affectant 0,5 % des utilisateurs de la banque.</li>
+        <li>Conduite d'audits IT et de sécurité bancaire couvrant le patrimoine technologique de la banque, en alignement avec le LPD / RGPD et les standards internes.</li>
+        <li>Encadrement d'une équipe de deux spécialistes sécurité sur des évaluations cybersécurité transverses.</li>
+        <li>Construction d'outils d'analyse de données (R, Tableau) pour augmenter la couverture d'audit et la crédibilité des constats.</li>
+      </ul>
+    </div>
+
+    <!-- BCP -->
+    <div class="exp-block">
+      <div class="exp-header">
+        <span class="exp-company">Banque de Commerce et de Placements</span>
+        <span class="exp-period">Nov. 2017 – Oct. 2018</span>
+      </div>
+      <div class="exp-role">Technical Lead — Trade Finance</div>
+      <ul class="exp-bullets">
+        <li>Pilotage technique de l'application de Trade Finance, alignement de la stack (Java, JavaScript, Kubernetes) et capture des besoins directement auprès des banquiers.</li>
+        <li>Mise en place d'une démarche DevOps incluant l'installation et la configuration d'un cluster Kubernetes et de Gitlab on premise.</li>
+      </ul>
+    </div>
+
+    <!-- Autres expériences -->
+    <h2 class="section-title">Autres expériences</h2>
+
+    <div class="exp-oneliner">
+      <span class="ol-company">Wonderful</span>
+      <span class="ol-desc">Field CTO</span>
+      <span class="ol-period">Janv. 2026 – Mars 2026</span>
+    </div>
+    <div class="exp-oneliner">
+      <span class="ol-company">Scrypt</span>
+      <span class="ol-desc">Head of Engineering</span>
+      <span class="ol-period">Nov. 2025 – Déc. 2025</span>
+    </div>
+    <div class="exp-oneliner">
+      <span class="ol-company">Bazzile Technology SA</span>
+      <span class="ol-desc">CTO / CPO — Plateforme mobile immobilier</span>
+      <span class="ol-period">Août 2020 – Présent</span>
+    </div>
+    <div class="exp-oneliner">
+      <span class="ol-company">SIX Swiss Exchange</span>
+      <span class="ol-desc">Développeur Scala</span>
+      <span class="ol-period">Févr. 2017 – Oct. 2017</span>
+    </div>
+    <div class="exp-oneliner">
+      <span class="ol-company">Glencore International AG</span>
+      <span class="ol-desc">Ingénieur Logiciel — Trade Finance Java</span>
+      <span class="ol-period">Août 2016 – Janv. 2017</span>
+    </div>
+    <div class="exp-oneliner">
+      <span class="ol-company">Swissquote</span>
+      <span class="ol-desc">Technical Lead — Forex</span>
+      <span class="ol-period">Janv. 2016 – Juil. 2016</span>
+    </div>
+    <div class="exp-oneliner">
+      <span class="ol-company">Rolex SA</span>
+      <span class="ol-desc">Ingénieur Logiciel Full-Stack</span>
+      <span class="ol-period">Janv. 2011 – Déc. 2015</span>
+    </div>
+    <div class="exp-oneliner">
+      <span class="ol-company">Axway Software</span>
+      <span class="ol-desc">Ingénieur Logiciel — Application SEPA</span>
+      <span class="ol-period">Janv. 2009 – Déc. 2010</span>
+    </div>
+
+  </main>
+
+  <!-- ── BARRE LATÉRALE ── -->
+  <section class="sidebar">
+
+    <h2 class="section-title">Architecture</h2>
+    <div class="skill-group">
+      <span class="skill-tag">Microservices</span>
+      <span class="skill-tag">REST APIs</span>
+      <span class="skill-tag">GraphQL</span>
+      <span class="skill-tag">Event-driven</span>
+      <span class="skill-tag">Scalabilité</span>
+      <span class="skill-tag">Résilience</span>
+    </div>
+
+    <h2 class="section-title">Cloud &amp; DevSecOps</h2>
+    <div class="skill-group">
+      <span class="skill-tag">AWS</span>
+      <span class="skill-tag">Kubernetes</span>
+      <span class="skill-tag">Docker</span>
+      <span class="skill-tag">Terraform</span>
+      <span class="skill-tag">Conteneurisation</span>
+      <span class="skill-tag">CI/CD</span>
+      <span class="skill-tag">GitHub Actions</span>
+    </div>
+
+    <h2 class="section-title">Sécurité applicative</h2>
+    <div class="skill-group">
+      <span class="skill-tag">OWASP</span>
+      <span class="skill-tag">IAM</span>
+      <span class="skill-tag">Cryptographie</span>
+      <span class="skill-tag">Audit IT</span>
+      <span class="skill-tag">Gestion des risques</span>
+    </div>
+
+    <h2 class="section-title">Langages</h2>
+    <div class="skill-group">
+      <span class="skill-tag">Go</span>
+      <span class="skill-tag">Elixir</span>
+      <span class="skill-tag">Rust</span>
+      <span class="skill-tag">Scala</span>
+      <span class="skill-tag">Java</span>
+      <span class="skill-tag">TypeScript</span>
+    </div>
+
+    <h2 class="section-title">Domaines</h2>
+    <div class="skill-group">
+      <span class="skill-tag">Banque digitale</span>
+      <span class="skill-tag">Banque privée</span>
+      <span class="skill-tag">Marchés financiers</span>
+      <span class="skill-tag">Custody blockchain</span>
+      <span class="skill-tag">Trade finance</span>
+    </div>
+
+    <h2 class="section-title">Réglementaire</h2>
+    <div class="skill-group">
+      <span class="skill-tag">FINMA</span>
+      <span class="skill-tag">LPD / RGPD</span>
+      <span class="skill-tag">Audit interne</span>
+    </div>
+
+    <h2 class="section-title">Leadership</h2>
+    <div class="skill-group">
+      <span class="skill-tag">Gouvernance IT</span>
+      <span class="skill-tag">Roadmap &amp; budget</span>
+      <span class="skill-tag">Reporting ExCo</span>
+      <span class="skill-tag">Squads &amp; OKR</span>
+    </div>
+
+    <h2 class="section-title">Langues</h2>
+    <div class="lang-item"><span>Français</span><span class="lang-level">Langue maternelle</span></div>
+    <div class="lang-item"><span>Anglais</span><span class="lang-level">C1</span></div>
+    <div class="lang-item"><span>Allemand</span><span class="lang-level">A2</span></div>
+
+    <h2 class="section-title">Formation</h2>
+    <div class="edu-item">
+      <div class="edu-degree">M.Sc. Informatique &amp; Réseaux</div>
+      <div class="edu-school">EIGSI La Rochelle, 2009</div>
+    </div>
+    <div class="edu-item">
+      <div class="edu-degree">Ethereum Blockstars</div>
+      <div class="edu-school">B9lab Certification, 2019</div>
+    </div>
+
+    <h2 class="section-title">Localisation</h2>
+    <div style="font-family: Arial, sans-serif; font-size: 8.5pt; color: var(--muted); line-height: 1.5;">
+      Genève, Suisse<br>
+      Résident suisse
+    </div>
+
+  </section>
+
+</div><!-- /.body -->
+
+</body>
+</html>

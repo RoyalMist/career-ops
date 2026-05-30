@@ -1,0 +1,2 @@
+- [director.md](director.md) — Rejected: too few years of management experience.
+- [cto.md](cto.md) — Rejected: preference for a London-based candidate.

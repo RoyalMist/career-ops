@@ -1,0 +1,46 @@
+Head of IT - Asset Management
+
+    Geneva, Switzerland
+    Full-time
+    Type de contrat: CDI - Permanent Contract
+
+Company Description
+
+Joining Mirabaud, means entering an entrepreneurial and innovative environment. With the 7th generation of the Mirabaud family working within the bank, the culture is that of a family business. With over 700 employees based in 10 countries worldwide, Mirabaud offers opportunities to develop one’s career across an international network of 14 offices.
+Job Description
+
+Define, maintain and execute the overall Digital & IT strategy for Mirabaud Asset Management, ensuring full coverage of the IT landscape (digital, applications, data and infrastructure), aligned with business objectives, operational needs and governance requirements.
+
+    Act as the overall owner of the IT function for the business, ensuring coherence, robustness and sustainability of the full IT environment, whilst maintaining a clear separation between run, infrastructure operations and transformation activities;
+    Translate business needs into pragmatic digital, data, automation and IT solutions, working closely with business stakeholders, infrastructure specialists and external service providers;
+    Define and maintain target architectures covering applications, data, integrations, infrastructure evolution, automation and AI-related initiatives, ensuring scalability, resilience, security and cost-efficiency;
+    Drive digital transformation initiatives, including process automation and pragmatic adoption of AI solutions, whilst ensuring compatibility with existing infrastructure, security standards and regulatory constraints;
+    Oversee the governance, evolution and performance of outsourced IT services and internal infrastructure operations, challenging providers on operational quality and strategic alignment, whilst supervising day-to-day IT continuity and escalations;
+    Ensure alignment of all Digital & IT initiatives with internal governance frameworks, risk management principles and applicable regulatory requirements, maintaining relevant policy documentation in close cooperation with risk and compliance teams;
+    Prepare, manage and monitor the Digital & IT budget, covering both operational costs and transformation initiatives, whilst preparing regular reporting, dashboards and KPIs related to performance, infrastructure stability and project delivery;
+    Support internal and external audits related to IT, data, digital and infrastructure topics, coordinating follow-up actions and remediation plans.
+
+Qualifications
+
+    Master's degree in Computer Science, Engineering, Data Science or equivalent, preferably from a top-tier university (e.g. EPFL, ETH or equivalent);
+    5–8 years of professional experience in digital, IT or technology roles, with exposure to digital transformation and broader IT/infrastructure environments;
+    Strong understanding of modern digital and IT architectures, including applications, data platforms, automation and infrastructure operating models;
+    Solid conceptual understanding of infrastructure environments (cloud, networks, security, workplace) with ability to supervise and steer specialists and external providers;
+    Proven ability to translate business needs into structured, realistic and value-driven IT and digital solutions;
+    Pragmatic, business-oriented mindset combining digital innovation with operational and infrastructure constraints; demonstrated interest in digital transformation and applied AI;
+    Excellent analytical, structuring and prioritisation skills with strong ownership, accountability and solution-oriented approach;
+    Strong interpersonal skills and ability to interact confidently with senior management, business teams and technical experts;
+    Proficiency in standard office tools (MS Office); familiarity with Microsoft 365 and Azure environments is a strong asset;
+    Fluent in French and English.
+
+Additional Information
+
+Step into the action!
+
+    Family-friendly and dynamic environment;
+    Direct impact on the business, no matter your position or seniority;
+    Work in an environment that encourages autonomy and entrepreneurship;
+    Flexible working arrangements to help you achieve a better work-life balance;
+    Variety of cultural and sporting activities during your free time;
+    Inclusion and equal treatment;
+    Various employee benefits & family friendly benefits.
