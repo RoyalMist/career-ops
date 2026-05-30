@@ -5,7 +5,7 @@
 **Archetype:** AI Transformation / Technical AI Product Lead; hybrid Fintech / Blockchain Technology Leader
 **Score:** 4.1/5
 **Legitimacy:** High Confidence
-**PDF:** pending - worth generating if user decides to apply
+**PDF:** output/cv-thibault-fouache-bitcoin-suisse-2026-05-31.pdf; output/cover-letter-thibault-fouache-bitcoin-suisse-2026-05-31.pdf
 
 ---
 
@@ -83,6 +83,8 @@ Only accept if the role has meaningful AI roadmap ownership, visibility to leade
 
 ## E) Customization Plan
 
+**Generated material:** Tailored CV and cover letter created on 2026-05-31, focused on SCRYPT AI adoption, Ripple/Metaco regulated blockchain custody, Wonderful AI value translation, Bazzile product ownership, and FlowBank regulated roadmap/governance.
+
 | # | Section | Current status | Proposed change | Why |
 |---|---|---|---|---|
 | 1 | Summary | CTO/engineering executive | Reframe as AI strategy/product leader for regulated fintech and blockchain platforms | Match AI/product/crypto narrative |
@@ -140,7 +142,24 @@ Only accept if the role has meaningful AI roadmap ownership, visibility to leade
 
 ## H) Draft Application Answers
 
-Not generated because score is below 4.5/5. If applying, lead with SCRYPT + Wonderful + Ripple / Metaco, not generic CTO language.
+Tailored CV and cover letter generated because the user requested application material.
+
+**Files**
+
+- CV: `output/cv-thibault-fouache-bitcoin-suisse-2026-05-31.pdf`
+- Cover letter: `output/cover-letter-thibault-fouache-bitcoin-suisse-2026-05-31.pdf`
+
+**Short motivation**
+
+> I am interested in this role because it combines practical AI adoption, product and roadmap ownership, regulated fintech, and blockchain custody. At SCRYPT, I implemented Claude Enterprise with Slack, Linear, email and calendar integrations. At Ripple / Metaco, I led engineering for a regulated blockchain custody platform for institutional clients. That combination maps well to making AI useful, governed and measurable inside Bitcoin Suisse.
+
+**Compensation answer**
+
+> I would target CHF 180k-220k total compensation depending on reporting line, ownership of the AI roadmap, bonus/equity/crypto structure and expected Zug presence. I am flexible on structure if the mandate includes real strategic ownership of AI adoption, governance and product value.
+
+**Recruiter qualification**
+
+> Before going deeper, I would like to understand the reporting line, expected Zug presence, compensation band, and how much ownership the role has over AI roadmap, governance, adoption KPIs and platform backlog versus business analysis and requirements coordination.
 
 ---
 
