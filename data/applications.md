@@ -2,6 +2,9 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 57 | 2026-05-30 | Kraken / HR | AI Agents Solutions Architect - HR | 3.4/5 | Discarded | ❌ | [057](reports/057-kraken-hr-2026-05-30.md) | Discarded by candidate: lacks the required HR/People Ops, Workday, payroll and HRIS automation depth despite relevant agentic AI layer. |
+| 56 | 2026-05-30 | Kraken / Compliance | AI Agents Solutions Architect - Compliance | 4.0/5 | Discarded | ❌ | [056](reports/056-kraken-compliance-2026-05-30.md) | Discarded by candidate: lacks the deep AML/KYC, sanctions, financial crime and compliance-operations depth required for this track. |
+| 55 | 2026-05-30 | Kraken | AI Agents Solutions Architect - Finance | 4.2/5 | Discarded | ❌ | [055](reports/055-kraken-2026-05-30.md) | Discarded by candidate: lacks the deep finance operations, SOX, close/reconciliation and finance systems depth required for this track. |
 | 54 | 2026-05-30 | Medair | Global IT Manager | 3.8/5 | Discarded | ❌ | [054](reports/054-medair-2026-05-30.md) | Discarded by candidate: Christian faith-based team expectations are a culture mismatch, and NGO compensation is likely below target despite relevant Head-of-IT scope. |
 | 53 | 2026-05-30 | Anthropic | Solutions Architect, Applied AI | 4.1/5 | Discarded | ❌ | [053](reports/053-anthropic-2026-05-30.md) | Discarded by candidate: German C1/native requirement and likely Swiss-German customer presence make the role impractical despite strong Field CTO / Applied AI fit. |
 | 52 | 2026-05-30 | Our Common Home | Fractional IT Manager | 2.5/5 | Discarded | ❌ | [052](reports/052-our-common-home-2026-05-30.md) | Discarded by candidate: fresh and legitimate fractional IT support/admin mandate, but far below CTO/Head/Director target level and likely below compensation target. |

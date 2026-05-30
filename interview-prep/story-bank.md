@@ -114,3 +114,12 @@ This file accumulates your best interview stories over time. Each evaluation (Bl
 **R (Result):** Opened strategic enterprise discussions and created a practical bridge between AI product capabilities, business value and technical deployment.
 **Reflection:** Field CTO work is valuable when it reduces uncertainty for both buyers and implementers; the strongest demos connect architecture, workflow fit, risk and measurable adoption.
 **Best for questions about:** Field CTO fit, enterprise AI presales, Solutions Architect roles, executive communication, Claude adoption, technical discovery, customer workshops.
+
+### Regulated Agentic Automation - SCRYPT + UBP + Ripple / Metaco
+**Source:** Report #055 - Kraken - AI Agents Solutions Architect - Finance
+**S (Situation):** Regulated finance and crypto environments need automation, but failures can affect security, auditability, client trust, and operational continuity.
+**T (Task):** Show how to design AI-enabled workflows that create leverage while preserving control integrity and human accountability.
+**A (Action):** Combined Claude Enterprise workflow adoption at SCRYPT, IAM/audit control discipline from UBP, and regulated blockchain custody architecture and support ownership from Ripple / Metaco.
+**R (Result):** Created a credible pattern for agentic automation in high-trust environments: workflow fit, access boundaries, audit evidence, human checkpoints, incident ownership, and reusable operating practices.
+**Reflection:** In regulated finance, the value of agentic AI comes from safe operating design as much as model capability. The architecture must include control evidence, escalation, rollback, and clear process ownership from the start.
+**Best for questions about:** agentic AI governance, finance automation, SOX-adjacent controls, crypto infrastructure, auditability, human-in-the-loop workflows, production AI systems.
