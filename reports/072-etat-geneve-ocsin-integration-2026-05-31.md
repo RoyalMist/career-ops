@@ -5,7 +5,7 @@
 **Archetype:** Head of IT / Platform & Integration Service Lead, adjacent AI Transformation
 **Score:** 4.4/5
 **Legitimacy:** High Confidence
-**PDF:** not generated
+**PDF:** output/cv-thibault-fouache-etat-geneve-ocsin-integration-fr-2026-05-31.pdf; output/cover-letter-thibault-fouache-etat-geneve-ocsin-integration-fr-2026-05-31.pdf
 
 ---
 
