@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 74 | 2026-05-31 | Swiss Federal Administration / Swiss Army | Responsable Innovation | 3.3/5 | Discarded | ❌ | [074](reports/074-swiss-federal-administration-responsable-innovation-2026-05-31.md) | Discarded by candidate: military-police domain, Sion presence and active second official-language requirements are not worth pursuing. |
 | 73 | 2026-05-31 | Etat de Geneve / OCSIN (SIT) | Cheffe ou chef de Service - Solutions d'Infrastructures Transverses | 4.3/5 | Evaluated | ❌ | [073](reports/073-etat-geneve-ocsin-sit-2026-05-31.md) | Strong public-sector infrastructure/platform service lead fit: cloud, IaC/CI-CD, APIM/API, databases, resilience, budget/procurement; class 25; deadline 2026-06-14. |
 | 72 | 2026-05-31 | Etat de Geneve / OCSIN | Cheffe ou chef de Service - Integration | 4.4/5 | Applied | ✅ | [072](reports/072-etat-geneve-ocsin-integration-2026-05-31.md) | Applied 2026-05-31 with tailored CV and cover letter; strong public-sector Head of Service fit. |
 | 71 | 2026-05-31 | Amazon Web Services (AWS) | Solutions Architect, Enterprise, Europe-Central | 4.2/5 | Applied | ✅ | [071](reports/071-aws-solutions-architect-enterprise-2026-05-31.md) | Applied 2026-05-31 with tailored resume; strong Field CTO / enterprise solutions fit, with caveats on retail/CPG domain and level. |
