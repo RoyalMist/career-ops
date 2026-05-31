@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 71 | 2026-05-31 | Amazon Web Services (AWS) | Solutions Architect, Enterprise, Europe-Central | 4.2/5 | Evaluated | ❌ | [071](reports/071-aws-solutions-architect-enterprise-2026-05-31.md) | Strong Field CTO / enterprise solutions fit in Geneva; apply if open to senior SA IC path, with caveats on retail/CPG domain and level. |
 | 70 | 2026-05-31 | Cargill | Senior Software Engineer - Agriculture & Trading M/F/D | 2.8/5 | Discarded | ❌ | [070](reports/070-cargill-senior-software-engineer-agriculture-trading-2026-05-31.md) | Discarded by candidate: Geneva/agri-trading domain is relevant, but role is downlevel senior IC .NET/WPF and likely below target comp. |
 | 66 | 2026-05-31 | SECO / Swiss Federal Administration | architecte d'entreprise | 3.4/5 | Evaluated | ❌ | [066](reports/066-seco-enterprise-architect-2026-05-31.md) | Not recommended: strongest Swiss Federation fit, but Bern, active two-official-language requirement, and likely federal comp below target. |
 | 67 | 2026-05-31 | FOCP / Swiss Federal Administration | Architecte informatique senior | 2.7/5 | Discarded | ❌ | [067](reports/067-focp-senior-it-architect-2026-05-31.md) | Discarded by candidate: embedded/telecom/siren-alerting domain mismatch plus official-language and comp constraints. |
