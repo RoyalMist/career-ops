@@ -82,6 +82,8 @@ compensation:
   target_range: "230k" # Target total compensation not found in _base.
   currency: "CHF"
   minimum: "160k" # Walk-away number not found in _base.
+  public_sector_minimum: "150k"
+  public_sector_note: "Can accept lower compensation for high-impact public-sector or institutional architect roles; assess impact and strategic authority separately from private-sector executive target."
   location_flexibility: "Geneva/Lausanne/Swiss market preferred; remote or hybrid availability to confirm"
 
 location:

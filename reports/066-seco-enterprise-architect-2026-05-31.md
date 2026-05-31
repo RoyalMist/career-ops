@@ -3,7 +3,7 @@
 **Date:** 2026-05-31
 **URL:** https://www.linkedin.com/jobs/view/4417199409/
 **Archetype:** Enterprise Architect / AI Transformation adjacent
-**Score:** 3.4/5
+**Score:** 3.8/5
 **Legitimacy:** High Confidence
 **PDF:** not generated
 
@@ -22,7 +22,7 @@
 | Remote | Not clearly stated on LinkedIn; official federal role is Bern-based |
 | TL;DR | Best of the four Swiss Federation roles on strategic scope, but two official languages, Bern presence, and likely federal salary ceiling make it a weak target. |
 
-**Recommendation:** Do not prioritize. This is relevant architecturally, but not strong enough to overcome German/official-language and comp constraints.
+**Recommendation:** Keep warm / qualify. This is a relevant high-impact public-sector enterprise architecture role. Compensation is acceptable if the class lands around CHF 150k+; the real qualification points are German/official-language expectations, Bern presence, and actual architecture decision rights.
 
 ## B) Match with CV
 
@@ -40,16 +40,16 @@
 |---|---:|---|
 | Two official languages likely means active German + French | High | Ask whether French/English is enough. Based on the wording, assume German is material. |
 | Bern-based federal role | Medium | Only pursue if they confirm meaningful remote or limited Bern presence. |
-| Salary likely below target | High | Federal ICT architect reference role is class 24; even class 26 maxes at CHF 175,617 in 2026 before allowances. |
+| Salary below private-sector target | Low/Medium | Public sector can be acceptable from CHF 150k if impact is high. Federal ICT architect reference role is class 24 and class 26 maxes at CHF 175,617 in 2026 before allowances. |
 | Not a Head/Director mandate | Medium | It has strategic influence, but likely no full technology department ownership. |
 
 ## C) Level and Strategy
 
 **Level detected:** senior enterprise architect / architecture lead. LinkedIn says Director, but the JD is not a CIO/Head of IT mandate.
 
-**Candidate natural level:** above this role. The candidate's strongest fit is CTO / Head of Engineering / Head of Technology with budget, teams and executive accountability.
+**Candidate natural level:** credible if the mandate has real enterprise architecture authority. The candidate's strongest fit remains CTO / Head of Engineering / Head of Technology, but high-impact architect roles are acceptable when they include strategic decision support, transformation and cross-domain influence.
 
-**If pursued anyway:** lead with FlowBank digital-bank transformation, budget and target architecture; frame the value as "enterprise architecture that translates into operating model, governance and execution."
+**If pursued:** lead with FlowBank digital-bank transformation, budget and target architecture; frame the value as "enterprise architecture that translates into operating model, governance and execution."
 
 **If they downlevel:** do not accept unless comp, remote and decision rights are unusually strong.
 
@@ -62,7 +62,7 @@
 | Federal ICT reference roles | Senior ICT architect is salary class 24; senior program manager is class 26. | https://www.epa.admin.ch/dam/epa/fr/dokumente/themen/lohnsystem/270_referenzfunktionen_informatik.pdf.download.pdf/referenzfunktionen_informatik_201911_f.pdf |
 | Bern IT architect market | jobs.ch reports average around CHF 146k for architecte IT in Bern, typical range up to around CHF 197k. | https://www.jobs.ch/de/lohn/?canton=be&term=architecte+it |
 
-**Comp read:** likely CHF 145k-170k, with upside maybe around CHF 175k if classified generously. This is below the candidate's target and probably near or below walk-away once Bern and language constraints are included.
+**Comp read:** likely CHF 145k-170k, with upside maybe around CHF 175k if classified generously. For this public-sector architecture context, the role is financially viable if it lands at CHF 150k+; below that, the Bern/language trade-off becomes hard to justify.
 
 ## E) Customization Plan
 

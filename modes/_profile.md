@@ -76,6 +76,12 @@ Frame profile as **"Technical builder with real-world proof"** that adapts frami
 - Do **not** pursue associate/specialist community, partner engagement, event, or ecosystem operations roles, even in cybersecurity or AI-adjacent domains, unless they are explicitly Lead/Head/Director mandates with strategic ownership.
 - Do **not** over-score small-team local Head of IT roles when the team is around 5 people and the work may include hands-on infrastructure/support operations. These are only worth pursuing if compensation is clearly near the executive target, decision rights are broad, transformation scope is strategic, and the role is not mainly operational IT management.
 
+**High-impact architect roles:**
+- Treat high-impact Enterprise Architect, Solution Architect, Field CTO, Principal Architect, and strategic cloud/AI architect roles as good-fit targets when they include customer or executive advisory, architecture authority, cross-domain influence, cloud/AI transformation, or public-sector/institutional impact.
+- Do not penalize these roles simply because they are individual-contributor roles. The candidate is still technical and is open to senior IC architecture work when the mandate is strategic rather than pure implementation.
+- Score generic implementation-only architect roles conservatively, especially if they are narrow stack ownership without real advisory, transformation, or decision-making influence.
+- For strong architect roles, evaluate level by impact, decision rights, customer/executive exposure, and compensation rather than by people-management scope alone.
+
 **Language / Swiss-German territory constraints:**
 - Treat roles requiring native/C1 German as practical blockers unless the posting explicitly says French/English coverage is sufficient or German is only a minor nice-to-have.
 - Deprioritize Zurich/DACH-facing customer roles that likely require frequent presence in the Swiss-German market, especially pre-sales, consulting, Field CTO, customer success, and enterprise solutions roles where German customer interaction is core to the job.
@@ -105,6 +111,8 @@ If you have a live demo/dashboard (check profile.yml), offer access in applicati
 - Use WebSearch for current market data (Glassdoor, Levels.fyi, Blind)
 - Frame by role title, not by skills
 - Contractor rates are typically 30-50% higher than employee base
+- Public sector / institutional roles can be acceptable below the private-sector executive target when the impact is high, the architecture mandate is strategic, and total compensation is at least **CHF 150k**.
+- For public-sector roles, treat **CHF 150k** as the practical minimum, **CHF 160k-180k** as acceptable for a high-impact architecture mandate, and **CHF 180k+** as strong.
 
 ## Your Negotiation Scripts
 
