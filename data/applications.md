@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 78 | 2026-05-31 | Improbable | Chief Technology Officer (Web3) | 3.8/5 | Discarded | ❌ | [078](reports/078-improbable-cto-web3-2026-05-31.md) | Discarded by candidate: not confident enough on DeFi/DEX/on-chain product and L1 protocol depth for this Web3 CTO mandate. |
 | 77 | 2026-05-31 | Jobgether / Confidential | Chief Technology Officer (CTO) | 4.1/5 | Discarded | ❌ | [077](reports/077-jobgether-confidential-cto-ai-rag-2026-05-31.md) | Discarded by candidate: hidden company, Jobgether intermediary and AI-screening opacity make it too shady despite role fit. |
 | 76 | 2026-05-31 | Digital Asset | Senior Director of Engineering | 4.3/5 | Applied | ✅ | [076](reports/076-digital-asset-senior-director-engineering-2026-05-31.md) | Applied 2026-05-31 with tailored CV and cover letter; salary expectation anchored at CHF 260k TC, qualify Zurich cadence early. |
 | 75 | 2026-05-31 | FEDRO / OFROU | Responsable du domaine Operations numeriques | 4.0/5 | Discarded | ❌ | [075](reports/075-fedro-ofrou-digital-operations-2026-05-31.md) | Discarded by candidate; language, Ittigen cadence, OT depth and salary-class uncertainty make the trade-off unattractive. |
