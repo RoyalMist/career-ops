@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 82 | 2026-05-31 | Gavi, the Vaccine Alliance | Senior Manager, Platform & Product Owner | 3.7/5 | Discarded | ❌ | [082](reports/082-gavi-platform-product-owner-2026-05-31.md) | Discarded by candidate: likely downlevel, Salesforce/product-owner heavy, no AI mandate and probable comp below target. |
 | 81 | 2026-05-31 | Amazon Web Services (AWS) | Principal GTM Specialist Solution Architect AI/ML, GenAI | 4.4/5 | Applied | ✅ | [081](reports/081-aws-principal-gtm-specialist-sa-aiml-genai-2026-05-31.md) | Applied 2026-05-31 with tailored CV and cover letter; qualify Geneva base and Zurich cadence early. |
 | 80 | 2026-05-31 | Verisure | Technology Strategy Associate | 2.5/5 | Discarded | ❌ | [080](reports/080-verisure-technology-strategy-associate-2026-05-31.md) | Discarded: official Verisure careers page says filled; role is associate/analyst technology-strategy support, far below CTO/Head/Director/AI transformation target. |
 | 79 | 2026-05-31 | SIG | Architecte de solutions temps réel - Eau potable | 2.8/5 | Discarded | ❌ | [079](reports/079-sig-real-time-solutions-architect-2026-05-31.md) | Do not apply: local public utility is credible, but role is hands-on SCADA/SITR operations with maintenance, troubleshooting and 30-minute piquet; below CTO/Head/Director/AI transformation target. |
