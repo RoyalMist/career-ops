@@ -571,6 +571,19 @@ tracked_companies:
     notes: "Swiss luxury/manufacturing group. Watch Geneva IT, SI, ERP/SAP, architecture, data/AI and technology leadership roles."
     enabled: true
 
+  - name: Audemars Piguet
+    careers_url: https://careers.audemarspiguet.com/en/job-listing
+    scan_method: local_parser
+    parser:
+      command: node
+      script: scripts/parsers/smartrecruiters-jobs.mjs
+      args:
+        - "{careers_url}"
+        - "audemarspiguet"
+      format: jobs-json-v1
+    notes: "Swiss luxury watchmaking group on SmartRecruiters. Watch Le Brassus/Meyrin/Lausanne/Geneva IT, enterprise architecture, ITSM, ServiceNow, data/AI, manufacturing systems, supply chain, digital transformation and technology leadership roles. Filter out retail, watchmaker, quality-production and downlevel specialist roles unless strategic IT scope is clear."
+    enabled: true
+
   - name: BCGE
     careers_url: https://jobs.bcge.ch/fr
     scan_method: local_parser
