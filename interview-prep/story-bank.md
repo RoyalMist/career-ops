@@ -123,3 +123,12 @@ This file accumulates your best interview stories over time. Each evaluation (Bl
 **R (Result):** Created a credible pattern for agentic automation in high-trust environments: workflow fit, access boundaries, audit evidence, human checkpoints, incident ownership, and reusable operating practices.
 **Reflection:** In regulated finance, the value of agentic AI comes from safe operating design as much as model capability. The architecture must include control evidence, escalation, rollback, and clear process ownership from the start.
 **Best for questions about:** agentic AI governance, finance automation, SOX-adjacent controls, crypto infrastructure, auditability, human-in-the-loop workflows, production AI systems.
+
+### Cloud Platform Industrialization - Pictet EKS and Terraform
+**Source:** Report #073 - Etat de Geneve / OCSIN - Service Solutions d'Infrastructures Transverses
+**S (Situation):** Pictet Asset Management needed a repeatable deployment foundation in a security-constrained environment.
+**T (Task):** Technically lead platform implementation work and create a common structure for deployment.
+**A (Action):** Created EKS clusters and Helm charts, used Terraform and Infrastructure as Code methods, and led two Site Reliability Engineers.
+**R (Result):** Delivered a more standardized, auditable foundation for infrastructure and application deployment.
+**Reflection:** Platform standards work only when they respect security constraints and make delivery easier for teams.
+**Best for questions about:** cloud platforms, infrastructure as code, Kubernetes, EKS, Terraform, SRE, security-constrained delivery, public-sector infrastructure modernization.
