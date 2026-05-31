@@ -2,6 +2,10 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 66 | 2026-05-31 | SECO / Swiss Federal Administration | architecte d'entreprise | 3.4/5 | Evaluated | ❌ | [066](reports/066-seco-enterprise-architect-2026-05-31.md) | Not recommended: strongest Swiss Federation fit, but Bern, active two-official-language requirement, and likely federal comp below target. |
+| 67 | 2026-05-31 | FOCP / Swiss Federal Administration | Architecte informatique senior | 2.7/5 | Discarded | ❌ | [067](reports/067-focp-senior-it-architect-2026-05-31.md) | Discarded by candidate: embedded/telecom/siren-alerting domain mismatch plus official-language and comp constraints. |
+| 68 | 2026-05-31 | OFIT / BIT | Architecte informatique senior (1201) | 3.1/5 | Discarded | ❌ | [068](reports/068-ofit-java-platform-architect-2026-05-31.md) | Discarded by candidate: downlevel Java platform architect role, official-language and comp constraints. |
+| 69 | 2026-05-31 | OFIT / BIT | Architecte informatique senior (972, 973) | 3.2/5 | Discarded | ❌ | [069](reports/069-ofit-solution-architect-2026-05-31.md) | Discarded by candidate: senior specialist architect below target level and likely below target comp. |
 | 65 | 2026-05-31 | EverAI | Tech Lead, LLM & Generative AI | 3.0/5 | Discarded | ❌ | [065](reports/065-everai-2026-05-31.md) | Discarded by candidate: hands-on PyTorch/LLM model lifecycle and NSFW moderation lead for 3 engineers, not aligned with CTO/Head/Director target. |
 | 64 | 2026-05-31 | LimeFlight | Head of Engineering | 4.0/5 | Discarded | ❌ | [064](reports/064-limeflight-2026-05-31.md) | Discarded by candidate: .NET/Azure stack mismatch and likely compensation/scope below target for a smaller founder-led SaaS. |
 | 63 | 2026-05-31 | RM Group / Confidential | Strategic Solution Architect / AI & Data Lead | 3.4/5 | Discarded | ❌ | [063](reports/063-rm-group-2026-05-31.md) | Discarded by candidate: German requirement, Bern hybrid setup and senior-IC level make it a poor priority. |
