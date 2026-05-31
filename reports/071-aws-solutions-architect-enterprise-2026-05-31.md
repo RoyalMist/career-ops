@@ -5,7 +5,7 @@
 **Archetype:** AI Solutions Architect / Field CTO adjacent
 **Score:** 4.2/5
 **Legitimacy:** High Confidence
-**PDF:** not generated
+**PDF:** output/cv-thibault-fouache-aws-solutions-architect-2026-05-31.pdf
 
 ---
 
