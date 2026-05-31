@@ -583,6 +583,18 @@ tracked_companies:
     notes: "Geneva cantonal bank. Watch IT leadership, architecture, cybersecurity, data/AI, core banking and transformation roles."
     enabled: true
 
+  - name: BCV
+    careers_url: https://jobs.bcv.ch/search/?createNewAlert=false&q=&optionsFacetsDD_facility=&optionsFacetsDD_shifttype=&searchResultView=LIST
+    scan_method: local_parser
+    parser:
+      command: node
+      script: scripts/parsers/successfactors-unified-jobs.mjs
+      args:
+        - "{careers_url}"
+      format: jobs-json-v1
+    notes: "Banque Cantonale Vaudoise. Watch Lausanne/Vaud banking technology leadership, enterprise architecture, software architecture, platform, digital banking, AI/data and transformation roles. Filter out downlevel Java/SAP/admin implementation roles."
+    enabled: true
+
   - name: PMI
     careers_url: https://join.pmicareers.com/gb/en
     scan_method: local_parser
