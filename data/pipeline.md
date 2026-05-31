@@ -30,7 +30,6 @@
 - [ ] https://jobs.ashbyhq.com/supabase/64085bde-a5c2-4198-a2e1-d76f5a78f56f | Supabase | Strategic Customer Solutions Architect (EMEA)
 - [ ] https://jobs.ashbyhq.com/supabase/847a7bd7-6b75-444a-aeda-d0b28a11c764 | Supabase | Platform Engineer - Multicloud
 
-
 - [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4688953101 | Parloa | Engineering Manager - Product Engineering
 - [ ] https://ripple.com/careers/all-jobs/job/7930279?gh_jid=7930279 | Ripple | Staff Software Engineer
 - [ ] https://ripple.com/careers/all-jobs/job/7930645?gh_jid=7930645 | Ripple | Staff Software Engineer, Infrastructure 
