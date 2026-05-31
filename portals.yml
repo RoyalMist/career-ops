@@ -547,6 +547,18 @@ tracked_companies:
     notes: "Geneva public-sector jobs. Watch OCSIN, DSI, architecture, AI, IT service leadership and strategic technology roles."
     enabled: true
 
+  - name: SIG
+    careers_url: https://jobs.sig-ge.ch/go/Nos-offres-d'emploi/4179501/
+    scan_method: local_parser
+    parser:
+      command: node
+      script: scripts/parsers/successfactors-category-jobs.mjs
+      args:
+        - "{careers_url}"
+      format: jobs-json-v1
+    notes: "Services Industriels de Geneve. Strong local employer; watch Head of IT, Chief Architect, enterprise architecture, digital transformation, cyber/resilience, data/AI and IT service leadership. Discard hands-on SCADA/admin/maintenance/on-call roles."
+    enabled: true
+
   - name: Rolex
     careers_url: https://www.carrieres-rolex.com/Rolex/go/Toutes-nos-offres-Rolex/2901501
     scan_method: local_parser

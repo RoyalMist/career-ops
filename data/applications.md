@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 79 | 2026-05-31 | SIG | Architecte de solutions temps réel - Eau potable | 2.8/5 | Discarded | ❌ | [079](reports/079-sig-real-time-solutions-architect-2026-05-31.md) | Do not apply: local public utility is credible, but role is hands-on SCADA/SITR operations with maintenance, troubleshooting and 30-minute piquet; below CTO/Head/Director/AI transformation target. |
 | 78 | 2026-05-31 | Improbable | Chief Technology Officer (Web3) | 3.8/5 | Discarded | ❌ | [078](reports/078-improbable-cto-web3-2026-05-31.md) | Discarded by candidate: not confident enough on DeFi/DEX/on-chain product and L1 protocol depth for this Web3 CTO mandate. |
 | 77 | 2026-05-31 | Jobgether / Confidential | Chief Technology Officer (CTO) | 4.1/5 | Discarded | ❌ | [077](reports/077-jobgether-confidential-cto-ai-rag-2026-05-31.md) | Discarded by candidate: hidden company, Jobgether intermediary and AI-screening opacity make it too shady despite role fit. |
 | 76 | 2026-05-31 | Digital Asset | Senior Director of Engineering | 4.3/5 | Applied | ✅ | [076](reports/076-digital-asset-senior-director-engineering-2026-05-31.md) | Applied 2026-05-31 with tailored CV and cover letter; salary expectation anchored at CHF 260k TC, qualify Zurich cadence early. |
