@@ -5,7 +5,7 @@
 **Archetype:** Enterprise Architect / AI Transformation adjacent
 **Score:** 3.8/5
 **Legitimacy:** High Confidence
-**PDF:** not generated
+**PDF:** output/cv-thibault-fouache-seco-enterprise-architect-fr-2026-05-31.pdf; output/cover-letter-thibault-fouache-seco-enterprise-architect-fr-2026-05-31.pdf
 
 ---
 
