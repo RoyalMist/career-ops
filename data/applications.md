@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 84 | 2026-05-31 | Richemont | Enterprise Architect | 4.0/5 | Discarded | ❌ | [084](reports/084-richemont-enterprise-architect-os-bf-2026-05-31.md) | Discarded by candidate: good Geneva/Meyrin architecture fit, but likely ERP/SAP-heavy, limited AI ownership and compensation below target. |
 | 83 | 2026-05-31 | OpenAI | Strategic Delivery Lead, International Public Sector | 4.3/5 | Applied | ✅ | [083](reports/083-openai-strategic-delivery-lead-public-sector-2026-05-31.md) | Applied 2026-05-31 with tailored CV and cover letter; qualify Zurich/Munich/London anchoring and up to 50% travel early. |
 | 82 | 2026-05-31 | Gavi, the Vaccine Alliance | Senior Manager, Platform & Product Owner | 3.7/5 | Discarded | ❌ | [082](reports/082-gavi-platform-product-owner-2026-05-31.md) | Discarded by candidate: likely downlevel, Salesforce/product-owner heavy, no AI mandate and probable comp below target. |
 | 81 | 2026-05-31 | Amazon Web Services (AWS) | Principal GTM Specialist Solution Architect AI/ML, GenAI | 4.4/5 | Applied | ✅ | [081](reports/081-aws-principal-gtm-specialist-sa-aiml-genai-2026-05-31.md) | Applied 2026-05-31 with tailored CV and cover letter; qualify Geneva base and Zurich cadence early. |
