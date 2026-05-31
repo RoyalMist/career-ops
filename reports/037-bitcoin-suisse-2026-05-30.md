@@ -26,6 +26,8 @@
 
 **Recommendation:** Worth applying if the user is open to a strategic AI/product lead role rather than a pure CTO/Head of Engineering mandate. Clarify reporting line, decision rights, team/budget ownership and salary band early.
 
+**Post-evaluation update (2026-05-31):** Discarded by candidate. The role requires 3 days/week in the Zug office, which is too much presence from Geneva for a non-executive AI/product lead mandate.
+
 ## B) Match with CV
 
 | JD requirement | Evidence from CV | Fit |
@@ -49,6 +51,7 @@
 | Compensation likely below CHF 230k target | Medium | Clarify band early; similar Zug AI transformation/product roles sit around CHF 130k-200k depending seniority. |
 | JIRA/Confluence not explicit | Minor | Mention Linear/Agile product delivery; do not overfocus on tooling. |
 | Zug commute/location | Medium | Confirm hybrid expectations from Geneva. |
+| Confirmed 3 days/week in Zug | High | Candidate discarded the role after learning the required office cadence. Treat similar Zug-heavy hybrid expectations as a blocker unless the mandate is clearly executive-level and compensation justifies the travel burden. |
 | AI product leadership vs engineering authority | Medium | Good if role owns AI strategy and platform roadmap; weaker if only ticket translation. |
 
 ## C) Level and Strategy
