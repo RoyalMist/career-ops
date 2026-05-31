@@ -63,6 +63,70 @@
 #     - "Brazil"
 #     - "Australia"
 
+location_filter:
+  # Home-region matches win even if the location string also contains blocked terms.
+  always_allow:
+    - "Geneva"
+    - "Genève"
+    - "Lausanne"
+    - "Vaud"
+    - "Switzerland"
+    - "Suisse"
+    - "Schweiz"
+    - "Swiss"
+  allow:
+    - "Geneva"
+    - "Genève"
+    - "Lausanne"
+    - "Vaud"
+    - "Switzerland"
+    - "Suisse"
+    - "Schweiz"
+    - "Swiss"
+    - "Zurich"
+    - "Zürich"
+    - "Zug"
+    - "Bern"
+    - "Berne"
+    - "Basel"
+    - "Remote"
+    - "Europe"
+    - "European"
+    - "EMEA"
+  block:
+    - "United States"
+    - "United States of America"
+    - "Remote - US"
+    - "Remote, US"
+    - "Remote US"
+    - "USA"
+    - "U.S."
+    - "NAMER"
+    - "North America"
+    - "East and Central Timezones"
+    - "San Francisco"
+    - "New York"
+    - "Chicago"
+    - "Seattle"
+    - "Washington"
+    - "Canada"
+    - "Toronto"
+    - "India"
+    - "Bangalore"
+    - "Bengaluru"
+    - "Japan"
+    - "Tokyo"
+    - "Singapore"
+    - "Australia"
+    - "Sydney"
+    - "APAC"
+    - "Philippines"
+    - "Manila"
+    - "Brazil"
+    - "Mexico"
+    - "Chile"
+    - "LATAM"
+
 # -- Title filter --
 # The scanner uses these keywords to decide if a title is relevant.
 # At least 1 positive must match AND 0 negatives must match (case-insensitive).
@@ -71,10 +135,21 @@ title_filter:
   positive:
     # [CUSTOMIZE] Add keywords matching YOUR target roles
     # -- AI/ML roles --
-    - "AI"
-    - "ML"
+    - "AI "
+    - "AI/"
+    - "AI-"
+    - "Artificial Intelligence"
+    - "Intelligence Artificielle"
+    - "IA "
+    - "IA)"
+    - "IA/"
+    - "IA-"
+    - "ML "
+    - "ML/"
+    - "ML-"
+    - "Machine Learning"
     - "LLM"
-    - "Agent"
+    - "AI Agent"
     - "Agentic"
     - "GenAI"
     - "Generative AI"
@@ -85,7 +160,10 @@ title_filter:
     - "Conversational AI"
     - "Speech"
     # -- German AI/ML keywords (DACH market) --
-    - "KI"
+    - "KI "
+    - "KI/"
+    - "KI-"
+    - "(KI)"
     - "Künstliche Intelligenz"
     - "KI Engineer"
     - "KI Trainer"
@@ -99,6 +177,27 @@ title_filter:
     - "Deployed Engineer"
     - "Customer Engineer"
     - "Integration Engineer"
+    # -- Senior technology leadership / architecture --
+    - "CTO"
+    - "Chief Technology Officer"
+    - "VP Engineering"
+    - "Head of Engineering"
+    - "Head of IT"
+    - "IT Director"
+    - "Engineering Director"
+    - "Director of Engineering"
+    - "Engineering Manager"
+    - "Staff Engineer"
+    - "Staff Software Engineer"
+    - "Principal Engineer"
+    - "Principal Software Engineer"
+    - "Lead Software Engineer"
+    - "Enterprise Architect"
+    - "Architecte"
+    - "Responsable IT"
+    - "Responsable des technologies"
+    - "Directeur SI"
+    - "Directeur IT"
     # -- Product roles --
     - "Product Manager"
     - "Technical PM"
@@ -116,6 +215,13 @@ title_filter:
     # [CUSTOMIZE] Add keywords for roles you want to exclude
     - "Junior"
     - "Intern"
+    - "Internship"
+    - "Stagiaire"
+    - "Stage"
+    - "Alternance"
+    - "Apprentice"
+    - "Architecte d'intérieur"
+    - "Architecture d'intérieur"
     - ".NET"
     - "Java "
     - "iOS"
@@ -321,6 +427,16 @@ search_queries:
     query: 'site:news.ycombinator.com OR site:hnrss.org "AI Engineer" OR "Forward Deployed" OR "DevRel" OR "Founding Engineer" remote'
     enabled: true
 
+  # -- Swiss job boards --
+
+  - name: Jobup — Geneva/Lausanne Tech Leadership
+    query: 'site:jobup.ch/fr/emplois/ "CTO" OR "Head of IT" OR "IT Director" OR "Directeur IT" OR "Directeur SI" OR "Responsable IT" Genève OR Lausanne OR Vaud'
+    enabled: true
+
+  - name: Jobup — Geneva/Lausanne Architecture & AI
+    query: 'site:jobup.ch/fr/emplois/ "Enterprise Architect" OR "Architecte solution" OR "Architecte informatique" OR "Intelligence Artificielle" OR "Head of AI" Genève OR Lausanne OR Suisse'
+    enabled: true
+
   # -- Türkiye / Turkey job portals --
   # WebSearch queries for Turkish job boards (no public ATS APIs).
   # [CUSTOMIZE] Replace keywords with your target roles in Turkish.
@@ -404,6 +520,80 @@ tracked_companies:
     careers_url: https://openai.com/careers
     scan_method: websearch
     scan_query: 'site:openai.com/careers "Solutions" OR "Forward Deployed" OR "AI Engineer"'
+    enabled: true
+
+  - name: Lombard Odier
+    careers_url: https://lombardodier.wd3.myworkdayjobs.com/fr-FR/Lombard_Odier_Careers
+    provider: workday
+    notes: "Swiss private bank. Geneva/Lausanne/Zurich/Luxembourg Workday portal."
+    enabled: true
+
+  - name: Ripple
+    careers_url: https://ripple.com/careers/all-jobs/
+    api: https://boards-api.greenhouse.io/v1/boards/ripple/jobs
+    provider: greenhouse
+    notes: "Crypto/fintech infrastructure. Watch Geneva and London roles, especially platform, custody, AI, architecture and engineering leadership."
+    enabled: true
+
+  - name: Etat de Geneve
+    careers_url: https://www.ge.ch/offres-emploi-etat-geneve/liste-offres
+    scan_method: local_parser
+    parser:
+      command: node
+      script: scripts/parsers/gech-jobs.mjs
+      args:
+        - "{careers_url}"
+      format: jobs-json-v1
+    notes: "Geneva public-sector jobs. Watch OCSIN, DSI, architecture, AI, IT service leadership and strategic technology roles."
+    enabled: true
+
+  - name: Rolex
+    careers_url: https://www.carrieres-rolex.com/Rolex/go/Toutes-nos-offres-Rolex/2901501
+    scan_method: local_parser
+    parser:
+      command: node
+      script: scripts/parsers/rss-jobs.mjs
+      args:
+        - "https://www.carrieres-rolex.com/services/rss/category/?catid=2901501"
+      format: jobs-json-v1
+    notes: "Swiss luxury/manufacturing group. Watch Geneva IT, SI, ERP/SAP, architecture, data/AI and technology leadership roles."
+    enabled: true
+
+  - name: BCGE
+    careers_url: https://jobs.bcge.ch/fr
+    scan_method: local_parser
+    parser:
+      command: node
+      script: scripts/parsers/bcge-jobs.mjs
+      args:
+        - "{careers_url}"
+      format: jobs-json-v1
+    notes: "Geneva cantonal bank. Watch IT leadership, architecture, cybersecurity, data/AI, core banking and transformation roles."
+    enabled: true
+
+  - name: PMI
+    careers_url: https://join.pmicareers.com/gb/en
+    scan_method: local_parser
+    parser:
+      command: node
+      script: scripts/parsers/phenom-jobs.mjs
+      args:
+        - "{careers_url}"
+        - "PMIPMIGB"
+      format: jobs-json-v1
+    notes: "Philip Morris International. Lausanne/Switzerland Phenom portal; watch IT, digital transformation, AI/data, architecture, product and strategy roles."
+    enabled: true
+
+  - name: SwissDevJobs
+    careers_url: https://swissdevjobs.ch/
+    scan_method: local_parser
+    parser:
+      command: node
+      script: scripts/parsers/swissdevjobs-rss.mjs
+      args:
+        - "https://swissdevjobs.ch/rss"
+      format: jobs-json-v1
+    notes: "Swiss tech job board with salary ranges. Useful for senior IC/platform/architecture roles; many roles are German-speaking and below executive comp."
     enabled: true
 
   # -- Voice AI & Conversational AI --
@@ -663,8 +853,10 @@ tracked_companies:
   # -- Lever-based (Playwright direct) --
 
   - name: Mistral AI
-    careers_url: https://jobs.lever.co/mistral
-    notes: "Paris. European AI lab."
+    careers_url: https://mistral.ai/fr/careers/
+    provider: lever
+    lever_slug: mistral
+    notes: "European frontier AI lab. Branded careers page with Lever-backed postings; watch Solutions, applied AI, deployment strategist, platform and engineering leadership roles."
     enabled: true
 
   - name: Palantir

@@ -5,6 +5,10 @@
 // Auto-detects from careers_url pattern `https://jobs.lever.co/<slug>`.
 
 function resolveApiUrl(entry) {
+  if (entry.lever_slug) {
+    return `https://api.lever.co/v0/postings/${entry.lever_slug}`;
+  }
+
   const url = entry.careers_url || '';
   const match = url.match(/jobs\.lever\.co\/([^/?#]+)/);
   if (!match) return null;
