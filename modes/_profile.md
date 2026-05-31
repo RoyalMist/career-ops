@@ -89,10 +89,11 @@ Frame profile as **"Technical builder with real-world proof"** that adapts frami
 - Deprioritize Zurich/DACH-facing customer roles that likely require frequent presence in the Swiss-German market, especially pre-sales, consulting, Field CTO, customer success, and enterprise solutions roles where German customer interaction is core to the job.
 - If a role is otherwise excellent but states native/C1 German, cap the score around **3.6/5** unless there is clear evidence the candidate can cover a French-speaking or international territory.
 
-**Zug / Zurich-heavy hybrid constraints:**
-- Treat 3 days/week in Zug as a practical blocker from Geneva for non-executive roles, even when the domain is attractive.
-- Only keep Zug-heavy hybrid roles in play if the mandate is clearly executive-level, has strong decision rights, and compensation is near or above the executive target.
-- For AI/product lead, senior IC, or non-executive manager roles, discard by default when the expected cadence is 3 days/week in Zug or similar from Geneva.
+**Non-Geneva/Lausanne heavy hybrid constraints:**
+- Treat fixed 3 days/week office presence outside the Geneva/Lausanne area as a practical blocker from Geneva for non-executive roles, even when the company is attractive.
+- Treat 3 days/week in Zug as a blocker for non-executive roles. Bitcoin Suisse is a concrete learned example: good domain fit, but discarded because the role required 3 days/week in Zug.
+- Treat HolidayCheck-style site presence of at least 3 days/week as a blocker, even when the company is good, unless the mandate is clearly executive-level, has strong decision rights, and compensation is near or above the executive target.
+- For AI/product lead, senior IC, or non-executive manager roles, discard by default when the expected cadence is 3 days/week in Zug, Zurich, Bottighofen, or similar from Geneva.
 
 **Culture constraints:**
 - Do **not** prioritize roles that require participation in religious or faith-based team life. The candidate is atheist, so explicit requirements to pray, join devotion, or embed into faith-based team practices are culture blockers even when the technical scope is relevant.
