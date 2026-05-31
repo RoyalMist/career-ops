@@ -595,6 +595,18 @@ tracked_companies:
     notes: "Banque Cantonale Vaudoise. Watch Lausanne/Vaud banking technology leadership, enterprise architecture, software architecture, platform, digital banking, AI/data and transformation roles. Filter out downlevel Java/SAP/admin implementation roles."
     enabled: true
 
+  - name: Alpian
+    careers_url: https://alpian.intranet.digital/external/en/companies/15f3e2c7-b10a-4288-bc71-3b543102a3f2/jobs
+    scan_method: local_parser
+    parser:
+      command: node
+      script: scripts/parsers/peopleweek-jobs.mjs
+      args:
+        - "{careers_url}"
+      format: jobs-json-v1
+    notes: "Geneva/Lausanne digital private bank on PeopleWeek/Intranet Digital. Watch Core Banking, Head/Lead/Product/Platform/Architecture, AI/data, fintech transformation and senior engineering leadership roles. Filter out Italy-only senior IC roles and downlevel hands-on platform/dev roles."
+    enabled: true
+
   - name: PMI
     careers_url: https://join.pmicareers.com/gb/en
     scan_method: local_parser
