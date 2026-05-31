@@ -81,6 +81,8 @@ Frame profile as **"Technical builder with real-world proof"** that adapts frami
 - Do not penalize these roles simply because they are individual-contributor roles. The candidate is still technical and is open to senior IC architecture work when the mandate is strategic rather than pure implementation.
 - Score generic implementation-only architect roles conservatively, especially if they are narrow stack ownership without real advisory, transformation, or decision-making influence.
 - For strong architect roles, evaluate level by impact, decision rights, customer/executive exposure, and compensation rather than by people-management scope alone.
+- Do **not** keep hands-on post-sales implementation roles framed as Solutions Architect / Forward Deployed Engineer / Customer Solutions Architect when the substance is coding, debugging, Tier-3 support, on-call, database tuning, migrations, or feature delivery. These are below target unless they clearly map to Field CTO-level advisory with executive buyers and strategic ownership.
+- Discard Staff/Principal IC roles by default when they are mainly hands-on engineering, even with high compensation or strong fintech/AI domain signals. Keep only if the role has explicit cross-org architecture authority, executive exposure, and little day-to-day implementation burden.
 
 **Language / Swiss-German territory constraints:**
 - Treat roles requiring native/C1 German as practical blockers unless the posting explicitly says French/English coverage is sufficient or German is only a minor nice-to-have.
