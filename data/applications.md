@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 65 | 2026-05-31 | EverAI | Tech Lead, LLM & Generative AI | 3.0/5 | Discarded | ❌ | [065](reports/065-everai-2026-05-31.md) | Discarded by candidate: hands-on PyTorch/LLM model lifecycle and NSFW moderation lead for 3 engineers, not aligned with CTO/Head/Director target. |
 | 64 | 2026-05-31 | LimeFlight | Head of Engineering | 4.0/5 | Discarded | ❌ | [064](reports/064-limeflight-2026-05-31.md) | Discarded by candidate: .NET/Azure stack mismatch and likely compensation/scope below target for a smaller founder-led SaaS. |
 | 63 | 2026-05-31 | RM Group / Confidential | Strategic Solution Architect / AI & Data Lead | 3.4/5 | Discarded | ❌ | [063](reports/063-rm-group-2026-05-31.md) | Discarded by candidate: German requirement, Bern hybrid setup and senior-IC level make it a poor priority. |
 | 62 | 2026-05-31 | Revizto | Business Technology & AI Enablement Director | 4.2/5 | Applied | ✅ | [062](reports/062-revizto-2026-05-30.md) | Applied with desired pay anchored at CHF 220k-240k total compensation. |
