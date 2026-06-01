@@ -2,7 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
-| 89 | 2026-06-01 | refurbed | Head of Internal Technology & AI (f/m/x) - remote | 4.3/5 | Evaluated | ✅ | [089](reports/089-refurbed-head-internal-technology-ai-2026-06-01.md) | Application package prepared 2026-06-01; qualify compensation, Switzerland employment and corporate-IT operations burden early. |
+| 89 | 2026-06-01 | refurbed | Head of Internal Technology & AI (f/m/x) - remote | 4.3/5 | Applied | ✅ | [089](reports/089-refurbed-head-internal-technology-ai-2026-06-01.md) | Applied 2026-06-01 with tailored CV and cover letter; qualify compensation, Switzerland employment and corporate-IT operations burden early. |
 | 85 | 2026-06-01 | Alpian | Product Manager | 3.5/5 | Evaluated | ❌ | [085](reports/085-alpian-product-manager-2026-06-01.md) | Relevant fintech/product context, but downlevel under Head of Product, no AI mandate and likely below compensation target. |
 | 86 | 2026-06-01 | Alpian | Platform Engineer | 2.6/5 | Evaluated | ❌ | [086](reports/086-alpian-platform-engineer-2026-06-01.md) | Discard-level fit: hands-on mid-level platform IC, Italian requirement, Italy remote framing and no leadership mandate. |
 | 87 | 2026-06-01 | Cohere | Engineering Manager, FDE Infrastructure (EMEA) | 4.1/5 | Applied | ✅ | [087](reports/087-cohere-engineering-manager-fde-infrastructure-2026-06-01.md) | Applied 2026-06-01 with tailored CV and cover letter; qualify Switzerland eligibility, hands-on ratio, team scope and compensation early. |

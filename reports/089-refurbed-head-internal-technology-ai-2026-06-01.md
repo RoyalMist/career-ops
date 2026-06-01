@@ -5,7 +5,7 @@
 **Archetype:** AI Transformation Lead; Internal Technology / AI Enablement Head
 **Score:** 4.3/5
 **Legitimacy:** High Confidence
-**PDF:** output/cv-thibault-fouache-refurbed-head-internal-technology-ai-2026-06-01.pdf; output/cover-letter-thibault-fouache-refurbed-head-internal-technology-ai-2026-06-01.pdf
+**PDF:** output/archived/cv-thibault-fouache-refurbed-head-internal-technology-ai-2026-06-01.pdf; output/archived/cover-letter-thibault-fouache-refurbed-head-internal-technology-ai-2026-06-01.pdf
 
 ---
 
@@ -72,8 +72,8 @@ Sources:
 
 Generated material:
 
-- CV: `output/cv-thibault-fouache-refurbed-head-internal-technology-ai-2026-06-01.pdf`
-- Cover letter: `output/cover-letter-thibault-fouache-refurbed-head-internal-technology-ai-2026-06-01.pdf`
+- CV: `output/archived/cv-thibault-fouache-refurbed-head-internal-technology-ai-2026-06-01.pdf`
+- Cover letter: `output/archived/cover-letter-thibault-fouache-refurbed-head-internal-technology-ai-2026-06-01.pdf`
 
 Customization used:
 
