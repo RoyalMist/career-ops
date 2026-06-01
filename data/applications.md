@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 90 | 2026-06-01 | FEDRO / OFROU | Responsable CDIO Office et CISO | 3.4/5 | Discarded | ❌ | [090](reports/090-fedro-cdio-office-ciso-2026-06-01.md) | Discarded by candidate: German/official-language needs, Ittigen presence, likely comp ceiling and limited AI mandate make it low priority. |
 | 89 | 2026-06-01 | refurbed | Head of Internal Technology & AI (f/m/x) - remote | 4.3/5 | Applied | ✅ | [089](reports/089-refurbed-head-internal-technology-ai-2026-06-01.md) | Applied 2026-06-01 with tailored CV and cover letter; qualify compensation, Switzerland employment and corporate-IT operations burden early. |
 | 85 | 2026-06-01 | Alpian | Product Manager | 3.5/5 | Evaluated | ❌ | [085](reports/085-alpian-product-manager-2026-06-01.md) | Relevant fintech/product context, but downlevel under Head of Product, no AI mandate and likely below compensation target. |
 | 86 | 2026-06-01 | Alpian | Platform Engineer | 2.6/5 | Evaluated | ❌ | [086](reports/086-alpian-platform-engineer-2026-06-01.md) | Discard-level fit: hands-on mid-level platform IC, Italian requirement, Italy remote framing and no leadership mandate. |
