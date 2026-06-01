@@ -146,3 +146,12 @@ If you have a live demo/dashboard (check profile.yml), offer access in applicati
 **In evaluations (scoring):**
 - Remote dimension for hybrid outside your country: score **3.0** (not 1.0)
 - Only score 1.0 if JD says "must be on-site 4-5 days/week, no exceptions"
+
+## Your Workflow Preferences
+
+**After application submission or discard:**
+- When the user says they applied to a given role, update the matching tracker row to `Applied`.
+- When the user says a role is discarded, update the matching tracker row to `Discarded` if needed.
+- Move that role's generated application files from `output/` to `output/archived/`, including matching CV and cover-letter `.pdf`, `.html`, and `.md` files.
+- Update the matching report links/`**PDF:**` paths from `output/...` to `output/archived/...` so references stay valid.
+- Do not archive files for roles that are only evaluated or prepared and have not reached `Applied` or `Discarded`.

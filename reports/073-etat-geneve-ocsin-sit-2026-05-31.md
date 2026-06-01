@@ -5,7 +5,7 @@
 **Archetype:** Head of IT / Infrastructure Platform Service Lead, adjacent Enterprise Architect
 **Score:** 4.3/5
 **Legitimacy:** High Confidence
-**PDF:** output/cv-thibault-fouache-etat-geneve-ocsin-sit-fr-2026-05-31.pdf; output/cover-letter-thibault-fouache-etat-geneve-ocsin-sit-fr-2026-05-31.pdf
+**PDF:** output/archived/cv-thibault-fouache-etat-geneve-ocsin-sit-fr-2026-05-31.pdf; output/archived/cover-letter-thibault-fouache-etat-geneve-ocsin-sit-fr-2026-05-31.pdf
 
 ---
 

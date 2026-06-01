@@ -5,7 +5,7 @@
 **Archetype:** AI Transformation / Enterprise AI Adoption Lead; AI Forward Deployed / Strategic Delivery
 **Score:** 4.3/5
 **Legitimacy:** High Confidence
-**PDF:** output/cv-thibault-fouache-openai-strategic-delivery-lead-public-sector-2026-05-31.pdf; output/cover-letter-thibault-fouache-openai-strategic-delivery-lead-public-sector-2026-05-31.pdf
+**PDF:** output/archived/cv-thibault-fouache-openai-strategic-delivery-lead-public-sector-2026-05-31.pdf; output/archived/cover-letter-thibault-fouache-openai-strategic-delivery-lead-public-sector-2026-05-31.pdf
 
 ---
 

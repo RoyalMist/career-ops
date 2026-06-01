@@ -5,7 +5,7 @@
 **Archetype:** AI Forward Deployed / Enterprise AI Infrastructure Manager
 **Score:** 4.1/5
 **Legitimacy:** High Confidence
-**PDF:** not generated
+**PDF:** output/cv-thibault-fouache-cohere-fde-infrastructure-2026-06-01.pdf; output/cover-letter-thibault-fouache-cohere-fde-infrastructure-2026-06-01.pdf
 
 ---
 
@@ -61,7 +61,12 @@ Sources:
 
 ## E) Customization Plan
 
-No CV/cover letter generated yet. If preparing:
+Generated material:
+
+- CV: `output/cv-thibault-fouache-cohere-fde-infrastructure-2026-06-01.pdf`
+- Cover letter: `output/cover-letter-thibault-fouache-cohere-fde-infrastructure-2026-06-01.pdf`
+
+Customization used:
 
 | Section | Change |
 |---|---|
@@ -70,6 +75,8 @@ No CV/cover letter generated yet. If preparing:
 | Ripple / Metaco | Emphasize regulated enterprise deployment, institutional clients, Field Engineering partnership and L3/support squad. |
 | Platform | Surface Kubernetes, Terraform, EKS, Helm, CI/CD, observability and cloud migration. |
 | SCRYPT | Show practical AI adoption and operating model discipline. |
+
+**Positioning:** Senior enough to manage FDE infrastructure engineers and customer delivery, but framed as hands-on credible rather than overclaiming Director-level scope for this role.
 
 ## F) Interview Plan
 

@@ -5,7 +5,7 @@
 **Archetype:** CTO / Head of IT; Enterprise Architect / Technology Transformation Leader
 **Score:** 4.2/5
 **Legitimacy:** High Confidence
-**PDF:** output/cv-thibault-fouache-atlantic-gate-2026-05-30.pdf; output/cover-letter-thibault-fouache-atlantic-gate-2026-05-30.pdf
+**PDF:** output/archived/cv-thibault-fouache-atlantic-gate-2026-05-30.pdf; output/archived/cover-letter-thibault-fouache-atlantic-gate-2026-05-30.pdf
 **Decision:** Discarded by candidate on 2026-05-30 - compensation signal is not enough for the Corporate IT Director mandate despite strong role fit.
 
 ---

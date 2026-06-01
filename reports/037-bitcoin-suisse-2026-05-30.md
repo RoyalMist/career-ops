@@ -5,7 +5,7 @@
 **Archetype:** AI Transformation / Technical AI Product Lead; hybrid Fintech / Blockchain Technology Leader
 **Score:** 4.1/5
 **Legitimacy:** High Confidence
-**PDF:** output/cv-thibault-fouache-bitcoin-suisse-2026-05-31.pdf; output/cover-letter-thibault-fouache-bitcoin-suisse-2026-05-31.pdf
+**PDF:** output/archived/cv-thibault-fouache-bitcoin-suisse-2026-05-31.pdf; output/archived/cover-letter-thibault-fouache-bitcoin-suisse-2026-05-31.pdf
 
 ---
 
@@ -149,8 +149,8 @@ Tailored CV and cover letter generated because the user requested application ma
 
 **Files**
 
-- CV: `output/cv-thibault-fouache-bitcoin-suisse-2026-05-31.pdf`
-- Cover letter: `output/cover-letter-thibault-fouache-bitcoin-suisse-2026-05-31.pdf`
+- CV: `output/archived/cv-thibault-fouache-bitcoin-suisse-2026-05-31.pdf`
+- Cover letter: `output/archived/cover-letter-thibault-fouache-bitcoin-suisse-2026-05-31.pdf`
 
 **Short motivation**
 

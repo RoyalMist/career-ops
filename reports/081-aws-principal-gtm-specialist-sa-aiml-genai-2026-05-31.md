@@ -5,7 +5,7 @@
 **Archetype:** Principal AI/ML/GenAI Solutions Architect; Field CTO / GTM specialist architecture
 **Score:** 4.4/5 if Geneva-based is accepted; 3.6/5 if Zurich-heavy
 **Legitimacy:** High Confidence
-**PDF:** output/cv-thibault-fouache-aws-principal-gtm-specialist-sa-genai-2026-05-31.pdf; output/cover-letter-thibault-fouache-aws-principal-gtm-specialist-sa-genai-2026-05-31.pdf
+**PDF:** output/archived/cv-thibault-fouache-aws-principal-gtm-specialist-sa-genai-2026-05-31.pdf; output/archived/cover-letter-thibault-fouache-aws-principal-gtm-specialist-sa-genai-2026-05-31.pdf
 
 ---
 
@@ -93,8 +93,8 @@ Reuse the AWS CV from report 071 as the base, but adjust from Enterprise Retail/
 
 Generated a dedicated AWS Principal GenAI application package on 2026-05-31:
 
-- CV: `output/cv-thibault-fouache-aws-principal-gtm-specialist-sa-genai-2026-05-31.pdf`
-- Cover letter: `output/cover-letter-thibault-fouache-aws-principal-gtm-specialist-sa-genai-2026-05-31.pdf`
+- CV: `output/archived/cv-thibault-fouache-aws-principal-gtm-specialist-sa-genai-2026-05-31.pdf`
+- Cover letter: `output/archived/cover-letter-thibault-fouache-aws-principal-gtm-specialist-sa-genai-2026-05-31.pdf`
 
 Use it if applying directly, but keep the Geneva-base question visible in the cover letter and/or first recruiter message.
 
@@ -138,8 +138,8 @@ Use it if applying directly, but keep the Geneva-base question visible in the co
 
 **Files**
 
-- CV: `output/cv-thibault-fouache-aws-principal-gtm-specialist-sa-genai-2026-05-31.pdf`
-- Cover letter: `output/cover-letter-thibault-fouache-aws-principal-gtm-specialist-sa-genai-2026-05-31.pdf`
+- CV: `output/archived/cv-thibault-fouache-aws-principal-gtm-specialist-sa-genai-2026-05-31.pdf`
+- Cover letter: `output/archived/cover-letter-thibault-fouache-aws-principal-gtm-specialist-sa-genai-2026-05-31.pdf`
 
 Use this before applying or as the first recruiter response:
 

@@ -5,7 +5,7 @@
 **Archetype:** Director / VP Engineering; Fintech / Blockchain Technology Leader
 **Score:** 4.3/5
 **Legitimacy:** High Confidence
-**PDF:** output/cv-thibault-fouache-digital-asset-2026-05-31.pdf; output/cover-letter-thibault-fouache-digital-asset-2026-05-31.pdf
+**PDF:** output/archived/cv-thibault-fouache-digital-asset-2026-05-31.pdf; output/archived/cover-letter-thibault-fouache-digital-asset-2026-05-31.pdf
 
 ---
 
@@ -152,8 +152,8 @@ Tailored CV and cover letter generated on 2026-05-31, centered on Ripple / Metac
 
 **Files**
 
-- CV: `output/cv-thibault-fouache-digital-asset-2026-05-31.pdf`
-- Cover letter: `output/cover-letter-thibault-fouache-digital-asset-2026-05-31.pdf`
+- CV: `output/archived/cv-thibault-fouache-digital-asset-2026-05-31.pdf`
+- Cover letter: `output/archived/cover-letter-thibault-fouache-digital-asset-2026-05-31.pdf`
 
 **Qualification note before applying**
 
