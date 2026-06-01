@@ -6,7 +6,7 @@
 **Archetype:** AI Solutions Architect / Field CTO / AI Transformation Lead
 **Score:** 4.3/5
 **Legitimacy:** High Confidence
-**PDF:** output/cv-thibault-fouache-celonis-enterprise-architect-director-2026-06-01.pdf; output/cover-letter-thibault-fouache-celonis-enterprise-architect-director-2026-06-01.pdf
+**PDF:** output/archived/cv-thibault-fouache-celonis-enterprise-architect-director-2026-06-01.pdf; output/archived/cover-letter-thibault-fouache-celonis-enterprise-architect-director-2026-06-01.pdf
 
 ---
 
@@ -88,8 +88,8 @@ Do not accept a generic Senior Enterprise Architect or hands-on implementation r
 
 Generated material:
 
-- CV: `output/cv-thibault-fouache-celonis-enterprise-architect-director-2026-06-01.pdf`
-- Cover letter: `output/cover-letter-thibault-fouache-celonis-enterprise-architect-director-2026-06-01.pdf`
+- CV: `output/archived/cv-thibault-fouache-celonis-enterprise-architect-director-2026-06-01.pdf`
+- Cover letter: `output/archived/cover-letter-thibault-fouache-celonis-enterprise-architect-director-2026-06-01.pdf`
 
 | # | Section | Current status | Proposed change | Why |
 |---|---|---|---|---|

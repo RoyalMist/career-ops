@@ -2,7 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
-| 95 | 2026-06-01 | Celonis | Enterprise Architect Director | 4.3/5 | Evaluated | ✅ | [095](reports/095-celonis-enterprise-architect-director-2026-06-01.md) | Strong Enterprise AI / Field CTO / architecture leadership fit; apply, but qualify Zurich cadence and CHF 230k+ total compensation early. |
+| 95 | 2026-06-01 | Celonis | Enterprise Architect Director | 4.3/5 | Applied | ✅ | [095](reports/095-celonis-enterprise-architect-director-2026-06-01.md) | Applied 2026-06-01 with tailored CV and cover letter; qualify Zurich cadence and CHF 230k+ total compensation early. |
 | 94 | 2026-06-01 | International Trade Centre | D-1 Director, Enterprise Competitiveness and Institutions, DECI | 2.7/5 | Evaluated | ❌ | [094](reports/094-international-trade-centre-deci-2026-06-01.md) | Geneva D-1 leadership role is legitimate and fresh, but hard Aid for Trade/domain requirements and explicit AI-use prohibition make it a poor fit; recommend against applying. |
 | 91 | 2026-06-01 | Supabase | Product Manager - Platform | 3.7/5 | Discarded | ❌ | [091](reports/091-supabase-product-manager-platform-2026-06-01.md) | Discarded by candidate: remote developer-infrastructure PM role, but senior IC/downlevel versus target executive or Field CTO mandate. |
 | 92 | 2026-06-01 | Supabase | Product Manager - Postgres Platform | 3.5/5 | Discarded | ❌ | [092](reports/092-supabase-product-manager-postgres-platform-2026-06-01.md) | Discarded by candidate: technically interesting Postgres/Multigres PM role but narrow database-product IC fit. |
