@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 98 | 2026-06-01 | Deel | Head of Engineering (FinTech) | 4.2/5 | Applied | ✅ | [098](reports/098-deel-head-engineering-fintech-2026-06-01.md) | Applied 2026-06-01 with tailored CV and cover letter; qualify exact scope, payments/ledger/accounting depth expectations and CHF 230k+ base/TC early. |
 | 97 | 2026-06-01 | Confidential Jobs | Global Head of Digital Procurement & AI Transformation | 3.5/5 | Discarded | ❌ | [097](reports/097-confidential-jobs-global-head-digital-procurement-ai-transformation-2026-06-01.md) | Discarded by candidate: German fluency, procurement-specialist depth, Zurich and hidden company make it too weak to pursue. |
 | 96 | 2026-06-01 | Helvetic Payroll | IT Strategy Manager - Technology & Operations Transformation | 3.8/5 | Discarded | ❌ | [096](reports/096-helvetic-payroll-it-strategy-manager-2026-06-01.md) | Discarded by candidate: local transformation fit, but downlevel strategy-manager scope, hidden client, short contract and undisclosed rate are not worth pursuing. |
 | 95 | 2026-06-01 | Celonis | Enterprise Architect Director | 4.3/5 | Applied | ✅ | [095](reports/095-celonis-enterprise-architect-director-2026-06-01.md) | Applied 2026-06-01 with tailored CV and cover letter; qualify Zurich cadence and CHF 230k+ total compensation early. |
