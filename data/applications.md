@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 97 | 2026-06-01 | Confidential Jobs | Global Head of Digital Procurement & AI Transformation | 3.5/5 | Discarded | ❌ | [097](reports/097-confidential-jobs-global-head-digital-procurement-ai-transformation-2026-06-01.md) | Discarded by candidate: German fluency, procurement-specialist depth, Zurich and hidden company make it too weak to pursue. |
 | 96 | 2026-06-01 | Helvetic Payroll | IT Strategy Manager - Technology & Operations Transformation | 3.8/5 | Discarded | ❌ | [096](reports/096-helvetic-payroll-it-strategy-manager-2026-06-01.md) | Discarded by candidate: local transformation fit, but downlevel strategy-manager scope, hidden client, short contract and undisclosed rate are not worth pursuing. |
 | 95 | 2026-06-01 | Celonis | Enterprise Architect Director | 4.3/5 | Applied | ✅ | [095](reports/095-celonis-enterprise-architect-director-2026-06-01.md) | Applied 2026-06-01 with tailored CV and cover letter; qualify Zurich cadence and CHF 230k+ total compensation early. |
 | 94 | 2026-06-01 | International Trade Centre | D-1 Director, Enterprise Competitiveness and Institutions, DECI | 2.7/5 | Evaluated | ❌ | [094](reports/094-international-trade-centre-deci-2026-06-01.md) | Geneva D-1 leadership role is legitimate and fresh, but hard Aid for Trade/domain requirements and explicit AI-use prohibition make it a poor fit; recommend against applying. |
