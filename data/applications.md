@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 94 | 2026-06-01 | International Trade Centre | D-1 Director, Enterprise Competitiveness and Institutions, DECI | 2.7/5 | Evaluated | ❌ | [094](reports/094-international-trade-centre-deci-2026-06-01.md) | Geneva D-1 leadership role is legitimate and fresh, but hard Aid for Trade/domain requirements and explicit AI-use prohibition make it a poor fit; recommend against applying. |
 | 91 | 2026-06-01 | Supabase | Product Manager - Platform | 3.7/5 | Discarded | ❌ | [091](reports/091-supabase-product-manager-platform-2026-06-01.md) | Discarded by candidate: remote developer-infrastructure PM role, but senior IC/downlevel versus target executive or Field CTO mandate. |
 | 92 | 2026-06-01 | Supabase | Product Manager - Postgres Platform | 3.5/5 | Discarded | ❌ | [092](reports/092-supabase-product-manager-postgres-platform-2026-06-01.md) | Discarded by candidate: technically interesting Postgres/Multigres PM role but narrow database-product IC fit. |
 | 93 | 2026-06-01 | Supabase | Core Product Lead | 4.0/5 | Evaluated | ❌ | [093](reports/093-supabase-core-product-lead-2026-06-01.md) | Best Supabase fit: remote product leadership across Core; main gap is career PM-management pedigree vs CTO/CPO operator profile. |
