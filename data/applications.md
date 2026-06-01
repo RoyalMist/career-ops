@@ -2,6 +2,10 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 85 | 2026-06-01 | Alpian | Product Manager | 3.5/5 | Evaluated | ❌ | [085](reports/085-alpian-product-manager-2026-06-01.md) | Relevant fintech/product context, but downlevel under Head of Product, no AI mandate and likely below compensation target. |
+| 86 | 2026-06-01 | Alpian | Platform Engineer | 2.6/5 | Evaluated | ❌ | [086](reports/086-alpian-platform-engineer-2026-06-01.md) | Discard-level fit: hands-on mid-level platform IC, Italian requirement, Italy remote framing and no leadership mandate. |
+| 87 | 2026-06-01 | Cohere | Engineering Manager, FDE Infrastructure (EMEA) | 4.1/5 | Evaluated | ❌ | [087](reports/087-cohere-engineering-manager-fde-infrastructure-2026-06-01.md) | Best of the batch: enterprise AI/FDE infrastructure fit; qualify Switzerland eligibility, hands-on ratio, team scope and compensation early. |
+| 88 | 2026-06-01 | BCV | Product Manager - Trafic des paiements | 3.2/5 | Evaluated | ❌ | [088](reports/088-bcv-product-manager-trafic-paiements-2026-06-01.md) | Local banking institution, but too narrow payments-domain PM role and below target level/compensation. |
 | 84 | 2026-05-31 | Richemont | Enterprise Architect | 4.0/5 | Discarded | ❌ | [084](reports/084-richemont-enterprise-architect-os-bf-2026-05-31.md) | Discarded by candidate: good Geneva/Meyrin architecture fit, but likely ERP/SAP-heavy, limited AI ownership and compensation below target. |
 | 83 | 2026-05-31 | OpenAI | Strategic Delivery Lead, International Public Sector | 4.3/5 | Applied | ✅ | [083](reports/083-openai-strategic-delivery-lead-public-sector-2026-05-31.md) | Applied 2026-05-31 with tailored CV and cover letter; qualify Zurich/Munich/London anchoring and up to 50% travel early. |
 | 82 | 2026-05-31 | Gavi, the Vaccine Alliance | Senior Manager, Platform & Product Owner | 3.7/5 | Discarded | ❌ | [082](reports/082-gavi-platform-product-owner-2026-05-31.md) | Discarded by candidate: likely downlevel, Salesforce/product-owner heavy, no AI mandate and probable comp below target. |
