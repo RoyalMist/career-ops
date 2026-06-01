@@ -6,7 +6,7 @@
 **Archetype:** Founder-stage CTO / Lead Architect; Regulated Fintech Platform; AI Transformation
 **Score:** 4.1/5
 **Legitimacy:** Medium-High Confidence
-**PDF:** output/cv-thibault-fouache-thrivo-wealth-founding-engineer-lead-architect-2026-06-01.pdf; output/cover-letter-thibault-fouache-thrivo-wealth-founding-engineer-lead-architect-2026-06-01.pdf
+**PDF:** output/archived/cv-thibault-fouache-thrivo-wealth-founding-engineer-lead-architect-2026-06-01.pdf; output/archived/cover-letter-thibault-fouache-thrivo-wealth-founding-engineer-lead-architect-2026-06-01.pdf
 
 ---
 
@@ -83,8 +83,8 @@ Do not accept a pure hands-on founding engineer role unless the base salary, equ
 
 Generated material:
 
-- CV: `output/cv-thibault-fouache-thrivo-wealth-founding-engineer-lead-architect-2026-06-01.pdf`
-- Cover letter: `output/cover-letter-thibault-fouache-thrivo-wealth-founding-engineer-lead-architect-2026-06-01.pdf`
+- CV: `output/archived/cv-thibault-fouache-thrivo-wealth-founding-engineer-lead-architect-2026-06-01.pdf`
+- Cover letter: `output/archived/cover-letter-thibault-fouache-thrivo-wealth-founding-engineer-lead-architect-2026-06-01.pdf`
 
 | # | Section | Current status | Proposed change | Why |
 |---|---|---|---|---|
