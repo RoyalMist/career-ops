@@ -9,3 +9,4 @@
 | 5 | 19 | 2026-05-31 | Mistral AI | Founder in Residence | LinkedIn InMail | Stanislas Pesic | Sent: confirmed continued interest after one month without news. |
 | 6 | 19 | 2026-05-31 | Mistral AI | Founder in Residence | LinkedIn | Stanislas Pesic | Responded: Mistral is processing applications now; no further action needed immediately. |
 | 7 | 21 | 2026-06-02 | Neural Concept | VP of Engineering | Email | NC Talent Team | Responded: generic rejection, encouraged future applications matching skills and experience. |
+| 8 | 25 | 2026-06-02 | PMI | Sr. Manager R&D Architecture | Email | people.culture@pmi.com | Sent: polite follow-up after no response; wait one week, then close if no reply. |
