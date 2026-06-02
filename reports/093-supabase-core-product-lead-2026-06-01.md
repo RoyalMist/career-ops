@@ -5,7 +5,7 @@
 **Archetype:** Technical AI PM / Product Leadership / Developer Infrastructure
 **Score:** 4.0/5
 **Legitimacy:** High Confidence
-**PDF:** pending
+**PDF:** output/archived/cv-thibault-fouache-supabase-core-product-lead-2026-06-02.pdf
 
 ---
 
