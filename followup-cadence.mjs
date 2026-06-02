@@ -82,6 +82,13 @@ function addDays(date, days) {
   return result.toISOString().split('T')[0];
 }
 
+function parseExplicitNextFollowupDate(notes) {
+  if (!notes) return null;
+  const match = notes.match(/(?:hold follow-up until|next follow-up|follow-up due|follow up(?: again)?(?: on| until)?)\D+(\d{4}-\d{2}-\d{2})/i);
+  if (!match) return null;
+  return parseDate(match[1]) ? match[1] : null;
+}
+
 // --- Parse applications.md ---
 function parseTracker() {
   if (!existsSync(APPS_FILE)) return [];
@@ -161,8 +168,10 @@ function computeUrgency(status, daysSinceApp, daysSinceLastFollowup, followupCou
     return 'waiting';
   }
   if (status === 'responded') {
-    if (daysSinceApp < CADENCE.responded_initial) return 'urgent';
-    if (daysSinceApp >= CADENCE.responded_subsequent) return 'overdue';
+    if (daysSinceLastFollowup !== null) {
+      return daysSinceLastFollowup >= CADENCE.responded_subsequent ? 'overdue' : 'waiting';
+    }
+    if (daysSinceApp >= CADENCE.responded_initial) return 'urgent';
     return 'waiting';
   }
   if (status === 'interview') {
@@ -230,8 +239,15 @@ function analyze() {
       if (lastDate) daysSinceLastFollowup = daysBetween(lastDate, now);
     }
 
-    const urgency = computeUrgency(normalized, daysSinceApp, daysSinceLastFollowup, followupCount);
-    const nextFollowupDate = computeNextFollowupDate(normalized, app.date, lastFollowupDate, followupCount);
+    const explicitNextFollowupDate = parseExplicitNextFollowupDate(app.notes);
+    let urgency = computeUrgency(normalized, daysSinceApp, daysSinceLastFollowup, followupCount);
+    let nextFollowupDate = computeNextFollowupDate(normalized, app.date, lastFollowupDate, followupCount);
+
+    if (explicitNextFollowupDate) {
+      nextFollowupDate = explicitNextFollowupDate;
+      urgency = daysBetween(now, parseDate(explicitNextFollowupDate)) > 0 ? 'waiting' : 'overdue';
+    }
+
     const nextDate = nextFollowupDate ? parseDate(nextFollowupDate) : null;
     const daysUntilNext = nextDate ? daysBetween(now, nextDate) : null;
 
