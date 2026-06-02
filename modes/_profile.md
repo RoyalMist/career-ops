@@ -91,6 +91,7 @@ Frame profile as **"Technical builder with real-world proof"** that adapts frami
 
 **Non-Geneva/Lausanne heavy hybrid constraints:**
 - Treat fixed 3 days/week office presence outside the Geneva/Lausanne area as a practical blocker from Geneva for non-executive roles, even when the company is attractive.
+- For Lausanne roles, account for train cost and commute friction. Do not treat Lausanne as neutral when compensation is near the lower public-sector threshold; require stronger scope, decision rights, and compensation to offset the travel cost.
 - Treat 3 days/week in Zug as a blocker for non-executive roles. Bitcoin Suisse is a concrete learned example: good domain fit, but discarded because the role required 3 days/week in Zug.
 - Treat HolidayCheck-style site presence of at least 3 days/week as a blocker, even when the company is good, unless the mandate is clearly executive-level, has strong decision rights, and compensation is near or above the executive target.
 - For AI/product lead, senior IC, or non-executive manager roles, discard by default when the expected cadence is 3 days/week in Zug, Zurich, Bottighofen, or similar from Geneva.

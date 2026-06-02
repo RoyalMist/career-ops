@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 100 | 2026-06-02 | Ville de Lausanne | Responsable des systemes d'information de direction - LEA | 3.8/5 | Discarded | ❌ | [100](reports/100-ville-lausanne-responsable-si-direction-lea-2026-06-02.md) | Discarded by candidate: class 12 is below target and Lausanne requires train cost/commute, making the trade-off unattractive. |
 | 99 | 2026-06-01 | Thrivo Wealth Partners | Founding Engineer / Lead Architect | 4.1/5 | Applied | ✅ | [099](reports/099-thrivo-wealth-founding-engineer-lead-architect-2026-06-01.md) | Applied 2026-06-01 with tailored CV and cover letter; qualify architecture authority, base salary, VSOP terms, hands-on ratio, runway, hiring plan and German expectations early. |
 | 98 | 2026-06-01 | Deel | Head of Engineering (FinTech) | 4.2/5 | Applied | ✅ | [098](reports/098-deel-head-engineering-fintech-2026-06-01.md) | Applied 2026-06-01 with tailored CV and cover letter; qualify exact scope, payments/ledger/accounting depth expectations and CHF 230k+ base/TC early. |
 | 97 | 2026-06-01 | Confidential Jobs | Global Head of Digital Procurement & AI Transformation | 3.5/5 | Discarded | ❌ | [097](reports/097-confidential-jobs-global-head-digital-procurement-ai-transformation-2026-06-01.md) | Discarded by candidate: German fluency, procurement-specialist depth, Zurich and hidden company make it too weak to pursue. |
