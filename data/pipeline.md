@@ -2,9 +2,11 @@
 
 ## Pendientes
 
-- [ ] https://jobs.ashbyhq.com/supabase/202e9ca8-3c98-4dea-add5-0f7e2e98800c | Supabase | Product Manager - AI Platform
+_No pending URLs._
 
 ## Procesadas
+
+- [x] DISCARDED | https://jobs.ashbyhq.com/supabase/202e9ca8-3c98-4dea-add5-0f7e2e98800c | Supabase | Product Manager - AI | Discarded 2026-06-02: thematically strong, but IC PM/downlevel risk; Core Product Lead #093 is the better Supabase application.
 
 - [x] #091 | https://jobs.ashbyhq.com/supabase/47bcfdb8-b954-423e-8a9e-85256434575c | Supabase | Product Manager - Platform | 3.7/5 | PDF ❌
 - [x] #092 | https://jobs.ashbyhq.com/supabase/636481f3-dc9e-4a9d-999f-06f87e173cc9 | Supabase | Product Manager - Postgres Platform | 3.5/5 | PDF ❌
