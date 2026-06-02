@@ -8,3 +8,4 @@
 | 2026-05-31 | Mistral AI | Founder in Residence | LinkedIn InMail | Nicolas Schuhl | Sent | Confirmed continued interest after one month without news. |
 | 2026-05-31 | Mistral AI | Founder in Residence | LinkedIn InMail | Stanislas Pesic | Sent | Confirmed continued interest after one month without news. |
 | 2026-05-31 | Mistral AI | Founder in Residence | LinkedIn | Stanislas Pesic | Responded | Confirmed Mistral is processing applications now; no further action needed immediately. |
+| 2026-06-02 | Neural Concept | VP of Engineering | Email | NC Talent Team | Responded | Rejection received; generic no-feedback response, encouraged future applications matching skills and experience. |

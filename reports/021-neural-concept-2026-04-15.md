@@ -6,7 +6,7 @@
 **Score:** 4.0/5 (approximate)
 **Legitimacy:** Proceed with Caution
 **PDF:** _base/refused/neural concept/cv-vp-engineering.pdf
-**Status:** Discarded
+**Status:** Rejected
 
 ---
 
@@ -19,8 +19,8 @@
 | Source folder | [_base/refused/neural concept](../_base/refused/neural concept) |
 | Source JD | [vp engineering.md](../_base/refused/neural concept/vp engineering.md) |
 | Archived CV/PDF | [cv-vp-engineering.pdf](../_base/refused/neural concept/cv-vp-engineering.pdf) |
-| Tracker status | Discarded |
-| Tracker note | Archived from _base/refused/neural concept; no response recorded. |
+| Tracker status | Rejected |
+| Tracker note | Rejected 2026-06-02 by NC Talent Team; generic rejection, no specific feedback. |
 
 About the job About The Role As VP of Engineering, you will be responsible for building, scaling, and operating a high-performing software engineering organization capable of reliably delivering Neural Concept’s ambitious product and technology roadmap. You will turn product vision into software reality, while ensuring our teams and culture scale sustainably — in quality, velocity, and people development. What You Will Do Own engineering execution and delivery Ensure predictable, high-quality delivery across product and platform initiatives Translate product and technical strategy into realistic plans, milestones, and commitments Identify risks early and manage trade-offs transparently Structure the engineering organization
 
@@ -35,7 +35,8 @@ This report was generated from the historical archive in `_base/`. It preserves 
 
 ## D) Status and Outcome
 
-- Current tracker status: `Discarded`
+- Current tracker status: `Rejected`
+- Outcome update 2026-06-02: rejection received from NC Talent Team. No role-specific feedback was provided.
 - PDF available in archive: yes
 - Report generated from local archive material on 2026-05-30.
 
