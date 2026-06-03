@@ -99,6 +99,9 @@ location_filter:
     - "Remote - US"
     - "Remote, US"
     - "Remote US"
+    - "Remote IND"
+    - "Remote AUS"
+    - "Remote JPN"
     - "USA"
     - "U.S."
     - "NAMER"
@@ -240,6 +243,10 @@ title_filter:
     - "Oracle EBS"
     - "Mainframe"
     - "COBOL"
+    - "Account Manager"
+    - "Client Director"
+    - "Secretary"
+    - "Trader"
   seniority_boost:
     # These prefixes add relevance but are not required
     - "Senior"
@@ -643,6 +650,85 @@ tracked_companies:
         - "PMIPMIGB"
       format: jobs-json-v1
     notes: "Philip Morris International. Lausanne/Switzerland Phenom portal; watch IT, digital transformation, AI/data, architecture, product and strategy roles."
+    enabled: true
+
+  - name: Sonar
+    careers_url: https://jobs.lever.co/sonarsource
+    provider: lever
+    lever_slug: sonarsource
+    notes: "Geneva AI code quality / agentic SDLC company. Watch Field CTO, Forward Deployed Engineer, VP/Director Product, AI, platform, architecture, solutions engineering and technical product roles. Filter out narrow hands-on IC roles unless they have clear cross-org architecture or executive/customer exposure."
+    enabled: true
+
+  - name: Nexthink
+    careers_url: https://nexthink.com/company/careers
+    scan_method: local_parser
+    parser:
+      command: node
+      script: scripts/parsers/smartrecruiters-jobs.mjs
+      args:
+        - "{careers_url}"
+        - "Nexthink"
+      format: jobs-json-v1
+    notes: "Lausanne/Prilly digital employee experience platform with AI Agents team. Watch AI/ML, product, platform, architecture, transformation, GTM engineering, engineering leadership and strategic solution roles. Be careful with hands-on-only senior IC roles unless scope is staff/principal with architecture authority."
+    enabled: true
+
+  - name: Proton
+    careers_url: https://proton.me/careers
+    api: https://boards-api.greenhouse.io/v1/boards/proton/jobs
+    provider: greenhouse
+    notes: "Geneva HQ privacy/security product company. Watch platform/security/product engineering leadership, technical product, AI/privacy/security, infrastructure and architecture roles. Filter out mobile-only or narrow implementation roles unless senior strategic scope is explicit."
+    enabled: true
+
+  - name: Swissquote
+    careers_url: https://careers.smartrecruiters.com/Swissquote/tech-jobs
+    scan_method: local_parser
+    parser:
+      command: node
+      script: scripts/parsers/smartrecruiters-jobs.mjs
+      args:
+        - "{careers_url}"
+        - "Swissquote"
+      format: jobs-json-v1
+    notes: "Gland fintech / online bank. Watch Head/Director, core banking, banking solutions, digital assets, platform/security architecture, product ownership and technology transformation roles. Filter out downlevel Java/mobile/admin roles unless leadership or architecture authority is clear."
+    enabled: true
+
+  - name: Evooq
+    careers_url: https://jobs.smartrecruiters.com/Evooq
+    scan_method: local_parser
+    parser:
+      command: node
+      script: scripts/parsers/smartrecruiters-jobs.mjs
+      args:
+        - "{careers_url}"
+        - "Evooq"
+      format: jobs-json-v1
+    notes: "Lausanne wealthtech / investment technology. Watch Director of Engineering, Senior Engineering Manager, Head/Lead platform, presales, solution consulting, product and architecture roles. Discard small-team hands-on roles unless mandate includes strategic ownership and compensation potential."
+    enabled: true
+
+  - name: Temenos
+    careers_url: https://temenos.wd103.myworkdayjobs.com/en-US/Temenoscareers
+    provider: workday
+    notes: "Geneva-headquartered banking software company on Workday. Watch Field CTO-adjacent, lead architect, business/technical architect, pre-sales, customer success, product, cloud/security and banking platform leadership roles. Filter out offshore implementation/support roles and roles without Geneva/Swiss/remote relevance."
+    enabled: true
+
+  - name: IATA
+    careers_url: https://www.iata.org/en/about/careers/
+    scan_method: websearch
+    scan_query: 'site:iata.org/en/about/careers OR site:iata.csod.com "IATA" "Geneva" "Technology" OR "Data" OR "Digital" OR "Architecture"'
+    notes: "Geneva aviation association. Watch senior data/digital transformation, platform, architecture, product, technology strategy and enterprise operations roles. Public-interest/association profile; assess compensation and decision rights carefully."
+    enabled: true
+
+  - name: EPFL
+    careers_url: https://www.epfl.ch/about/working/working-at-epfl/job-openings/
+    scan_method: websearch
+    scan_query: 'site:careers.epfl.ch "Lausanne" "AI" OR "Machine Learning" OR "Research Engineer" OR "Digital" OR "Architecture"'
+    notes: "Lausanne federal technology institute. Watch AI Center, research engineering, digital services, platform, architecture and high-impact institutional technology roles. Compensation may be below private target; require strategic impact and seniority."
+    enabled: true
+
+  - name: World Economic Forum
+    careers_url: https://weforum.wd3.myworkdayjobs.com/Forum_Careers
+    provider: workday
+    notes: "Geneva-based international organization on Workday. Watch AI transformation, digital platforms, product, data, technology strategy, platform architecture and public-interest technology leadership roles. Filter out non-technical policy/program roles unless they include clear AI/digital transformation ownership."
     enabled: true
 
   - name: SwissDevJobs
