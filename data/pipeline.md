@@ -2,19 +2,20 @@
 
 ## Pendientes
 
-- [ ] https://job-boards.eu.greenhouse.io/proton/jobs/4864462101 | Proton | Senior Product Manager
-- [ ] https://job-boards.eu.greenhouse.io/proton/jobs/4364312101 | Proton | Senior Product Manager (Inbox)
-- [ ] https://jobs.smartrecruiters.com/Nexthink/744000129201897-staff-software-engineer-ai-native-automation | Nexthink | Staff Software Engineer – AI-Native Automation
-- [ ] https://jobs.smartrecruiters.com/Nexthink/744000124119379-senior-product-manager-endpoint | Nexthink | (Senior) Product Manager, Endpoint
-- [ ] https://jobs.smartrecruiters.com/Nexthink/744000109742575-principal-staff-software-engineer | Nexthink | Principal/Staff Software Engineer
-- [ ] https://weforum.wd3.myworkdayjobs.com/en-US/Forum_Careers/job/Geneva/Event-Technology-and-Product-Manager_R4042 | World Economic Forum | Event Technology and Product Manager
-- [ ] https://jobs.lever.co/sonarsource/b1f69ff1-1a12-465d-b33a-99957921392e | Sonar | Group Product Manager
-- [ ] https://jobs.lever.co/sonarsource/1005065d-3485-4381-995f-a4d75af07fcd | Sonar | Sales Solutions Engineer - EMEA
-- [ ] https://jobs.lever.co/sonarsource/5fb545c6-9c83-4abf-a83b-36c6b4491e18 | Sonar | Technical Product Manager - Code Quality
-
-- [ ] https://careers.icrc.org/job/Geneva-%28GVA%29-GSS-Transformation-Lead-30335/1284963401/ | ICRC | GSS Transformation Lead
+_No pending URLs._
 
 ## Procesadas
+
+- [x] #103 | https://job-boards.eu.greenhouse.io/proton/jobs/4864462101 | Proton | Senior Product Manager | 3.5/5 | PDF ❌
+- [x] #104 | https://job-boards.eu.greenhouse.io/proton/jobs/4364312101 | Proton | Senior Product Manager (Inbox) | 3.8/5 | PDF ❌
+- [x] #105 | https://jobs.smartrecruiters.com/Nexthink/744000129201897-staff-software-engineer-ai-native-automation | Nexthink | Staff Software Engineer - AI-Native Automation | 3.8/5 | PDF ❌
+- [x] #106 | https://jobs.smartrecruiters.com/Nexthink/744000124119379-senior-product-manager-endpoint | Nexthink | Senior Product Manager, Endpoint | 3.4/5 | PDF ❌
+- [x] #107 | https://jobs.smartrecruiters.com/Nexthink/744000109742575-principal-staff-software-engineer | Nexthink | Principal/Staff Software Engineer | 3.8/5 | PDF ❌
+- [x] #108 | https://weforum.wd3.myworkdayjobs.com/en-US/Forum_Careers/job/Geneva/Event-Technology-and-Product-Manager_R4042 | World Economic Forum | Event Technology and Product Manager | 3.3/5 | PDF ❌
+- [x] #109 | https://jobs.lever.co/sonarsource/b1f69ff1-1a12-465d-b33a-99957921392e | Sonar | Group Product Manager | 4.1/5 | PDF ❌
+- [x] #110 | https://jobs.lever.co/sonarsource/1005065d-3485-4381-995f-a4d75af07fcd | Sonar | Sales Solutions Engineer - EMEA | 4.0/5 | PDF ❌
+- [x] #111 | https://jobs.lever.co/sonarsource/5fb545c6-9c83-4abf-a83b-36c6b4491e18 | Sonar | Technical Product Manager - Code Quality | 3.7/5 | PDF ❌
+- [x] #112 | https://careers.icrc.org/job/Geneva-%28GVA%29-GSS-Transformation-Lead-30335/1284963401/ | ICRC | GSS Transformation Lead | 4.0/5 | PDF ❌
 
 - [x] DISCARDED | https://job-boards.eu.greenhouse.io/proton/jobs/4655985101 | Proton | Engineering Manager - Apple (VPN) | Discarded 2026-06-03: mobile/VPN engineering management appears narrower than target executive/product/platform scope.
 - [x] DISCARDED | https://job-boards.eu.greenhouse.io/proton/jobs/4823205101 | Proton | Machine Learning Engineer | Discarded 2026-06-03: hands-on ML IC role below target leadership/architecture mandate.

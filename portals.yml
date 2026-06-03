@@ -563,6 +563,13 @@ tracked_companies:
     notes: "Geneva public-sector jobs. Watch OCSIN, DSI, architecture, AI, IT service leadership and strategic technology roles."
     enabled: true
 
+  - name: TPG
+    careers_url: https://career5.successfactors.eu/career?company=transpor01&career_ns=job_listing_summary&navBarLevel=JOB_SEARCH
+    scan_method: websearch
+    scan_query: 'site:career5.successfactors.eu/career "transpor01" "informatique" OR "digital" OR "data" OR "IT" OR "chef de projet"'
+    notes: "Transports publics genevois on an older JavaScript-rendered SuccessFactors portal. Watch Geneva IT, digital transformation, data/AI, enterprise architecture, project/program leadership and transport operations technology roles. Use Playwright/manual verification for listings from this portal."
+    enabled: true
+
   - name: SIG
     careers_url: https://jobs.sig-ge.ch/go/Nos-offres-d'emploi/4179501/
     scan_method: local_parser
