@@ -235,6 +235,15 @@ title_filter:
     - "Firmware"
     - "FPGA"
     - "ASIC"
+    - "Physicist"
+    - "Mechanical Engineer"
+    - "Electrical Engineer"
+    - "Civil Engineer"
+    - "Instrumentation Engineer"
+    - "Doctoral"
+    - "Postdoc"
+    - "Fellowship"
+    - "Student Programme"
     - "Blockchain"
     - "Web3"
     - "Crypto"
@@ -729,6 +738,82 @@ tracked_companies:
     careers_url: https://weforum.wd3.myworkdayjobs.com/Forum_Careers
     provider: workday
     notes: "Geneva-based international organization on Workday. Watch AI transformation, digital platforms, product, data, technology strategy, platform architecture and public-interest technology leadership roles. Filter out non-technical policy/program roles unless they include clear AI/digital transformation ownership."
+    enabled: true
+
+  - name: ELCA
+    careers_url: https://elca-careers.com/
+    scan_method: websearch
+    scan_query: 'site:iaaras.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience "ELCA" "Switzerland" "Solution Architect" OR "Enterprise Architect" OR "AI" OR "Data" OR "Engineering Manager"'
+    notes: "Lausanne/Geneva Swiss digital transformation and consulting group on Oracle Cloud recruiting. Watch solution/enterprise architecture, public-sector digital transformation, AI/data, cybersecurity, cloud and senior delivery/engineering leadership roles. Consulting-heavy; require seniority, decision rights and compensation."
+    enabled: true
+
+  - name: SICPA
+    careers_url: https://jobs.sicpa.com/search/
+    scan_method: local_parser
+    parser:
+      command: node
+      script: scripts/parsers/successfactors-category-jobs.mjs
+      args:
+        - "{careers_url}"
+      format: jobs-json-v1
+    notes: "Prilly/Lausanne digital trust, security ink and identity/security technology. Watch digital R&I, platform/security architecture, AI/data, cyber, identity, product and transformation roles. Filter out laboratory, production, field technician and non-Swiss operational roles."
+    enabled: true
+
+  - name: Kudelski Security
+    careers_url: https://careers.smartrecruiters.com/KudelskiSecurityInc
+    scan_method: local_parser
+    parser:
+      command: node
+      script: scripts/parsers/smartrecruiters-jobs.mjs
+      args:
+        - "{careers_url}"
+        - "KudelskiSecurityInc"
+      format: jobs-json-v1
+    notes: "Cheseaux-sur-Lausanne / global cybersecurity advisory and managed security. Watch cyber architecture, advisory, SOC/platform leadership, AI security, cloud security and strategic security transformation roles. Filter out US-only support roles and hands-on network support unless strategic scope is clear."
+    enabled: true
+
+  - name: CERN
+    careers_url: https://jobs.smartrecruiters.com/CERN
+    scan_method: local_parser
+    parser:
+      command: node
+      script: scripts/parsers/smartrecruiters-jobs.mjs
+      args:
+        - "{careers_url}"
+        - "CERN"
+      format: jobs-json-v1
+    notes: "Geneva scientific institution on SmartRecruiters. Watch IT leadership, software architecture, software reliability, platform, data/AI, controls software and high-impact institutional technology roles. Filter out student, junior, postdoc, mechanical/civil/electrical-only and narrow research roles."
+    enabled: true
+
+  - name: ICRC
+    careers_url: https://careers.icrc.org/go/HQ-Opportunities/8821401/
+    scan_method: local_parser
+    parser:
+      command: node
+      script: scripts/parsers/successfactors-category-jobs.mjs
+      args:
+        - "{careers_url}"
+      format: jobs-json-v1
+    notes: "Geneva humanitarian organization on SuccessFactors. Watch ICT, information management, security operations, digital transformation, platform, data and technology operating-model roles. Impact can justify lower comp only when scope is strategic and senior."
+    enabled: true
+
+  - name: WIPO
+    careers_url: https://www.wipo.int/en/web/working-at-wipo/wipo-jobs
+    scan_method: websearch
+    scan_query: 'site:wipo.int "WIPO" "Geneva" "ICT" OR "Digital" OR "Information Technology" OR "Data" OR "AI" OR "Architecture" "job"'
+    notes: "Geneva UN agency for intellectual property. Watch senior digital, ICT, data, AI, enterprise architecture, platform and transformation roles. Public-sector/UN profile; assess grade, contract type, strategic authority and compensation."
+    enabled: true
+
+  - name: SOPHiA GENETICS
+    careers_url: https://careers.sophiagenetics.com/jobs/search/job-search-Switzerland
+    scan_method: local_parser
+    parser:
+      command: node
+      script: scripts/parsers/sophia-genetics-jobs.mjs
+      args:
+        - "{careers_url}"
+      format: jobs-json-v1
+    notes: "Rolle healthtech / healthcare AI and data platform. Watch AI/data, platform, product, engineering leadership, architecture and technology transformation roles. Filter out lab, supply-chain, intern and narrow bioinformatics roles unless senior platform/product scope is explicit."
     enabled: true
 
   - name: SwissDevJobs

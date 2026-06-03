@@ -39,6 +39,22 @@ function absolutizeUrl(rawUrl, baseUrl) {
   }
 }
 
+function locationFromUrl(url) {
+  try {
+    const parsed = new URL(url);
+    const match = parsed.pathname.match(/\/job\/([^/]+)-/);
+    if (!match) return '';
+    return decodeHtml(decodeURIComponent(match[1]))
+      .replace(/[()]/g, '')
+      .replace(/-/g, ' ')
+      .replace(/\bGVA\b/g, 'Geneva')
+      .replace(/\s+/g, ' ')
+      .trim();
+  } catch {
+    return '';
+  }
+}
+
 async function main() {
   const careersUrl = process.argv[2];
   if (!careersUrl) {
@@ -61,12 +77,35 @@ async function main() {
     const department = stripTags(row.match(/<span\b[^>]*class="[^"]*\bjobDepartment\b[^"]*"[^>]*>([\s\S]*?)<\/span>/i)?.[1] || '');
     const facility = stripTags(row.match(/<span\b[^>]*class="[^"]*\bjobFacility\b[^"]*"[^>]*>([\s\S]*?)<\/span>/i)?.[1] || '');
     const type = stripTags(row.match(/<span\b[^>]*class="[^"]*\bjobShifttype\b[^"]*"[^>]*>([\s\S]*?)<\/span>/i)?.[1] || '');
+    const location = locationFromUrl(url);
 
     seen.add(url);
     jobs.push({
       title,
       url,
-      location: ['Geneva, Switzerland', department, facility, type].filter(Boolean).join(' | '),
+      location: [location, department, facility, type].filter(Boolean).join(' | '),
+    });
+  }
+
+  for (const tileMatch of html.matchAll(/<li\b[^>]*class="[^"]*\bjob-tile\b[^"]*"[^>]*>([\s\S]*?)<\/li>/gi)) {
+    const tile = tileMatch[1];
+    const linkMatch = tile.match(/<a\b[^>]*class="[^"]*\bjobTitle-link\b[^"]*"[^>]*href="([^"]+)"[^>]*>([\s\S]*?)<\/a>/i);
+    if (!linkMatch) continue;
+
+    const url = absolutizeUrl(linkMatch[1], careersUrl);
+    const title = stripTags(linkMatch[2]);
+    if (!url || !title || seen.has(url)) continue;
+
+    const values = [...tile.matchAll(/<div\b[^>]*class="[^"]*\bsection-field\b[^"]*"[^>]*>([\s\S]*?)<\/div>\s*<\/div>/gi)]
+      .map(match => stripTags(match[1]).replace(/^[^:]{1,40}:\s*/, ''))
+      .filter(Boolean);
+    const location = locationFromUrl(url);
+
+    seen.add(url);
+    jobs.push({
+      title,
+      url,
+      location: [location, ...values].filter(Boolean).join(' | '),
     });
   }
 

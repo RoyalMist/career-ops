@@ -20,6 +20,8 @@
 - [ ] https://jobs.lever.co/sonarsource/e0060bc5-6855-4150-84a3-7d89f9a77cb4 | Sonar | Staff Software Engineer (Java) - AI & Developer Experience
 - [ ] https://jobs.lever.co/sonarsource/5fb545c6-9c83-4abf-a83b-36c6b4491e18 | Sonar | Technical Product Manager - Code Quality
 
+- [ ] https://careers.icrc.org/job/Geneva-%28GVA%29-GSS-Transformation-Lead-30335/1284963401/ | ICRC | GSS Transformation Lead
+
 ## Procesadas
 
 - [x] DISCARDED | https://jobs.ashbyhq.com/supabase/202e9ca8-3c98-4dea-add5-0f7e2e98800c | Supabase | Product Manager - AI | Discarded 2026-06-02: thematically strong, but IC PM/downlevel risk; Core Product Lead #093 is the better Supabase application.
