@@ -2,7 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
-| 113 | 2026-06-03 | Barrington James / Confidential Digital Health Startup | Chief Technology Officer | 4.0/5 | Evaluated | ✅ | [113](reports/113-barrington-james-chief-technology-officer-2026-06-03.md) | Good remote CTO/sensitive-data platform fit; qualify hidden company, fractional/full-time setup, healthcare standards, comp/rate and hands-on integration scope before investing heavily. |
+| 113 | 2026-06-03 | Barrington James / Confidential Digital Health Startup | Chief Technology Officer | 4.0/5 | Applied | ✅ | [113](reports/113-barrington-james-chief-technology-officer-2026-06-03.md) | Applied 2026-06-03 with tailored CV; qualify hidden company, fractional/full-time setup, healthcare standards, comp/rate and hands-on integration scope early. |
 | 103 | 2026-06-03 | Proton | Senior Product Manager | 3.5/5 | Evaluated | ❌ | [103](reports/103-proton-senior-product-manager-2026-06-03.md) | Lower-priority Senior PM IC; Proton/Geneva and privacy fit, but community-product domain and downlevel risk. |
 | 104 | 2026-06-03 | Proton | Senior Product Manager (Inbox) | 3.8/5 | Evaluated | ❌ | [104](reports/104-proton-senior-product-manager-inbox-2026-06-03.md) | Decent secure-product/AI/privacy fit, but old evergreen posting and IC PM downlevel; screen scope and comp first. |
 | 105 | 2026-06-03 | Nexthink | Staff Software Engineer - AI-Native Automation | 3.8/5 | Evaluated | ❌ | [105](reports/105-nexthink-staff-software-engineer-ai-native-automation-2026-06-03.md) | Strong agentic automation theme, but hands-on Staff IC in Lausanne; apply only if strategic architecture scope is real. |

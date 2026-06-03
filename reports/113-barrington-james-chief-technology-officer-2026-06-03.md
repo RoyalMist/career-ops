@@ -5,7 +5,7 @@
 **Archetype:** CTO / AI Transformation / Digital Health Platform Architecture
 **Score:** 4.0/5
 **Legitimacy:** Proceed with Caution
-**PDF:** output/cv-thibault-fouache-barrington-james-chief-technology-officer-2026-06-03.pdf
+**PDF:** output/archived/cv-thibault-fouache-barrington-james-chief-technology-officer-2026-06-03.pdf
 
 ---
 
@@ -84,7 +84,7 @@ Accept a fractional structure only if the rate, equity and decision rights match
 
 Generated material:
 
-- CV: `output/cv-thibault-fouache-barrington-james-chief-technology-officer-2026-06-03.pdf`
+- CV: `output/archived/cv-thibault-fouache-barrington-james-chief-technology-officer-2026-06-03.pdf`
 
 | # | Section | Current status | Proposed change | Why |
 |---|---|---|---|---|
