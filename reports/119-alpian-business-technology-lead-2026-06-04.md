@@ -5,7 +5,7 @@
 **Archetype:** AI Transformation / Fintech Business Technology Lead
 **Score:** 4.0/5
 **Legitimacy:** High Confidence
-**PDF:** not generated
+**PDF:** output/cv-thibault-fouache-alpian-business-technology-lead-2026-06-04.pdf
 
 ---
 
@@ -101,3 +101,17 @@ Context: real and materially more aligned than prior Alpian Product Manager role
 ## Keywords extracted
 
 Business Technology Lead, Alpian, FINMA, digital private bank, cloud-native, AI-first technology stack, compliance, KYC, transaction monitoring, operational controls, automation, AI opportunities, solution design, business requirements, product roadmap, production environments, audit trail, Swiss banking regulations, data platforms, technical product leadership.
+
+## H) Application Package
+
+Generated 2026-06-04:
+
+- Tailored CV PDF: `output/cv-thibault-fouache-alpian-business-technology-lead-2026-06-04.pdf`
+- Tailored CV HTML: `output/cv-thibault-fouache-alpian-business-technology-lead-2026-06-04.html`
+- Cover letter PDF: `output/cover-letter-thibault-fouache-alpian-business-technology-lead-2026-06-04.pdf`
+- Cover letter HTML: `output/cover-letter-thibault-fouache-alpian-business-technology-lead-2026-06-04.html`
+- Portal copy-paste responses: `output/application-responses-thibault-fouache-alpian-business-technology-lead-2026-06-04.md`
+
+Portal fields observed: applicant information, CV upload, referral source, letter of application, Alpianist referral, known Alpian contact, expertise areas, languages, data-retention/share/privacy checkboxes.
+
+Submission status: package prepared only. Candidate must review and submit manually.
