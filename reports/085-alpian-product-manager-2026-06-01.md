@@ -18,10 +18,10 @@
 | Domain | Swiss digital private banking / fintech |
 | Function | Product roadmap, backlog, user stories, user research, stakeholder alignment, product metrics |
 | Seniority | Mid-senior Product Manager reporting/partnering with Head of Product |
-| Location | Full Remote |
-| TL;DR | Relevant fintech/product context, but it is below the candidate's target level and has no explicit AI, platform, architecture, or executive transformation mandate. |
+| Location | Full Remote; Product Development ST department, likely non-Swiss / Italy-EU remote unless Alpian confirms otherwise |
+| TL;DR | Relevant fintech/product context, but it is below the candidate's target level, likely part of Alpian's non-Swiss ST remote cluster, and has no explicit AI, platform, architecture, or executive transformation mandate. |
 
-**Recommendation:** Do not prioritize. Worth keeping only if Alpian reframes it as senior product/platform ownership with broad mandate, Geneva/remote flexibility, and compensation close to CHF 180k+.
+**Recommendation:** Discard. Do not treat this as a Switzerland-friendly remote role unless Alpian explicitly confirms Swiss employment; worth reconsidering only if reframed as senior product/platform ownership with broad mandate, Geneva/Swiss contract, and compensation close to CHF 180k+.
 
 ## B) Match with CV
 
@@ -41,7 +41,7 @@
 
 **Candidate natural level:** Executive technology/product leader.
 
-This role has overlap with Bazzile, FlowBank and SCRYPT, but it would likely downlevel the candidate into backlog and execution management. The strongest angle would be "regulated fintech product leader who can bridge product, engineering and compliance," but the mandate does not mention AI transformation, enterprise architecture, or team ownership.
+This role has overlap with Bazzile, FlowBank and SCRYPT, but it would likely downlevel the candidate into backlog and execution management. The Product Development ST department also appears to belong to Alpian's non-Swiss / Italy-EU remote cluster, based on the neighboring Software Development ST and Platform Engineering ST roles. The strongest angle would be "regulated fintech product leader who can bridge product, engineering and compliance," but the mandate does not mention AI transformation, enterprise architecture, or team ownership.
 
 ## D) Compensation and Benefits
 

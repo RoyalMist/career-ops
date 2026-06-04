@@ -58,6 +58,12 @@ Use the candidate's exit story from `config/profile.yml` to frame ALL content:
 
 Frame profile as **"Technical builder with real-world proof"** that adapts framing to the role.
 
+## Your Domain Knowledge Notes
+
+- The candidate is personally well versed in investments. For wealth, private banking, investment-product, portfolio, 3a, vested benefits, trading, or asset-management roles, do not treat investment literacy as a major ramp-up blocker by default.
+- Distinguish between **domain literacy** and **formal CV evidence**: the CV has strong regulated banking, trading, fintech, data, and asset-management technology proof points, but may not explicitly show product ownership of portfolio construction, funds, ETFs, mandates, 3a, or vested-benefits products.
+- For investment-product roles, score the domain fit as stronger than the CV alone suggests, while still checking level, compensation, decision rights, and whether the role is product/technology leadership versus pure investment management.
+
 ## Your Role Preferences and Deal-Breakers
 
 **Founder / CTO roles:**

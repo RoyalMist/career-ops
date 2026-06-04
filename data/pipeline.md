@@ -6,7 +6,8 @@ _No pending URLs._
 
 ## Procesadas
 
-- [x] #114 | https://alpian.intranet.digital/external/en/companies/15f3e2c7-b10a-4288-bc71-3b543102a3f2/jobs/097319f2-1ad6-4b13-919c-430f1308b4b9 | Alpian | Product Manager - Investments | 3.4/5 | PDF ❌
+- [x] #119 | https://alpian.intranet.digital/external/en/companies/15f3e2c7-b10a-4288-bc71-3b543102a3f2/jobs/f00bd1d2-9dbd-4369-b7da-095098d19a36 | Alpian | Business Technology Lead | 4.0/5 | PDF ❌
+- [x] #114 | https://alpian.intranet.digital/external/en/companies/15f3e2c7-b10a-4288-bc71-3b543102a3f2/jobs/097319f2-1ad6-4b13-919c-430f1308b4b9 | Alpian | Product Manager - Investments | 3.6/5 | PDF ❌
 - [x] #115 | https://alpian.intranet.digital/external/en/companies/15f3e2c7-b10a-4288-bc71-3b543102a3f2/jobs/eedbc36a-ceec-49bd-bd68-fd085e3a3c84 | Alpian | Director of Investments Solutions | 3.3/5 | PDF ❌
 - [x] #116 | https://swissdevjobs.ch/jobs/Kanton-Basel-Stadt-Senior-Software-Engineer-AI--Process-Automation | Kanton Basel-Stadt | Senior Software Engineer AI & Process Automation | 2.6/5 | PDF ❌
 - [x] #117 | https://swissdevjobs.ch/jobs/Kanton-Basel-Stadt-Business-Analyst-Senior-AI--und-Process-Automation | Kanton Basel-Stadt | Business Analyst Senior AI- und Process Automation | 2.5/5 | PDF ❌

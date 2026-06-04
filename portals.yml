@@ -652,7 +652,7 @@ tracked_companies:
       args:
         - "{careers_url}"
       format: jobs-json-v1
-    notes: "Geneva/Lausanne digital private bank on PeopleWeek/Intranet Digital. Watch Core Banking, Head/Lead/Product/Platform/Architecture, AI/data, fintech transformation and senior engineering leadership roles. Filter out Italy-only senior IC roles and downlevel hands-on platform/dev roles."
+    notes: "Geneva/Lausanne digital private bank on PeopleWeek/Intranet Digital. Watch Core Banking, Head/Lead/Product/Platform/Architecture, AI/data, fintech transformation and senior engineering leadership roles. Treat departments ending in ST (e.g. Software Development ST, Product Development ST, Platform Engineering ST) as likely non-Swiss/Italy-EU remote unless the JD explicitly says Geneva/Swiss employment; filter out Italy-only senior IC roles and downlevel hands-on platform/dev roles."
     enabled: true
 
   - name: PMI
