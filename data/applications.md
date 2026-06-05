@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 120 | 2026-06-05 | Hirslanden / Mediclinic | ICT Business Partner 80-100% | 3.8/5 | Evaluated | ❌ | [120](reports/120-hirslanden-mediclinic-2026-06-05.md) | Low-priority Geneva healthcare ICT partner role; good stakeholder/process fit but 3-person local team, healthcare-domain gap and likely comp below target. |
 | 119 | 2026-06-04 | Alpian | Business Technology Lead | 4.0/5 | Applied | ✅ | [119](reports/119-alpian-business-technology-lead-2026-06-04.md) | Applied 2026-06-04 with tailored CV and cover letter; emphasize long-standing Alpian client context, FlowBank common-project exposure, regulated fintech AI automation, and qualify workload/80-90%/salary early. |
 | 115 | 2026-06-04 | Alpian | Director of Investments Solutions | 3.3/5 | Discarded | ❌ | [115](reports/115-alpian-director-investments-solutions-2026-06-04.md) | Discarded by candidate: senior and local, but primarily investment-management leadership with hard portfolio/asset-allocation requirements outside target lane. |
 | 116 | 2026-06-04 | Kanton Basel-Stadt | Senior Software Engineer AI & Process Automation | 2.6/5 | Discarded | ❌ | [116](reports/116-kanton-basel-stadt-senior-software-engineer-ai-process-automation-2026-06-04.md) | Discarded by candidate: technically relevant AI/platform work, but German, Basel, hands-on senior IC scope and CHF 90k-120k comp are blockers. |
