@@ -2,7 +2,8 @@
 
 ## Pendientes
 
-_No pending URLs._
+- [ ] https://job-boards.eu.greenhouse.io/clarityai/jobs/4846731101 | Clarity AI | AI & Data Science Director
+- [ ] https://job-boards.eu.greenhouse.io/clarityai/jobs/4802689101 | Clarity AI | Staff AI Engineer
 
 ## Procesadas
 

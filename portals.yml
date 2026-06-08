@@ -943,9 +943,8 @@ tracked_companies:
   # -- Contact Center AI & CX --
 
   - name: Ada
-    careers_url: https://job-boards.greenhouse.io/ada
-    scan_method: websearch
-    scan_query: '"ada.cx" OR "ada" "AI" "Solutions" OR "Engineer" site:jobs.ashbyhq.com OR site:job-boards.greenhouse.io'
+    careers_url: https://job-boards.greenhouse.io/ada18
+    api: https://boards-api.greenhouse.io/v1/boards/ada18/jobs
     notes: "Toronto + remote. AI customer service."
     enabled: true
 
@@ -1148,9 +1147,9 @@ tracked_companies:
   # -- European tech (EMEA-friendly) --
 
   - name: Factorial
-    careers_url: https://job-boards.greenhouse.io/factorial
+    careers_url: https://careers.factorialhr.com/
     scan_method: websearch
-    scan_query: 'site:jobs.greenhouse.io/factorial'
+    scan_query: 'site:careers.factorialhr.com "AI Engineer" OR "Staff Engineer" OR "Solutions Engineer" OR "Product Manager"'
     notes: "Barcelona. HR SaaS unicorn."
     enabled: true
 
@@ -1162,23 +1161,22 @@ tracked_companies:
     enabled: true
 
   - name: Tinybird
-    careers_url: https://jobs.ashbyhq.com/tinybird
+    careers_url: https://www.tinybird.co/about#join-us
     scan_method: websearch
-    scan_query: 'site:tinybird.co/careers OR site:jobs.ashbyhq.com/tinybird'
+    scan_query: 'site:tinybird.co/about "Product Engineer" OR "Backend Engineer" OR "Software Engineer" OR "Platform"'
     notes: "Remote. Real-time data platform."
     enabled: true
 
   - name: Clarity AI
-    careers_url: https://jobs.lever.co/clarity-ai
-    scan_method: websearch
-    scan_query: 'site:clarity.ai/careers OR site:jobs.lever.co/clarity-ai'
+    careers_url: https://job-boards.eu.greenhouse.io/clarityai
+    api: https://boards-api.greenhouse.io/v1/boards/clarityai/jobs
     notes: "Madrid/Remote. Sustainability analytics with AI."
     enabled: true
 
-  - name: Travelperk
-    careers_url: https://jobs.ashbyhq.com/travelperk
+  - name: Perk (TravelPerk)
+    careers_url: https://www.perk.com/careers/
     scan_method: websearch
-    scan_query: 'site:jobs.ashbyhq.com/travelperk'
+    scan_query: 'site:perk.com/careers OR site:perk.com/job-application OR site:travelperk.com/job-application'
     notes: "Barcelona. Business travel unicorn."
     enabled: true
 
@@ -1270,7 +1268,14 @@ tracked_companies:
   # -- DACH logistics / mobility --
 
   - name: Forto
-    careers_url: https://jobs.lever.co/forto
+    careers_url: https://careers.forto.com/
+    scan_method: local_parser
+    parser:
+      command: node
+      script: scripts/parsers/rss-jobs.mjs
+      args:
+        - "https://careers.forto.com/feed/"
+      format: jobs-json-v1
     notes: "Berlin DE. Digital freight forwarder, product & data roles, German + English."
     enabled: true
 
@@ -1386,7 +1391,9 @@ tracked_companies:
     enabled: true
 
   - name: Vinted
-    careers_url: https://jobs.lever.co/vinted
+    careers_url: https://careers.vinted.com/jobs
+    scan_method: websearch
+    scan_query: 'site:careers.vinted.com/jobs "AI" OR "Data" OR "Product" OR "Staff Engineer"'
     notes: "Vilnius LT / Berlin. C2C marketplace unicorn, data science & ML roles."
     enabled: true
 
@@ -1415,8 +1422,9 @@ tracked_companies:
     enabled: true
 
   - name: Runway
-    careers_url: https://job-boards.greenhouse.io/runwayml
-    api: https://boards-api.greenhouse.io/v1/boards/runwayml/jobs
+    careers_url: https://runwayml.com/careers
+    scan_method: websearch
+    scan_query: 'site:runwayml.com/careers "AI Engagement" OR "Product Manager" OR "Developer Platform" OR "Research Engineer"'
     notes: "Generative AI video and creative tooling platform."
     enabled: true
 
