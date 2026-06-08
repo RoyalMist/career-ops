@@ -5,7 +5,7 @@
 **Archetype:** AI Transformation / Enterprise ICT Business Partner
 **Score:** 3.8/5
 **Legitimacy:** High Confidence
-**PDF:** pending / not generated
+**PDF:** output/archived/cv-thibault-fouache-hirslanden-mediclinic-ict-business-partner-fr-2026-06-08.pdf
 
 ---
 
