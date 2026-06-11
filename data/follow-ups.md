@@ -25,3 +25,6 @@
 | 21 | 19 | 2026-06-11 | Mistral AI | Founder in Residence | Tracker closure | Stanislas Pesic | Considered rejected: no news after 2026-05-31 reply that applications were being processed. |
 | 22 | 25 | 2026-06-11 | PMI | Sr. Manager R&D Architecture | Tracker closure | Agnieszka / People & Culture | Considered rejected: no news after 2026-06-03 update that completed assessments were still under review. |
 | 23 | 6 | 2026-06-11 | Options Group / Confidential | Head of Compliance, Ops and Audit Technology | Tracker closure | James Richmond / jrichmond@optionsgroup.com | Considered rejected: no news after 2026-06-03 follow-up. |
+| 24 | 19 | 2026-06-11 | Mistral AI | Founder in Residence | Tracker update | Stanislas Pesic | Reopened/waiting: candidate decided to wait a bit longer before treating the application as rejected. |
+| 25 | 25 | 2026-06-11 | PMI | Sr. Manager R&D Architecture | Tracker update | Agnieszka / People & Culture | Reopened/waiting: candidate decided to wait a bit longer before treating the application as rejected. |
+| 26 | 6 | 2026-06-11 | Options Group / Confidential | Head of Compliance, Ops and Audit Technology | Tracker update | James Richmond / jrichmond@optionsgroup.com | Reopened/waiting: candidate decided to wait a bit longer before treating the application as rejected. |
