@@ -2,7 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
-| 127 | 2026-06-11 | ASMALLWORLD | CTO (Chief Technology Officer) | 4.1/5 | Evaluated | ❌ | [127](reports/127-asmallworld-cto-2026-06-11.md) | Evaluated: strong Swiss CTO fit with CEO reporting, CRM/personalization/data/AI scope; qualify Duebendorf hybrid, team size, budget and compensation early. |
+| 127 | 2026-06-11 | ASMALLWORLD | CTO (Chief Technology Officer) | 4.1/5 | Evaluated | ✅ | [127](reports/127-asmallworld-cto-2026-06-11.md) | Application package prepared: tailored CV, cover letter and screening answers. Qualify Duebendorf hybrid, team size, budget and compensation early. |
 | 122 | 2026-06-11 | Clarity AI | AI & Data Science Director | 3.8/5 | Discarded | ❌ | [122](reports/122-clarity-ai-data-science-director-2026-06-11.md) | Discarded by candidate 2026-06-11: Madrid hybrid and classical ML/data-science depth gap make it too weak versus target roles. |
 | 123 | 2026-06-11 | Clarity AI | Staff AI Engineer | 3.4/5 | Discarded | ❌ | [123](reports/123-clarity-ai-staff-ai-engineer-2026-06-11.md) | Discarded by candidate 2026-06-11: hands-on Staff IC GenAI/RAG/evals role is below target leadership lane. |
 | 124 | 2026-06-11 | Alpian | Senior Data / AI Engineer | 3.8/5 | Discarded | ❌ | [124](reports/124-alpian-senior-data-ai-engineer-2026-06-11.md) | Discarded by candidate 2026-06-11: strong AI signal, but hands-on IC role and separate application would confuse the active Business Technology Lead process. |

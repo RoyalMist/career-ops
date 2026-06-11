@@ -5,7 +5,7 @@
 **Archetype:** CTO / AI Transformation / Consumer Digital Platform
 **Score:** 4.1/5
 **Legitimacy:** Proceed with Caution
-**PDF:** pending
+**PDF:** [CV](../output/cv-thibault-fouache-asmallworld-cto-2026-06-11.pdf) / [Cover letter](../output/cover-letter-thibault-fouache-asmallworld-cto-2026-06-11.pdf)
 
 ---
 
@@ -103,3 +103,15 @@ Questions to ask immediately:
 ## Keywords extracted
 
 ASMALLWORLD, CTO, Chief Technology Officer, Swiss-listed, SIX ASWN, luxury travel, lifestyle membership, CRM, marketing technology, Salesforce, personalization, product roadmap, product engineering, backend infrastructure, data architecture, business analytics, vendor management, loyalty programmes, security, compliance, data governance, AI, automation, CEO.
+
+## H) Application Package
+
+Prepared on 2026-06-11:
+
+- [Tailored CV HTML](../output/cv-thibault-fouache-asmallworld-cto-2026-06-11.html)
+- [Tailored CV PDF](../output/cv-thibault-fouache-asmallworld-cto-2026-06-11.pdf)
+- [Cover letter HTML](../output/cover-letter-thibault-fouache-asmallworld-cto-2026-06-11.html)
+- [Cover letter PDF](../output/cover-letter-thibault-fouache-asmallworld-cto-2026-06-11.pdf)
+- [Application responses](../output/application-responses-thibault-fouache-asmallworld-cto-2026-06-11.md)
+
+Status remains `Evaluated` until the application is submitted by the candidate.
