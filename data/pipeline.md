@@ -2,14 +2,13 @@
 
 ## Pendientes
 
-- [ ] https://job-boards.eu.greenhouse.io/clarityai/jobs/4846731101 | Clarity AI | AI & Data Science Director
-- [ ] https://job-boards.eu.greenhouse.io/clarityai/jobs/4802689101 | Clarity AI | Staff AI Engineer
-
-- [ ] https://alpian.intranet.digital/external/en/companies/15f3e2c7-b10a-4288-bc71-3b543102a3f2/jobs/aa7b2659-a240-4a21-af4d-6c4f5dfb8e20 | Alpian | Senior Data / AI Engineer
-- [ ] https://swissdevjobs.ch/jobs/Rockstar-Recruiting-AG-Senior-Platform-Engineer-Lucerne-region | Rockstar Recruiting AG | Senior Platform Engineer (Lucerne region) [CHF 110'000 - 130'000]
-- [ ] https://jobs.ashbyhq.com/synthesia/b682f464-c147-48a3-8064-edd5df8cd512 | Synthesia | Application Security Engineering Manager
-
 ## Procesadas
+
+- [x] #122 | https://job-boards.eu.greenhouse.io/clarityai/jobs/4846731101 | Clarity AI | AI & Data Science Director | 3.8/5 | PDF ❌
+- [x] #123 | https://job-boards.eu.greenhouse.io/clarityai/jobs/4802689101 | Clarity AI | Staff AI Engineer | 3.4/5 | PDF ❌
+- [x] #124 | https://alpian.intranet.digital/external/en/companies/15f3e2c7-b10a-4288-bc71-3b543102a3f2/jobs/aa7b2659-a240-4a21-af4d-6c4f5dfb8e20 | Alpian | Senior Data / AI Engineer | 3.8/5 | PDF ❌
+- [x] #125 | https://swissdevjobs.ch/jobs/Rockstar-Recruiting-AG-Senior-Platform-Engineer-Lucerne-region | Rockstar Recruiting AG | Senior Platform Engineer (Lucerne region) | 2.4/5 | PDF ❌
+- [x] #126 | https://jobs.ashbyhq.com/synthesia/b682f464-c147-48a3-8064-edd5df8cd512 | Synthesia | Application Security Engineering Manager | 3.7/5 | PDF ❌
 
 - [x] DISCARDED | https://swissdevjobs.ch/jobs/Scalera-AG-Forward-Deployed-Engineer | Scalera AG | Forward Deployed Engineer [CHF 80'000 - 120'000] | Discarded 2026-06-05: compensation range CHF 80k-120k is far below target and role is likely hands-on FDE.
 - [x] DISCARDED | https://jobs.ashbyhq.com/photoroom/f7cf95df-3479-49fa-bff6-ce7c31c0c136 | Photoroom | Growth Product Manager | Discarded 2026-06-05: growth PM role is outside target technology leadership lane.
