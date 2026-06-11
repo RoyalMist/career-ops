@@ -5,6 +5,10 @@
 - [ ] https://job-boards.eu.greenhouse.io/clarityai/jobs/4846731101 | Clarity AI | AI & Data Science Director
 - [ ] https://job-boards.eu.greenhouse.io/clarityai/jobs/4802689101 | Clarity AI | Staff AI Engineer
 
+- [ ] https://alpian.intranet.digital/external/en/companies/15f3e2c7-b10a-4288-bc71-3b543102a3f2/jobs/aa7b2659-a240-4a21-af4d-6c4f5dfb8e20 | Alpian | Senior Data / AI Engineer
+- [ ] https://swissdevjobs.ch/jobs/Rockstar-Recruiting-AG-Senior-Platform-Engineer-Lucerne-region | Rockstar Recruiting AG | Senior Platform Engineer (Lucerne region) [CHF 110'000 - 130'000]
+- [ ] https://jobs.ashbyhq.com/synthesia/b682f464-c147-48a3-8064-edd5df8cd512 | Synthesia | Application Security Engineering Manager
+
 ## Procesadas
 
 - [x] DISCARDED | https://swissdevjobs.ch/jobs/Scalera-AG-Forward-Deployed-Engineer | Scalera AG | Forward Deployed Engineer [CHF 80'000 - 120'000] | Discarded 2026-06-05: compensation range CHF 80k-120k is far below target and role is likely hands-on FDE.
