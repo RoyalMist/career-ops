@@ -1,7 +1,7 @@
 # Evaluation: Digital Asset - Senior Director of Engineering
 
 **Date:** 2026-05-31
-**URL:** https://www.linkedin.com/jobs/view/4412951806/
+**URL:** https://digitalasset.careers.hibob.com/jobs/4b94033d-7a58-4674-acaa-a83297795f61
 **Archetype:** Director / VP Engineering; Fintech / Blockchain Technology Leader
 **Score:** 4.3/5
 **Legitimacy:** High Confidence
@@ -136,6 +136,7 @@ Do not accept below Senior Director / VP-equivalent scope. The mandate must incl
 
 | Signal | Finding | Weight |
 |---|---|---|
+| Official HiBob posting | User shared the Digital Asset HiBob posting on 2026-06-08. Playwright extraction showed the same Senior Director of Engineering role, Switzerland hybrid location, full JD content, and Application tab. The liveness classifier marked it uncertain only because it did not detect a separate visible Apply control. | Positive |
 | LinkedIn freshness | Playwright snapshot showed active Apply, posted 2 weeks ago, 133 applicants and Executive seniority. | Positive |
 | Cross-posting | Talent.com and trabajo.org mirror the same job with matching title/company/location/content. | Positive |
 | Description specificity | JD is very specific: leader-of-leaders, CTO/CPO partnership, delivery process, release quality, service reliability, budget, security posture, career frameworks and 50+ teams. | Positive |
