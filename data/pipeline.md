@@ -2,6 +2,15 @@
 
 ## Pendientes
 
+- [ ] https://www.carrieres-rolex.com/Rolex/job/Gen%C3%A8ve-Manager-d'%C3%89quipe-Transformation-Num%C3%A9rique-%28HF%29-Gen%C3%A8/1229511801/ | Rolex | Manager d'Équipe Transformation Numérique (H/F)
+- [ ] https://jobs.smartrecruiters.com/Nexthink/744000131906026-staff-software-engineer | Nexthink | Staff Software Engineer
+- [ ] https://swissdevjobs.ch/jobs/Ergon-Informatik-AG-Praktikum-Security-Software-Engineering-und-Machine-Learning | Ergon Informatik AG | Praktikum Security Software Engineering und Machine Learning [CHF 55'000 - 70'000]
+- [ ] https://job-boards.greenhouse.io/later/jobs/8582572002 | Later | Social Media Manager
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7764531003?gh_jid=7764531003 | Celonis | Client Account Lead - Strategy & Transformation (Pharma)
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7771534003?gh_jid=7771534003 | Celonis | Client Engagement Partner - AI-Driven Transformation & Process Intelligence (Pharma)
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7771535003?gh_jid=7771535003 | Celonis | Client Value Partner (CVP) - AI-Driven Transformation & Process Intelligence (Pharma)
+- [ ] https://job-boards.eu.greenhouse.io/amplemarket/jobs/4066993101 | Amplemarket | Senior Product Manager
+
 ## Procesadas
 
 - [x] #122 | https://job-boards.eu.greenhouse.io/clarityai/jobs/4846731101 | Clarity AI | AI & Data Science Director | 3.8/5 | PDF ❌
