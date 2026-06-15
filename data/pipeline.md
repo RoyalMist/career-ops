@@ -3,7 +3,14 @@
 ## Pendientes
 
 
+
 ## Procesadas
+
+- [x] DISCARDED | https://lombardodier.wd3.myworkdayjobs.com/fr-FR/Lombard_Odier_Careers/job/Geneva/AML-Investigations-and-Suspicious-Activity-Reporting--SAR--Specialist--80-100--_R0007210 | Lombard Odier | AML Investigations and Suspicious Activity Reporting (SAR) Specialist (80-100%) | Discarded 2026-06-15 by candidate from scan results before evaluation.
+- [x] DISCARDED | https://swissdevjobs.ch/jobs/FP-Robotics-AG-Senior-AI-Engineer--Robotics--Embodied-AI | F&P Robotics AG | Senior AI Engineer – Robotics & Embodied AI [CHF 105'000 - 135'000] | Discarded 2026-06-15 by candidate from scan results before evaluation.
+- [x] DISCARDED | https://swissdevjobs.ch/jobs/Lombard-Odier-Systems-Engineer--Automation-WindowsVMware | Lombard Odier | Systems Engineer – Automation (Windows/VMware) [CHF 110'000 - 150'000] | Discarded 2026-06-15 by candidate from scan results before evaluation.
+- [x] DISCARDED | https://job-boards.greenhouse.io/later/jobs/8590104002 | Later | Social Media Creative Network (Freelance) | Discarded 2026-06-15 by candidate from scan results before evaluation.
+- [x] DISCARDED | https://jobs.lever.co/sonarsource/5f08ef0c-6f0d-46fb-883e-0f9e071064da | Sonar | Business Systems Analyst - Finance | Discarded 2026-06-15 by candidate from scan results before evaluation.
 
 - [x] DISCARDED | https://jobs.smartrecruiters.com/Nexthink/744000131906026-staff-software-engineer | Nexthink | Staff Software Engineer | Discarded 2026-06-15: likely IC/downlevel versus target leadership lane.
 - [x] DISCARDED | https://swissdevjobs.ch/jobs/Ergon-Informatik-AG-Praktikum-Security-Software-Engineering-und-Machine-Learning | Ergon Informatik AG | Praktikum Security Software Engineering und Machine Learning [CHF 55'000 - 70'000] | Discarded 2026-06-15: internship and compensation range clearly below target.
