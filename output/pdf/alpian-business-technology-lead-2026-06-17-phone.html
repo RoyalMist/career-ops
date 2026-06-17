@@ -1,0 +1,609 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Alpian Interview Prep - Business Technology Lead</title>
+  <style>
+    @page {
+      size: 390px 844px;
+      margin: 18px 16px 24px;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      background: #f4f1ea;
+      color: #1d2326;
+      font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      font-size: 15px;
+      line-height: 1.48;
+      letter-spacing: 0;
+    }
+
+    .page {
+      break-after: page;
+      padding: 0;
+    }
+
+    .page:last-child {
+      break-after: auto;
+    }
+
+    h1,
+    h2,
+    h3 {
+      margin: 0;
+      line-height: 1.14;
+      letter-spacing: 0;
+      color: #122124;
+    }
+
+    h1 {
+      font-size: 29px;
+      font-weight: 760;
+      margin-bottom: 12px;
+    }
+
+    h2 {
+      font-size: 20px;
+      font-weight: 760;
+      margin: 0 0 12px;
+      padding-bottom: 7px;
+      border-bottom: 2px solid #d9c9ad;
+    }
+
+    h3 {
+      font-size: 16px;
+      font-weight: 750;
+      margin: 15px 0 6px;
+    }
+
+    p {
+      margin: 0 0 10px;
+    }
+
+    ul,
+    ol {
+      margin: 6px 0 12px;
+      padding-left: 18px;
+    }
+
+    li {
+      margin: 0 0 6px;
+    }
+
+    strong {
+      font-weight: 760;
+    }
+
+    .kicker {
+      color: #6c3f2e;
+      font-weight: 780;
+      font-size: 12px;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      margin-bottom: 8px;
+    }
+
+    .meta {
+      display: grid;
+      grid-template-columns: 78px 1fr;
+      gap: 5px 8px;
+      margin: 14px 0 16px;
+      font-size: 12px;
+      line-height: 1.32;
+      color: #364449;
+    }
+
+    .meta .label {
+      color: #7a6a58;
+      font-weight: 760;
+    }
+
+    .hero {
+      min-height: 790px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+    }
+
+    .hero-card {
+      margin-top: 12px;
+      padding: 14px;
+      border-left: 5px solid #1f6f78;
+      background: #fffaf0;
+      border-radius: 8px;
+      box-shadow: 0 1px 0 rgba(18, 33, 36, 0.08);
+    }
+
+    .hero-card p {
+      font-size: 18px;
+      line-height: 1.38;
+      font-weight: 650;
+      margin: 0;
+      color: #143337;
+    }
+
+    .section {
+      break-inside: avoid;
+      margin-bottom: 16px;
+    }
+
+    .box {
+      background: #fffdf7;
+      border: 1px solid #dfd5c5;
+      border-radius: 8px;
+      padding: 11px 12px;
+      margin: 10px 0 12px;
+      break-inside: avoid;
+    }
+
+    .soundbite {
+      background: #e8f1ef;
+      border-left: 5px solid #1f6f78;
+      border-radius: 8px;
+      padding: 10px 12px;
+      margin: 10px 0 13px;
+      font-size: 15px;
+      font-weight: 630;
+      color: #123a3f;
+      break-inside: avoid;
+    }
+
+    .warning {
+      background: #fff1e9;
+      border-left: 5px solid #bb5d32;
+    }
+
+    .story {
+      background: #fffdf7;
+      border: 1px solid #dfd5c5;
+      border-radius: 8px;
+      padding: 11px 12px;
+      margin-bottom: 11px;
+      break-inside: avoid;
+    }
+
+    .story h3 {
+      margin-top: 0;
+    }
+
+    .tag {
+      display: inline-block;
+      margin: 0 4px 5px 0;
+      padding: 3px 7px;
+      border-radius: 999px;
+      background: #e8f1ef;
+      color: #25545a;
+      font-size: 11px;
+      font-weight: 740;
+    }
+
+    .qa {
+      break-inside: avoid;
+      padding: 10px 0 12px;
+      border-bottom: 1px solid #ded3c2;
+    }
+
+    .qa:last-child {
+      border-bottom: 0;
+    }
+
+    .qa h3 {
+      margin-top: 0;
+      color: #6c3f2e;
+    }
+
+    .compact li {
+      margin-bottom: 4px;
+    }
+
+    .two-col {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 10px;
+    }
+
+    .avoid {
+      background: #fff4ee;
+      border-color: #e6c1ad;
+    }
+
+    .volunteer {
+      background: #eef7f4;
+      border-color: #bedbd4;
+    }
+
+    .footer-note {
+      color: #6c665d;
+      font-size: 12px;
+      line-height: 1.35;
+      margin-top: 14px;
+    }
+
+    .checklist {
+      list-style: none;
+      padding-left: 0;
+    }
+
+    .checklist li {
+      padding-left: 21px;
+      position: relative;
+    }
+
+    .checklist li::before {
+      content: "";
+      width: 11px;
+      height: 11px;
+      border: 1.8px solid #1f6f78;
+      border-radius: 3px;
+      position: absolute;
+      left: 0;
+      top: 5px;
+      background: #fffdf7;
+    }
+
+    .small {
+      font-size: 13px;
+      color: #465257;
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <section class="page hero">
+      <div>
+        <div class="kicker">Interview Intel</div>
+        <h1>Alpian<br>Business Technology Lead</h1>
+        <div class="meta">
+          <div class="label">When</div><div>Wednesday 2026-06-17, 13:30, Teams</div>
+          <div class="label">Panel</div><div>Luca Magnoni, Damien Chambon, Sergii Kuku</div>
+          <div class="label">Goal</div><div>Prove you can bridge regulated banking workflows, AI, data, cloud and engineering delivery.</div>
+          <div class="label">Status</div><div>Legitimacy: High Confidence. Report: 119.</div>
+        </div>
+        <div class="hero-card">
+          <p>I turn regulated banking pain points into production-safe automation: discover the workflow, translate it into implementable specs, align business and engineering, preserve auditability, and measure impact.</p>
+        </div>
+      </div>
+
+      <div class="box">
+        <h3>Do not frame it as</h3>
+        <p class="small">"Ex-CTO looking for a smaller role."</p>
+        <h3>Frame it as</h3>
+        <p class="small">"I want a high-leverage role close to real banking operations, where AI improves measurable workflows rather than becoming slide-deck transformation."</p>
+      </div>
+    </section>
+
+    <section class="page">
+      <h2>Opening Narrative</h2>
+      <p>My background is at the intersection of regulated financial technology, product and engineering delivery, and practical AI adoption.</p>
+      <p>At FlowBank, I led the technology organization of a FINMA-regulated neobank: roadmap, budget, target architecture, AWS transition, CRM/core banking initiatives, and a real-time data platform connecting trading, compliance, finance, marketing and quant teams.</p>
+      <p>At SCRYPT, I implemented Claude Enterprise through Slack with Linear, email and calendar integrations to make cross-functional work more structured and actionable. Before that, at UBP, I worked on audit, IAM, GDPR and control remediation. At Ripple/Metaco, I led engineering for a regulated institutional custody platform.</p>
+      <div class="soundbite">What attracts me to Alpian is that the role starts from real banking operations: Compliance, KYC, transaction monitoring, operational controls, and production delivery. That is the right place for AI and automation in a bank.</div>
+    </section>
+
+    <section class="page">
+      <h2>Company Signals</h2>
+      <ul class="compact">
+        <li>FINMA-licensed Swiss digital bank, majority-owned by Fideuram - Intesa Sanpaolo Private Banking.</li>
+        <li>2025 results: client base +65%, invested assets +127%, gross banking commissions more than tripled, net loss fell year on year.</li>
+        <li>Radicant portfolio migration completed in April 2026.</li>
+        <li>Surpassed 40,000 clients and CHF 289M in client assets including Pillar 3a.</li>
+        <li>2026 priorities include AI for operational efficiency and client services.</li>
+      </ul>
+      <div class="soundbite">Alpian is now in a scaling phase, not only a launch phase. Client growth, Radicant migration, product expansion and explicit AI priorities make operational technology a real business lever.</div>
+    </section>
+
+    <section class="page">
+      <h2>Panel Lenses</h2>
+      <div class="box">
+        <h3>Luca Magnoni - CTO</h3>
+        <p><strong>Lens:</strong> technology strategy, architecture, production risk, role fit.</p>
+        <p><strong>Prove:</strong> you can bridge business and engineering without architecture theatre.</p>
+      </div>
+      <div class="box">
+        <h3>Damien Chambon - Cloud & AI/Data Director</h3>
+        <p><strong>Lens:</strong> cloud/data/AI, automation patterns, compliance-safe AI.</p>
+        <p><strong>Prove:</strong> you understand data flows, governance, human-in-the-loop design and production adoption.</p>
+      </div>
+      <div class="box">
+        <h3>Sergii Kuku - Engineering Director</h3>
+        <p><strong>Lens:</strong> delivery, engineering collaboration, specs, operational ownership.</p>
+        <p><strong>Prove:</strong> you will make engineering more effective, not dump vague business requirements on teams.</p>
+      </div>
+    </section>
+
+    <section class="page">
+      <h2>Core Positioning</h2>
+      <span class="tag">Regulated fintech</span>
+      <span class="tag">Production AI</span>
+      <span class="tag">Auditability</span>
+      <span class="tag">Business + engineering</span>
+      <span class="tag">Workflow ownership</span>
+      <div class="soundbite">In regulated banking, the architecture is not only APIs and models. It is also responsibility, evidence and reversibility.</div>
+    </section>
+
+    <section class="page">
+      <h2>Your Four Stories</h2>
+      <div class="story">
+        <h3>1. FlowBank - regulated digital bank transformation</h3>
+        <p><strong>Use for:</strong> technology strategy, banking context, cloud/data architecture, executive stakeholders.</p>
+        <p><strong>Action:</strong> led a roughly 40-person technology department, built roadmap/budget/execution indicators, initiated AWS transition, built target architecture and data platform.</p>
+        <p><strong>Angle:</strong> "I know the tension between banking regulation, business urgency, legacy/process constraints and delivery capacity."</p>
+      </div>
+      <div class="story">
+        <h3>2. SCRYPT - AI operating system</h3>
+        <p><strong>Use for:</strong> AI adoption, automation, change management, soft skills.</p>
+        <p><strong>Action:</strong> Claude Enterprise through Slack with Linear, email and calendar integrations; introduced Linear company-wide; reorganized delivery/L3 ownership.</p>
+        <p><strong>Angle:</strong> "AI adoption works when embedded into the workflow and linked to ownership."</p>
+      </div>
+    </section>
+
+    <section class="page">
+      <h2>Your Four Stories</h2>
+      <div class="story">
+        <h3>3. UBP - control and audit mindset</h3>
+        <p><strong>Use for:</strong> compliance, KYC/controls, risk, auditability, governance.</p>
+        <p><strong>Action:</strong> planned audits, used data analysis, wrote French/English reports, discussed remediation with departments and leadership.</p>
+        <p><strong>Angle:</strong> "Controls are design requirements and evidence requirements."</p>
+      </div>
+      <div class="story">
+        <h3>4. Ripple/Metaco - engineering operating model</h3>
+        <p><strong>Use for:</strong> engineering collaboration, production quality, technical leadership, L3/support.</p>
+        <p><strong>Action:</strong> led up to 50 people, organized squads, created L3 support squad, drove architecture, monitoring, QA, releases and technical debt control.</p>
+        <p><strong>Angle:</strong> "I know how to work with engineers in a high-trust financial platform without compromising roadmap delivery."</p>
+      </div>
+    </section>
+
+    <section class="page">
+      <h2>Likely Questions</h2>
+      <div class="qa">
+        <h3>How would you identify AI opportunities in Compliance?</h3>
+        <ol class="compact">
+          <li>Start with workflow discovery, not model selection.</li>
+          <li>Map volumes, manual decisions, rework, SLA pain, audit evidence and exceptions.</li>
+          <li>Separate low-risk summarization, medium-risk triage, and high-risk recommendations.</li>
+          <li>Design for prompt/version history, input/output capture, human decision log, policy references, access controls and rollback.</li>
+          <li>Measure time to prepare case, time to decision, false positives, evidence quality, adoption and rework.</li>
+        </ol>
+        <div class="soundbite">I would not start with "where can we put an LLM?" I would start with where analysts lose time, where evidence is hard to assemble, and where decisions need better traceability.</div>
+      </div>
+    </section>
+
+    <section class="page">
+      <h2>Likely Questions</h2>
+      <div class="qa">
+        <h3>Design an AI-assisted KYC or transaction monitoring workflow.</h3>
+        <ul class="compact">
+          <li><strong>Inputs:</strong> profile, documents, transaction history, rules, policies, sanctions/PEP/adverse media, prior notes.</li>
+          <li><strong>Processing:</strong> deterministic rules stay deterministic; AI summarizes, classifies, detects missing evidence, retrieves policy and drafts rationale.</li>
+          <li><strong>Human loop:</strong> analyst approves, rejects or edits. No autonomous adverse decision.</li>
+          <li><strong>Controls:</strong> RBAC, data minimization, model/prompt versioning, audit logs, traceable citations, reviewer sign-off.</li>
+          <li><strong>Rollout:</strong> shadow mode, limited scope, quality sampling, rollback.</li>
+        </ul>
+        <div class="soundbite">The AI prepares and structures the evidence; accountable humans make regulated decisions.</div>
+      </div>
+    </section>
+
+    <section class="page">
+      <h2>Likely Questions</h2>
+      <div class="qa">
+        <h3>How do you translate business requirements into implementable specs?</h3>
+        <ul class="compact">
+          <li>Start from the operational outcome and constraints.</li>
+          <li>Write acceptance criteria in business and technical terms.</li>
+          <li>Identify data sources, system boundaries, failure modes, ownership, security controls and release path.</li>
+          <li>Validate with engineering before committing dates.</li>
+          <li>Create metrics before building.</li>
+        </ul>
+        <div class="soundbite">A good specification is a shared decision record: problem, non-goals, data, controls, success criteria and production ownership.</div>
+      </div>
+      <div class="qa">
+        <h3>How do you work with engineers when you are not the line manager?</h3>
+        <ul class="compact">
+          <li>Bring clarity, not authority theatre.</li>
+          <li>Involve engineers early in problem framing.</li>
+          <li>Separate discovery from delivery commitment.</li>
+          <li>Let engineers challenge feasibility and risk.</li>
+          <li>Make trade-offs explicit for business stakeholders.</li>
+          <li>Protect engineering from vague urgency while keeping accountability.</li>
+        </ul>
+        <div class="soundbite">My job is to reduce ambiguity before it hits engineering, and then keep enough context flowing so engineers can make good technical trade-offs.</div>
+      </div>
+    </section>
+
+    <section class="page">
+      <h2>Likely Questions</h2>
+      <div class="qa">
+        <h3>Where have you transformed a business with AI or automation?</h3>
+        <p>Use SCRYPT: fragmented execution across Slack/email/meetings became Claude Enterprise integrated with Slack, Linear, email and calendars, plus company-wide Linear and clearer delivery/L3 ownership.</p>
+        <p><strong>Bridge:</strong> apply the same pattern to Compliance/KYC/transaction monitoring by improving evidence preparation, triage and workflow visibility.</p>
+      </div>
+      <div class="qa">
+        <h3>How do you make sure AI is safe in a regulated bank?</h3>
+        <ul class="compact">
+          <li>Classify use cases by decision risk.</li>
+          <li>Keep high-impact decisions human-owned.</li>
+          <li>Make data access explicit and minimal.</li>
+          <li>Keep complete audit trail.</li>
+          <li>Test on historical cases before production.</li>
+          <li>Monitor drift, hallucination, rework and user overrides.</li>
+          <li>Involve Compliance, Risk, Legal and Security early.</li>
+        </ul>
+        <div class="soundbite">The model is only one component. The system also includes data quality, access, human approval, audit evidence, monitoring and ownership.</div>
+      </div>
+    </section>
+
+    <section class="page">
+      <h2>Role Fit and 90 Days</h2>
+      <div class="qa">
+        <h3>This role is less senior. Why do you want it?</h3>
+        <div class="soundbite">I have held broader leadership roles, but what matters to me here is leverage and fit. This role is close to real operational workflows in a licensed digital bank, with AI, data, cloud and production delivery all connected. I am not optimizing for title alone; I am optimizing for the quality of the mandate, the people, and the ability to turn technology into measurable banking outcomes.</div>
+      </div>
+      <div class="box">
+        <h3>First 30 days</h3>
+        <ul class="compact">
+          <li>Understand Compliance/KYC/transaction monitoring workflows.</li>
+          <li>Map stakeholders, systems, data flows, pain points and current metrics.</li>
+          <li>Build trust with engineering, product, compliance, risk and operations.</li>
+          <li>Identify 5-10 candidate automation opportunities.</li>
+        </ul>
+      </div>
+    </section>
+
+    <section class="page">
+      <h2>First 60 / 90 Days</h2>
+      <div class="box">
+        <h3>First 60 days</h3>
+        <ul class="compact">
+          <li>Prioritize 2-3 use cases by value, risk and feasibility.</li>
+          <li>Write solution specs with controls, ownership, metrics and release path.</li>
+          <li>Define AI/data governance pattern for pilots.</li>
+          <li>Deliver one narrow proof or shadow-mode workflow.</li>
+        </ul>
+      </div>
+      <div class="box">
+        <h3>First 90 days</h3>
+        <ul class="compact">
+          <li>Move one pilot toward production or controlled rollout.</li>
+          <li>Establish dashboard for operational impact.</li>
+          <li>Create repeatable intake/prioritization model.</li>
+          <li>Document what should scale and what should stop.</li>
+        </ul>
+      </div>
+      <div class="soundbite">The theme: understand the workflow first, choose narrow pilots, prove operational impact, and only then scale the pattern.</div>
+    </section>
+
+    <section class="page">
+      <h2>Questions To Ask</h2>
+      <div class="box">
+        <h3>To Luca Magnoni, CTO</h3>
+        <ul class="compact">
+          <li>Where should this role sit between business ownership, product ownership and engineering delivery?</li>
+          <li>What are the top two technology bottlenecks preventing Alpian from scaling operationally?</li>
+          <li>After six months, what would make you say this hire changed the way we deliver technology to the business?</li>
+        </ul>
+      </div>
+      <div class="box">
+        <h3>To Damien Chambon, Cloud & AI/Data Director</h3>
+        <ul class="compact">
+          <li>What is Alpian's current AI posture: internal productivity, compliance operations, client services, advisory, or all of the above?</li>
+          <li>Which data domains are mature enough today to support automation, and where is data quality still the blocker?</li>
+          <li>How do you balance experimentation with model/data governance in production banking workflows?</li>
+        </ul>
+      </div>
+    </section>
+
+    <section class="page">
+      <h2>Questions To Ask</h2>
+      <div class="box">
+        <h3>To Sergii Kuku, Engineering Director</h3>
+        <ul class="compact">
+          <li>What type of specs help engineering teams move faster, and what type creates friction?</li>
+          <li>Where do business requests usually lose clarity before reaching engineering?</li>
+          <li>What is the production ownership model for business technology changes?</li>
+        </ul>
+      </div>
+      <div class="box">
+        <h3>General close</h3>
+        <ul class="compact">
+          <li>What is the most important operational workflow you would want me to improve first?</li>
+          <li>What risks would you want me to avoid in the first 90 days?</li>
+          <li>What does success look like for this role by the end of 2026?</li>
+        </ul>
+      </div>
+    </section>
+
+    <section class="page">
+      <h2>Volunteer / Avoid</h2>
+      <div class="box volunteer">
+        <h3>Volunteer</h3>
+        <ul class="compact">
+          <li>You are already an Alpian client and understand the product from the user side.</li>
+          <li>You know Alpian indirectly from the Swiss digital-banking ecosystem and FlowBank context.</li>
+          <li>You have operated in FINMA-regulated environments.</li>
+          <li>Your AI approach is pragmatic: workflow, adoption, controls, metrics.</li>
+          <li>You can speak both to engineers and business stakeholders.</li>
+        </ul>
+      </div>
+    </section>
+
+    <section class="page">
+      <h2>Volunteer / Avoid</h2>
+      <div class="box avoid">
+        <h3>Avoid</h3>
+        <ul class="compact">
+          <li>Do not imply Alpian is a downgrade.</li>
+          <li>Do not lead with compensation or 80-90% workload.</li>
+          <li>Do not overclaim deep KYC/AML operations ownership.</li>
+          <li>Do not say "AI can automate Compliance" broadly.</li>
+          <li>Do not criticize FlowBank. Frame lessons professionally.</li>
+        </ul>
+      </div>
+      <div class="soundbite warning">For KYC/AML depth: "I would not present myself as a career AML specialist. My strength is regulated banking technology, audit/control thinking, data architecture and delivery. I know how to work with Compliance experts and turn their constraints into reliable systems."</div>
+    </section>
+
+    <section class="page">
+      <h2>Technical Prep</h2>
+      <ul class="checklist">
+        <li>Draw an AI-assisted KYC/transaction-monitoring case workflow.</li>
+        <li>Prepare one control design: audit logs, RBAC, human approval, model/prompt versioning, rollback.</li>
+        <li>Review FlowBank data platform story and how it connected compliance, trading, finance, marketing and quant.</li>
+        <li>Review UBP IAM audit story and the 0.5% user impact bug.</li>
+        <li>Prepare SCRYPT AI operating-system story in 2-minute and 5-minute versions.</li>
+        <li>Prepare cloud transferability: strongest proof is AWS/EKS/Terraform, not GCP, but principles transfer.</li>
+        <li>Prepare engineering collaboration without direct line authority.</li>
+        <li>Prepare role-fit answer for "why this role after CTO/Head of Engineering?"</li>
+      </ul>
+
+    </section>
+
+    <section class="page">
+      <h2>Final Rehearsal</h2>
+      <ol>
+        <li>Rehearse the 90-second opening twice.</li>
+        <li>Rehearse FlowBank, SCRYPT and UBP stories in STAR format.</li>
+        <li>Draw the KYC/transaction-monitoring AI workflow once on paper.</li>
+        <li>Pick three questions if time is short.</li>
+      </ol>
+      <div class="box">
+        <h3>Best three questions if time is short</h3>
+        <ul class="compact">
+          <li>What is the first operational workflow you want this role to improve?</li>
+          <li>Where is the main bottleneck today: data quality, tooling, process ownership or engineering capacity?</li>
+          <li>What does success look like by end of 2026?</li>
+        </ul>
+      </div>
+    </section>
+
+    <section class="page">
+      <h2>Short Scripts</h2>
+      <div class="box">
+        <h3>Motivation</h3>
+        <p>Alpian is compelling because it is a real licensed bank, a digital product, and now a scaling business. The role is close to the operational workflows where AI can actually create value: compliance, KYC, transaction monitoring, controls and service efficiency.</p>
+      </div>
+      <div class="box">
+        <h3>AI philosophy</h3>
+        <p>I start from the workflow and the control environment. The model is only one component. In banking, the full system includes data quality, access, human approval, audit evidence, monitoring and ownership.</p>
+      </div>
+      <div class="box">
+        <h3>Working style</h3>
+        <p>I am direct, structured and pragmatic. I like to make ambiguity explicit, turn it into decisions, and keep business and engineering aligned through small but concrete delivery steps.</p>
+      </div>
+    </section>
+
+    <section class="page">
+      <h2>Short Scripts</h2>
+      <div class="box">
+        <h3>GCP gap</h3>
+        <p>My direct large transformation experience is more AWS, EKS, Terraform and regulated fintech platforms. I am cloud-principles driven rather than vendor-dogmatic: identity, network boundaries, data governance, observability, deployment discipline and cost/control models transfer well.</p>
+      </div>
+      <p class="footer-note">Prepared from interview-prep/alpian-business-technology-lead-2026-06-17.md. Optimized for phone reading.</p>
+    </section>
+  </main>
+</body>
+</html>
