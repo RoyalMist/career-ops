@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 128 | 2026-06-17 | Caterpillar Inc. | Director Technology Utilization & Commercial Enablement | 3.8/5 | Evaluated | ❌ | [128](reports/128-caterpillar-director-technology-utilization-commercial-enablement-2026-06-17.md) | Fresh LinkedIn role in Geneva; strong global technology adoption/commercial enablement signals, but sales/dealer construction domain and 5-day onsite make it worth qualifying rather than immediate apply. |
 | 127 | 2026-06-11 | ASMALLWORLD | CTO (Chief Technology Officer) | 4.1/5 | Applied | ✅ | [127](reports/127-asmallworld-cto-2026-06-11.md) | Applied 2026-06-11 with tailored CTO CV and application answers; qualify Duebendorf hybrid, team size, budget, CRM/Salesforce expectations and compensation early. |
 | 122 | 2026-06-11 | Clarity AI | AI & Data Science Director | 3.8/5 | Discarded | ❌ | [122](reports/122-clarity-ai-data-science-director-2026-06-11.md) | Discarded by candidate 2026-06-11: Madrid hybrid and classical ML/data-science depth gap make it too weak versus target roles. |
 | 123 | 2026-06-11 | Clarity AI | Staff AI Engineer | 3.4/5 | Discarded | ❌ | [123](reports/123-clarity-ai-staff-ai-engineer-2026-06-11.md) | Discarded by candidate 2026-06-11: hands-on Staff IC GenAI/RAG/evals role is below target leadership lane. |
