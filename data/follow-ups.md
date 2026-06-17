@@ -35,3 +35,8 @@
 | 31 | 25 | 2026-06-17 | PMI | Sr. Manager R&D Architecture | Tracker closure | Agnieszka / People & Culture | Considered rejected: no news after 2026-06-03 update that completed assessments were still under review; reopen only if PMI replies later. |
 | 32 | 19 | 2026-06-17 | Mistral AI | Founder in Residence | Tracker closure | Stanislas Pesic | Considered rejected: no news after 2026-05-31 reply that applications were being processed; reopen only if Mistral replies later. |
 | 33 | 18 | 2026-06-17 | Mirabaud | Head of IT - Asset Management | Tracker closure | HR / hr@mirabaud.com | Considered rejected: no response after 2026-05-31 follow-up; reopen only if Mirabaud replies later. |
+| 34 | 93 | 2026-06-17 | Supabase | Core Product Lead | Tracker closure | Supabase careers | Considered rejected: no response after application; reopen only if Supabase replies later. |
+| 35 | 89 | 2026-06-17 | refurbed | Head of Internal Technology & AI (f/m/x) - remote | Tracker closure | refurbed careers | Considered rejected: no response after application; reopen only if refurbed replies later. |
+| 36 | 87 | 2026-06-17 | Cohere | Engineering Manager, FDE Infrastructure (EMEA) | Tracker closure | Cohere careers | Considered rejected: no response after application; reopen only if Cohere replies later. |
+| 37 | 83 | 2026-06-17 | OpenAI | Strategic Delivery Lead, International Public Sector | Tracker closure | OpenAI careers | Considered rejected: no response after application; reopen only if OpenAI replies later. |
+| 38 | 81 | 2026-06-17 | Amazon Web Services (AWS) | Principal GTM Specialist Solution Architect AI/ML, GenAI | Tracker closure | AWS careers | Considered rejected: no response after application; reopen only if AWS replies later. |
