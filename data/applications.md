@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 139 | 2026-06-17 | Unit8 SA | Managing Director - Data & AI | 3.4/5 | Discarded | ❌ | [139](reports/139-unit8-managing-director-data-ai-2026-06-17.md) | Discarded by candidate 2026-06-17: explicit fluent German and DACH pharma/insurance/chemicals network requirements are major blockers despite strong AI transformation overlap. |
 | 138 | 2026-06-17 | SkyCell AG | VP Product Ecosystem - Hardware, Software & IoT | 3.8/5 | Discarded | ❌ | [138](reports/138-skycell-vp-product-ecosystem-2026-06-17.md) | Discarded by candidate 2026-06-17: Zurich hybrid, pharma-logistics ramp-up and product-VP rather than CTO/engineering ownership keep it below priority. |
 | 137 | 2026-06-17 | Stealth | Deputy Chief Technology Officer | 4.1/5 | Evaluated | ❌ | [137](reports/137-stealth-deputy-cto-digital-assets-2026-06-17.md) | Strong Deputy CTO fit for regulated digital-assets engineering operations; qualify hidden company, Switzerland remote eligibility, comp, low-latency/Rust depth and M&A scope before applying. |
 | 136 | 2026-06-17 | HUG | PMO - Direction de la Transformation Numerique et de l'Intelligence Augmentee | 4.0/5 | Evaluated | ❌ | [136](reports/136-hug-pmo-dtn-ia-2026-06-17.md) | Strategic Geneva DTN-IA portfolio role with class 25, management-committee exposure and AI/digital-health context; worth qualifying, but still PMO governance rather than direct CTO/engineering ownership. |
