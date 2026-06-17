@@ -4,7 +4,12 @@
 
 
 
+
 ## Procesadas
+
+- [x] DISCARDED | https://www.carrieres-rolex.com/Rolex/job/Gen%C3%A8ve-Architecte-s%C3%A9curit%C3%A9-ICSOT-%28HF%29-Gen%C3%A8/1226441801/ | Rolex | Architecte sécurité ICS/OT (H/F) | Discarded 2026-06-17 by candidate from scan results before evaluation.
+- [x] DISCARDED | https://www.carrieres-rolex.com/Rolex/job/Gen%C3%A8ve-Charg%C3%A9-de-Projets-Productivit%C3%A9-&-Intelligence-Artificielle-60-%28HF%29-Gen%C3%A8/1405072533/ | Rolex | Chargé de Projets - Productivité & Intelligence Artificielle - 60% (H/F) | Discarded 2026-06-17 by candidate from scan results before evaluation.
+- [x] DISCARDED | https://jobs.smartrecruiters.com/Nexthink/744000132344489-product-manager | Nexthink | Product Manager | Discarded 2026-06-17 by candidate from scan results before evaluation.
 
 - [x] DISCARDED | https://lombardodier.wd3.myworkdayjobs.com/fr-FR/Lombard_Odier_Careers/job/Geneva/AML-Investigations-and-Suspicious-Activity-Reporting--SAR--Specialist--80-100--_R0007210 | Lombard Odier | AML Investigations and Suspicious Activity Reporting (SAR) Specialist (80-100%) | Discarded 2026-06-15 by candidate from scan results before evaluation.
 - [x] DISCARDED | https://swissdevjobs.ch/jobs/FP-Robotics-AG-Senior-AI-Engineer--Robotics--Embodied-AI | F&P Robotics AG | Senior AI Engineer – Robotics & Embodied AI [CHF 105'000 - 135'000] | Discarded 2026-06-15 by candidate from scan results before evaluation.
