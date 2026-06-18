@@ -1,0 +1,600 @@
+%PDF-1.4
+%âãÏÓ
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [6 0 R 8 0 R 10 0 R 12 0 R 14 0 R 16 0 R 18 0 R 20 0 R 22 0 R 24 0 R] /Count 10 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Length 4672 >>
+stream
+BT /F2 16.00 Tf 24.00 814.00 Td (Interview Intel: Mirabaud - Head of IT,) Tj ET
+BT /F2 16.00 Tf 24.00 799.00 Td (Asset Management) Tj ET
+BT /F1 9.50 Tf 24.00 771.00 Td (URL: local:_base/refused/mirabaud/head of it.md) Tj ET
+BT /F1 9.50 Tf 24.00 756.50 Td (Legitimacy: Proceed with Caution) Tj ET
+BT /F1 9.50 Tf 24.00 742.00 Td (Report: reports/018-mirabaud-2026-05-01.md) Tj ET
+BT /F1 9.50 Tf 24.00 727.50 Td (Researched: 2026-06-18) Tj ET
+BT /F1 9.50 Tf 24.00 713.00 Td (Interview: Friday 2026-06-19, 14:00, 29 boulevard Georges-Favon) Tj ET
+BT /F1 9.50 Tf 24.00 698.50 Td (Interviewers: Raphaël Ducret, COO Mirabaud Asset Management; Pierre Antoni,) Tj ET
+BT /F1 9.50 Tf 24.00 686.00 Td (current Head of IT, retiring soon) Tj ET
+BT /F1 9.50 Tf 24.00 671.50 Td (Sources: 0 Glassdoor reviews found, 0 Blind posts found, 4 other sources) Tj ET
+BT /F1 9.50 Tf 24.00 657.00 Td (Audiences covered: hiring-manager, peer-tech, panel-mixed) Tj ET
+BT /F2 13.00 Tf 24.00 637.50 Td (Executive Read) Tj ET
+BT /F1 9.50 Tf 24.00 611.50 Td (This is not a broad "sell me your CV" screen. Treat it as a continuity and) Tj ET
+BT /F1 9.50 Tf 24.00 599.00 Td (trust interview:) Tj ET
+BT /F1 9.50 Tf 32.00 579.50 Td (- Raphaël Ducret will likely test whether you can turn IT into a) Tj ET
+BT /F1 9.50 Tf 32.00 567.00 Td (business-enabling function for Asset Management, not only run) Tj ET
+BT /F1 9.50 Tf 32.00 554.50 Td (infrastructure.) Tj ET
+BT /F1 9.50 Tf 32.00 540.00 Td (- Pierre Antoni will likely test whether you understand the real) Tj ET
+BT /F1 9.50 Tf 32.00 527.50 Td (operational load, legacy constraints, vendor dependencies, user) Tj ET
+BT /F1 9.50 Tf 32.00 515.00 Td (expectations, and retirement handover risk.) Tj ET
+BT /F1 9.50 Tf 32.00 500.50 Td (- The strongest positioning is: "I have already owned this blend of run,) Tj ET
+BT /F1 9.50 Tf 32.00 488.00 Td (transformation, infrastructure, budget, governance, and regulated) Tj ET
+BT /F1 9.50 Tf 32.00 475.50 Td (business stakeholders in Geneva financial institutions.") Tj ET
+BT /F1 9.50 Tf 24.00 456.00 Td (Your best proof points:) Tj ET
+BT /F1 9.50 Tf 32.00 436.50 Td (- FlowBank: full technology department, approx. 40 people, roadmap,) Tj ET
+BT /F1 9.50 Tf 32.00 424.00 Td (annual budget, Executive Committee, AWS transition, CRM, Core Banking,) Tj ET
+BT /F1 9.50 Tf 32.00 411.50 Td (real-time data platform.) Tj ET
+BT /F1 9.50 Tf 32.00 397.00 Td (- Pictet Asset Management: security-constrained asset-management) Tj ET
+BT /F1 9.50 Tf 32.00 384.50 Td (environment, EKS, Helm, Terraform, SRE leadership, internal React) Tj ET
+BT /F1 9.50 Tf 32.00 372.00 Td (training.) Tj ET
+BT /F1 9.50 Tf 32.00 357.50 Td (- UBP: IT/security audits, risk posture, remediation, IAM bug affecting) Tj ET
+BT /F1 9.50 Tf 32.00 345.00 Td (0.5% of users, French/English reporting to leadership.) Tj ET
+BT /F1 9.50 Tf 32.00 330.50 Td (- Ripple / Metaco: 50-person regulated platform engineering organization,) Tj ET
+BT /F1 9.50 Tf 32.00 318.00 Td (L3/support squad, operational model, client delivery for institutional) Tj ET
+BT /F1 9.50 Tf 32.00 305.50 Td (finance.) Tj ET
+BT /F1 9.50 Tf 32.00 291.00 Td (- SCRYPT / Wonderful / Bazzile: pragmatic AI adoption and automation, but) Tj ET
+BT /F1 9.50 Tf 32.00 278.50 Td (keep this secondary unless they open the topic.) Tj ET
+BT /F2 13.00 Tf 24.00 259.00 Td (Sources And Evidence) Tj ET
+BT /F1 9.50 Tf 32.00 233.00 Td (- Archived JD and evaluation: Report #018, _base/refused/mirabaud/head of) Tj ET
+BT /F1 9.50 Tf 32.00 220.50 Td (it.md.) Tj ET
+BT /F1 9.50 Tf 32.00 206.00 Td (- Application narrative: _base/refused/mirabaud/cover-letter.md.) Tj ET
+BT /F1 9.50 Tf 32.00 191.50 Td (- Current CV: cv.md.) Tj ET
+BT /F1 9.50 Tf 32.00 177.00 Td (- Story bank: interview-prep/story-bank.md.) Tj ET
+BT /F1 9.50 Tf 32.00 162.50 Td (- Public company context: Mirabaud Group is Geneva-based, founded in) Tj ET
+BT /F1 9.50 Tf 32.00 150.00 Td (1819, active in wealth management, asset management, and brokerage, with) Tj ET
+BT /F1 9.50 Tf 32.00 137.50 Td (CHF 32.3bn AUM and 700 employees reported for 2024: Wikipedia summary) Tj ET
+BT /F1 9.50 Tf 32.00 125.00 Td (with Mirabaud annual-result reference.) Tj ET
+BT /F1 9.50 Tf 32.00 110.50 Td (- Regulatory context to be aware of, not to volunteer: FINMA announced in) Tj ET
+BT /F1 9.50 Tf 32.00 98.00 Td (September 2024 that Mirabaud & Cie SA had seriously violated financial-) Tj ET
+BT /F1 9.50 Tf 32.00 85.50 Td (market law and ordered further AML, internal-control, and governance) Tj ET
+BT /F1 9.50 Tf 32.00 73.00 Td (measures: FINMA press release.) Tj ET
+BT /F2 13.00 Tf 24.00 53.50 Td (Process Overview) Tj ET
+BT /F1 8 Tf 344.00 14 Td (1/10) Tj ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 390 844] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 5 0 R >>
+endobj
+7 0 obj
+<< /Length 4578 >>
+stream
+BT /F1 9.50 Tf 32.00 814.00 Td (- Known round: onsite business and transition interview.) Tj ET
+BT /F1 9.50 Tf 32.00 799.50 Td (- Format: COO of Mirabaud Asset Management plus outgoing Head of IT.) Tj ET
+BT /F1 9.50 Tf 32.00 785.00 Td (- Duration: unknown.) Tj ET
+BT /F1 9.50 Tf 32.00 770.50 Td (- Difficulty: unknown - no useful public Mirabaud interview-review data) Tj ET
+BT /F1 9.50 Tf 32.00 758.00 Td (found.) Tj ET
+BT /F1 9.50 Tf 32.00 743.50 Td (- Known quirks: outgoing incumbent is present, so expect operational) Tj ET
+BT /F1 9.50 Tf 32.00 731.00 Td (realism, not only strategic ambition.) Tj ET
+BT /F1 9.50 Tf 32.00 716.50 Td (- Likely objective: confirm that you can own the IT function end to end) Tj ET
+BT /F1 9.50 Tf 32.00 704.00 Td (while preserving continuity through Pierre Antoni's retirement.) Tj ET
+BT /F2 13.00 Tf 24.00 684.50 Td (Audience Map) Tj ET
+BT /F1 9.50 Tf 32.00 658.50 Td (- Round now - onsite interview with COO + current Head of IT - panel-) Tj ET
+BT /F1 9.50 Tf 32.00 646.00 Td (mixed) Tj ET
+BT /F1 9.50 Tf 32.00 631.50 Td (- Raphaël Ducret - COO, business owner / senior stakeholder - hiring-) Tj ET
+BT /F1 9.50 Tf 32.00 619.00 Td (manager) Tj ET
+BT /F1 9.50 Tf 32.00 604.50 Td (- Pierre Antoni - current Head of IT, transition owner - peer-tech) Tj ET
+BT /F2 13.00 Tf 24.00 585.00 Td (Your 90-Second Opening In French) Tj ET
+BT /F1 9.50 Tf 36.00 559.00 Td (Mon parcours est assez aligné avec ce que vous décrivez pour Mirabaud) Tj ET
+BT /F1 9.50 Tf 36.00 546.50 Td (Asset Management: j'ai déjà tenu des rôles où il fallait à la fois) Tj ET
+BT /F1 9.50 Tf 36.00 534.00 Td (garder l'IT fiable au quotidien, piloter une transformation, gérer le) Tj ET
+BT /F1 9.50 Tf 36.00 521.50 Td (budget, les fournisseurs, la gouvernance et parler avec des métiers) Tj ET
+BT /F1 9.50 Tf 36.00 509.00 Td (financiers exigeants.) Tj ET
+BT /F1 9.50 Tf 24.00 493.50 Td (>) Tj ET
+BT /F1 9.50 Tf 36.00 479.00 Td (Chez FlowBank, j'ai dirigé l'ensemble du département technologie,) Tj ET
+BT /F1 9.50 Tf 36.00 466.50 Td (environ 40 personnes, avec la roadmap, le budget annuel, les indicateurs) Tj ET
+BT /F1 9.50 Tf 36.00 454.00 Td (pour le Comité Exécutif, la migration AWS, le Core Banking, le CRM et) Tj ET
+BT /F1 9.50 Tf 36.00 441.50 Td (une plateforme data temps réel. Chez Pictet Asset Management, j'ai) Tj ET
+BT /F1 9.50 Tf 36.00 429.00 Td (travaillé dans un environnement asset management très contraint côté) Tj ET
+BT /F1 9.50 Tf 36.00 416.50 Td (sécurité et infrastructure. Et chez UBP, j'ai couvert la partie audit) Tj ET
+BT /F1 9.50 Tf 36.00 404.00 Td (IT, risque, contrôle et remédiation.) Tj ET
+BT /F1 9.50 Tf 24.00 388.50 Td (>) Tj ET
+BT /F1 9.50 Tf 36.00 374.00 Td (Ce qui m'intéresse ici, c'est justement le côté très complet du rôle:) Tj ET
+BT /F1 9.50 Tf 36.00 361.50 Td (pas uniquement transformer, pas uniquement faire tourner l'existant,) Tj ET
+BT /F1 9.50 Tf 36.00 349.00 Td (mais créer une fonction IT qui soit robuste, lisible pour le business,) Tj ET
+BT /F1 9.50 Tf 36.00 336.50 Td (gouvernée correctement, et capable d'amener de l'automatisation et de) Tj ET
+BT /F1 9.50 Tf 36.00 324.00 Td (l'IA de manière pragmatique.) Tj ET
+BT /F2 13.00 Tf 24.00 303.50 Td (Positioning By Interviewer) Tj ET
+BT /F2 11.00 Tf 24.00 277.50 Td (For Raphaël Ducret - COO) Tj ET
+BT /F1 9.50 Tf 24.00 256.00 Td (Lead with business ownership:) Tj ET
+BT /F1 9.50 Tf 32.00 236.50 Td (- "Je ne vois pas l'IT comme un centre de tickets. Je la vois comme une) Tj ET
+BT /F1 9.50 Tf 32.00 224.00 Td (fonction de pilotage: priorisation, risques, budget, continuité, et) Tj ET
+BT /F1 9.50 Tf 32.00 211.50 Td (capacité de transformation.") Tj ET
+BT /F1 9.50 Tf 32.00 197.00 Td (- "Le premier enjeu est de rendre le portefeuille IT lisible: ce qui) Tj ET
+BT /F1 9.50 Tf 32.00 184.50 Td (relève du run, ce qui relève de la transformation, ce qui est risque, ce) Tj ET
+BT /F1 9.50 Tf 32.00 172.00 Td (qui est dette, et ce qui crée de la valeur métier.") Tj ET
+BT /F1 9.50 Tf 32.00 157.50 Td (- "Je suis habitué à parler à des comités exécutifs en arbitrant budget,) Tj ET
+BT /F1 9.50 Tf 32.00 145.00 Td (risque, capacité et impact business.") Tj ET
+BT /F1 9.50 Tf 24.00 125.50 Td (Proof points to use:) Tj ET
+BT /F1 9.50 Tf 32.00 106.00 Td (- FlowBank roadmap, budget, Executive Committee, AWS, Core Banking, CRM.) Tj ET
+BT /F1 9.50 Tf 32.00 91.50 Td (- Ripple / Metaco operating model and L3 support squad.) Tj ET
+BT /F1 9.50 Tf 32.00 77.00 Td (- UBP audit and remediation discipline.) Tj ET
+BT /F1 9.50 Tf 24.00 57.50 Td (Avoid:) Tj ET
+BT /F1 8 Tf 344.00 14 Td (2/10) Tj ET
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 390 844] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 7 0 R >>
+endobj
+9 0 obj
+<< /Length 4408 >>
+stream
+BT /F1 9.50 Tf 32.00 814.00 Td (- Over-indexing on AI too early.) Tj ET
+BT /F1 9.50 Tf 32.00 799.50 Td (- Sounding like you want a pure CTO / engineering platform role.) Tj ET
+BT /F1 9.50 Tf 32.00 785.00 Td (- Criticizing the existing setup before understanding it.) Tj ET
+BT /F2 11.00 Tf 24.00 765.50 Td (For Pierre Antoni - Current Head of IT) Tj ET
+BT /F1 9.50 Tf 24.00 744.00 Td (Lead with respect and transition discipline:) Tj ET
+BT /F1 9.50 Tf 32.00 724.50 Td (- "Mon objectif ne serait pas d'arriver avec un grand plan abstrait dès) Tj ET
+BT /F1 9.50 Tf 32.00 712.00 Td (la première semaine. Je voudrais d'abord comprendre ce qui marche, ce qui) Tj ET
+BT /F1 9.50 Tf 32.00 699.50 Td (est fragile, ce qui dépend de personnes clés, et où sont les vrais) Tj ET
+BT /F1 9.50 Tf 32.00 687.00 Td (risques opérationnels.") Tj ET
+BT /F1 9.50 Tf 32.00 672.50 Td (- "Une transition réussie, c'est d'abord capturer les connaissances) Tj ET
+BT /F1 9.50 Tf 32.00 660.00 Td (implicites: fournisseurs, incidents récurrents, processus critiques,) Tj ET
+BT /F1 9.50 Tf 32.00 647.50 Td (personnes clés, décisions historiques, contraintes non écrites.") Tj ET
+BT /F1 9.50 Tf 32.00 633.00 Td (- "Je ferais rapidement une cartographie des applications, données,) Tj ET
+BT /F1 9.50 Tf 32.00 620.50 Td (infrastructures, fournisseurs, contrats, risques et chantiers en cours.") Tj ET
+BT /F1 9.50 Tf 24.00 601.00 Td (Proof points to use:) Tj ET
+BT /F1 9.50 Tf 32.00 581.50 Td (- Pictet Asset Management security-constrained infrastructure work.) Tj ET
+BT /F1 9.50 Tf 32.00 567.00 Td (- Rolex IAM / software factory / infrastructure coordination.) Tj ET
+BT /F1 9.50 Tf 32.00 552.50 Td (- UBP IAM audit and risk evidence.) Tj ET
+BT /F1 9.50 Tf 32.00 538.00 Td (- FlowBank vendor renewals and operational trade-offs.) Tj ET
+BT /F1 9.50 Tf 24.00 518.50 Td (Avoid:) Tj ET
+BT /F1 9.50 Tf 32.00 499.00 Td (- Looking like you want to replace everything.) Tj ET
+BT /F1 9.50 Tf 32.00 484.50 Td (- Dismissing infrastructure/support as "less strategic".) Tj ET
+BT /F1 9.50 Tf 32.00 470.00 Td (- Talking only about modern cloud/AI patterns without acknowledging) Tj ET
+BT /F1 9.50 Tf 32.00 457.50 Td (legacy and user continuity.) Tj ET
+BT /F2 13.00 Tf 24.00 438.00 Td (Likely Questions And Strong Answers) Tj ET
+BT /F2 11.00 Tf 24.00 412.00 Td ("Pourquoi ce poste chez Mirabaud Asset Management ?") Tj ET
+BT /F1 9.50 Tf 24.00 390.50 Td (Answer angle: Geneva, asset management, end-to-end IT ownership, business) Tj ET
+BT /F1 9.50 Tf 24.00 378.00 Td (proximity.) Tj ET
+BT /F1 9.50 Tf 36.00 358.50 Td (Ce poste réunit plusieurs choses que j'ai déjà faites séparément: la) Tj ET
+BT /F1 9.50 Tf 36.00 346.00 Td (direction IT complète chez FlowBank, l'environnement asset management) Tj ET
+BT /F1 9.50 Tf 36.00 333.50 Td (chez Pictet, et la gouvernance IT/risk chez UBP. Ce qui m'intéresse chez) Tj ET
+BT /F1 9.50 Tf 36.00 321.00 Td (Mirabaud Asset Management, c'est la proximité avec le business: l'IT) Tj ET
+BT /F1 9.50 Tf 36.00 308.50 Td (doit soutenir directement les équipes d'investissement, les opérations,) Tj ET
+BT /F1 9.50 Tf 36.00 296.00 Td (les données, les contrôles et la transformation. C'est un périmètre) Tj ET
+BT /F1 9.50 Tf 36.00 283.50 Td (assez concret, où l'on voit vite si l'IT crée de la valeur ou seulement) Tj ET
+BT /F1 9.50 Tf 36.00 271.00 Td (de la complexité.) Tj ET
+BT /F2 11.00 Tf 24.00 250.50 Td ("Comment aborderiez-vous les 90 premiers jours ?") Tj ET
+BT /F1 9.50 Tf 24.00 229.00 Td (Answer structure: Listen, map, stabilize, prioritize.) Tj ET
+BT /F1 9.50 Tf 36.00 209.50 Td (Je structurerais les 90 premiers jours en trois temps.) Tj ET
+BT /F1 9.50 Tf 24.00 194.00 Td (>) Tj ET
+BT /F1 9.50 Tf 36.00 179.50 Td (D'abord, comprendre: entretiens avec les parties prenantes clés, Pierre,) Tj ET
+BT /F1 9.50 Tf 36.00 167.00 Td (les équipes métier, les fournisseurs, risk/compliance, infrastructure,) Tj ET
+BT /F1 9.50 Tf 36.00 154.50 Td (et revue des incidents, projets, budgets et contrats.) Tj ET
+BT /F1 9.50 Tf 24.00 139.00 Td (>) Tj ET
+BT /F1 9.50 Tf 36.00 124.50 Td (Ensuite, cartographier: applications critiques, flux de données,) Tj ET
+BT /F1 9.50 Tf 36.00 112.00 Td (dépendances, niveaux de service, risques, dette technique, décisions) Tj ET
+BT /F1 9.50 Tf 36.00 99.50 Td (attendues, et séparation run / transformation.) Tj ET
+BT /F1 9.50 Tf 24.00 84.00 Td (>) Tj ET
+BT /F1 8 Tf 344.00 14 Td (3/10) Tj ET
+endstream
+endobj
+10 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 390 844] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 9 0 R >>
+endobj
+11 0 obj
+<< /Length 5466 >>
+stream
+BT /F1 9.50 Tf 36.00 814.00 Td (Enfin, prioriser: quelques quick wins visibles, les risques) Tj ET
+BT /F1 9.50 Tf 36.00 801.50 Td (opérationnels à traiter, et une roadmap claire avec budget, capacité,) Tj ET
+BT /F1 9.50 Tf 36.00 789.00 Td (ownership et indicateurs. L'objectif serait de donner au COO une vision) Tj ET
+BT /F1 9.50 Tf 36.00 776.50 Td (pilotable, pas seulement une liste de projets.) Tj ET
+BT /F2 11.00 Tf 24.00 756.00 Td ("Comment gérer la transition avec Pierre ?") Tj ET
+BT /F1 9.50 Tf 36.00 734.50 Td (Je traiterais la transition comme un projet critique. Je demanderais à) Tj ET
+BT /F1 9.50 Tf 36.00 722.00 Td (Pierre de m'aider à formaliser trois choses: les systèmes critiques, les) Tj ET
+BT /F1 9.50 Tf 36.00 709.50 Td (relations critiques, et les risques implicites. Les relations critiques) Tj ET
+BT /F1 9.50 Tf 36.00 697.00 Td (incluent fournisseurs, personnes internes qui débloquent les sujets,) Tj ET
+BT /F1 9.50 Tf 36.00 684.50 Td (métiers exigeants, et points de friction récurrents. Je voudrais aussi) Tj ET
+BT /F1 9.50 Tf 36.00 672.00 Td (comprendre les décisions passées: pourquoi certains choix ont été faits,) Tj ET
+BT /F1 9.50 Tf 36.00 659.50 Td (pas seulement ce qui existe aujourd'hui.) Tj ET
+BT /F2 11.00 Tf 24.00 639.00 Td ("Quelle est votre expérience Asset Management ?") Tj ET
+BT /F1 9.50 Tf 36.00 617.50 Td (J'ai travaillé chez Pictet Asset Management comme SRE contractor dans un) Tj ET
+BT /F1 9.50 Tf 36.00 605.00 Td (environnement très contraint en matière de sécurité et d'infrastructure.) Tj ET
+BT /F1 9.50 Tf 36.00 592.50 Td (J'ai techniquement mené la mise en place d'un socle de déploiement avec) Tj ET
+BT /F1 9.50 Tf 36.00 580.00 Td (EKS, Helm et Terraform, et j'ai travaillé avec les contraintes d'une) Tj ET
+BT /F1 9.50 Tf 36.00 567.50 Td (organisation asset management. Plus largement, chez FlowBank, j'ai) Tj ET
+BT /F1 9.50 Tf 36.00 555.00 Td (piloté une plateforme data temps réel connectant trading, compliance,) Tj ET
+BT /F1 9.50 Tf 36.00 542.50 Td (finance, marketing et équipes quantitatives. Je comprends que dans) Tj ET
+BT /F1 9.50 Tf 36.00 530.00 Td (l'asset management, la qualité des données, la continuité, les workflows) Tj ET
+BT /F1 9.50 Tf 36.00 517.50 Td (métier et la confiance des utilisateurs sont aussi importants que la) Tj ET
+BT /F1 9.50 Tf 36.00 505.00 Td (technologie elle-même.) Tj ET
+BT /F2 11.00 Tf 24.00 484.50 Td ("Comment distinguez-vous run, infrastructure et transformation) Tj ET
+BT /F2 11.00 Tf 24.00 472.00 Td (?") Tj ET
+BT /F1 9.50 Tf 36.00 450.50 Td (Pour moi, il faut les séparer dans le pilotage, mais pas les opposer. Le) Tj ET
+BT /F1 9.50 Tf 36.00 438.00 Td (run protège la confiance: disponibilité, incidents, support, sécurité,) Tj ET
+BT /F1 9.50 Tf 36.00 425.50 Td (continuité. L'infrastructure donne le socle: réseau, cloud, workplace,) Tj ET
+BT /F1 9.50 Tf 36.00 413.00 Td (identité, données, fournisseurs. La transformation doit être gouvernée) Tj ET
+BT /F1 9.50 Tf 36.00 400.50 Td (comme un portefeuille: valeur métier, risques, dépendances, capacité,) Tj ET
+BT /F1 9.50 Tf 36.00 388.00 Td (budget. Si on mélange tout, les urgences du run mangent la) Tj ET
+BT /F1 9.50 Tf 36.00 375.50 Td (transformation. Si on sépare trop, on crée des projets irréalistes. Le) Tj ET
+BT /F1 9.50 Tf 36.00 363.00 Td (rôle du Head of IT est de garder cette tension visible et arbitrable.) Tj ET
+BT /F2 11.00 Tf 24.00 342.50 Td ("Comment piloteriez-vous les fournisseurs ?") Tj ET
+BT /F1 9.50 Tf 36.00 321.00 Td (Je commencerais par clarifier les responsabilités: qui décide, qui) Tj ET
+BT /F1 9.50 Tf 36.00 308.50 Td (opère, qui escalade, quels SLA sont réellement mesurés, et quels) Tj ET
+BT /F1 9.50 Tf 36.00 296.00 Td (contrats portent les risques principaux. Chez FlowBank, j'ai géré les) Tj ET
+BT /F1 9.50 Tf 36.00 283.50 Td (renouvellements fournisseurs, les prestataires externes et les) Tj ET
+BT /F1 9.50 Tf 36.00 271.00 Td (arbitrages capacité / risque / budget. Mon approche est de challenger) Tj ET
+BT /F1 9.50 Tf 36.00 258.50 Td (les fournisseurs sur la qualité opérationnelle et l'alignement) Tj ET
+BT /F1 9.50 Tf 36.00 246.00 Td (stratégique, mais avec des indicateurs factuels: incidents, délais,) Tj ET
+BT /F1 9.50 Tf 36.00 233.50 Td (dette, coûts, satisfaction métier, risques ouverts.) Tj ET
+BT /F2 11.00 Tf 24.00 213.00 Td ("Comment abordez-vous l'IA dans un contexte bancaire ?") Tj ET
+BT /F1 9.50 Tf 36.00 191.50 Td (Prudemment et pragmatiquement. Je ne commencerais pas par "mettre de) Tj ET
+BT /F1 9.50 Tf 36.00 179.00 Td (l'IA partout". Je chercherais des cas où l'IA réduit une vraie friction) Tj ET
+BT /F1 9.50 Tf 36.00 166.50 Td (sans créer de risque incontrôlé: assistance documentaire, synthèse,) Tj ET
+BT /F1 9.50 Tf 36.00 154.00 Td (workflow interne, support, automatisation contrôlée, recherche) Tj ET
+BT /F1 9.50 Tf 36.00 141.50 Td (d'information. Chez SCRYPT, j'ai déployé Claude Enterprise intégré à) Tj ET
+BT /F1 9.50 Tf 36.00 129.00 Td (Slack, Linear, email et calendrier pour soutenir le travail exécutif et) Tj ET
+BT /F1 9.50 Tf 36.00 116.50 Td (transverse. Mon principe est simple: valeur mesurable, droits d'accès) Tj ET
+BT /F1 9.50 Tf 36.00 104.00 Td (maîtrisés, humain responsable, auditabilité, et pas de données sensibles) Tj ET
+BT /F1 9.50 Tf 36.00 91.50 Td (dans des flux non maîtrisés.) Tj ET
+BT /F2 11.00 Tf 24.00 71.00 Td ("Votre profil est plus senior que 5-8 ans. Pourquoi ce rôle ?") Tj ET
+BT /F1 8 Tf 344.00 14 Td (4/10) Tj ET
+endstream
+endobj
+12 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 390 844] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 11 0 R >>
+endobj
+13 0 obj
+<< /Length 5209 >>
+stream
+BT /F1 9.50 Tf 36.00 814.00 Td (C'est vrai que mon expérience dépasse le minimum du poste. Mais ce qui) Tj ET
+BT /F1 9.50 Tf 36.00 801.50 Td (m'intéresse n'est pas seulement le titre, c'est le périmètre réel:) Tj ET
+BT /F1 9.50 Tf 36.00 789.00 Td (owning the IT function for Asset Management, avec stratégie digitale,) Tj ET
+BT /F1 9.50 Tf 36.00 776.50 Td (architecture, données, infrastructure, budget, fournisseurs, gouvernance) Tj ET
+BT /F1 9.50 Tf 36.00 764.00 Td (et transformation. Si le rôle donne une vraie proximité avec le COO et) Tj ET
+BT /F1 9.50 Tf 36.00 751.50 Td (le business, avec de l'autonomie et une capacité d'arbitrage, il) Tj ET
+BT /F1 9.50 Tf 36.00 739.00 Td (correspond très bien à ce que je sais faire.) Tj ET
+BT /F2 11.00 Tf 24.00 718.50 Td ("Qu'attendez-vous en termes de rémunération ?") Tj ET
+BT /F1 9.50 Tf 24.00 697.00 Td (Use only if asked. Do not lead with a hard number.) Tj ET
+BT /F1 9.50 Tf 36.00 677.50 Td (Je suis ouvert à comprendre la structure et la bande prévue pour ce) Tj ET
+BT /F1 9.50 Tf 36.00 665.00 Td (rôle. Pour un mandat de Head of IT avec ownership complet, budget,) Tj ET
+BT /F1 9.50 Tf 36.00 652.50 Td (fournisseurs, transformation et gouvernance dans une institution) Tj ET
+BT /F1 9.50 Tf 36.00 640.00 Td (genevoise, je regarderais surtout le package total et le niveau réel de) Tj ET
+BT /F1 9.50 Tf 36.00 627.50 Td (responsabilité. Mon objectif général est autour de CHF 230k total) Tj ET
+BT /F1 9.50 Tf 36.00 615.00 Td (compensation, avec de la flexibilité si le périmètre, l'autonomie et) Tj ET
+BT /F1 9.50 Tf 36.00 602.50 Td (l'impact sont solides. Quelle est la bande prévue côté Mirabaud ?) Tj ET
+BT /F1 9.50 Tf 24.00 582.00 Td (If they push lower:) Tj ET
+BT /F1 9.50 Tf 36.00 562.50 Td (Je peux être flexible si le rôle a une vraie portée stratégique, mais) Tj ET
+BT /F1 9.50 Tf 36.00 550.00 Td (j'aimerais éviter un décalage entre le niveau de responsabilité et le) Tj ET
+BT /F1 9.50 Tf 36.00 537.50 Td (package. Le point clé pour moi est d'aligner rémunération, autonomie,) Tj ET
+BT /F1 9.50 Tf 36.00 525.00 Td (scope et attentes.) Tj ET
+BT /F2 13.00 Tf 24.00 504.50 Td (Story Bank Mapping) Tj ET
+BT /F1 9.00 Tf 32.00 474.50 Td (Audience / Likely topic / Best story / Fit / Use it this way) Tj ET
+BT /F1 9.00 Tf 32.00 461.00 Td (COO / IT strategy, budget, business alignment / FlowBank Target Architecture) Tj ET
+BT /F1 9.00 Tf 32.00 448.50 Td (and Budget / strong / Emphasize roadmap, budget, ExCo, data platform, core) Tj ET
+BT /F1 9.00 Tf 32.00 436.00 Td (banking, AWS.) Tj ET
+BT /F1 9.00 Tf 32.00 422.50 Td (COO / Operating model and team accountability / Ripple / Metaco Team) Tj ET
+BT /F1 9.00 Tf 32.00 410.00 Td (Satisfaction and Operating Model / strong / Emphasize squads, L3 support,) Tj ET
+BT /F1 9.00 Tf 32.00 397.50 Td (support/roadmap separation, 90-96% team satisfaction.) Tj ET
+BT /F1 9.00 Tf 32.00 384.00 Td (COO / Regulated transformation / Regulated Agentic Automation / partial / Use) Tj ET
+BT /F1 9.00 Tf 32.00 371.50 Td (only if AI/automation comes up; lead with controls and auditability.) Tj ET
+BT /F1 9.00 Tf 32.00 358.00 Td (Current Head of IT / Infrastructure in asset management / Pictet EKS and) Tj ET
+BT /F1 9.00 Tf 32.00 345.50 Td (Terraform / strong / Emphasize security constraints, standardization, SRE,) Tj ET
+BT /F1 9.00 Tf 32.00 333.00 Td (deployment foundations.) Tj ET
+BT /F1 9.00 Tf 32.00 319.50 Td (Current Head of IT / IAM, security, audit / UBP Identity Access Audit /) Tj ET
+BT /F1 9.00 Tf 32.00 307.00 Td (strong / Emphasize evidence, remediation, risk communication, IAM bug.) Tj ET
+BT /F1 9.00 Tf 32.00 293.50 Td (Current Head of IT / Internal tooling and foundations / Rolex Software) Tj ET
+BT /F1 9.00 Tf 32.00 281.00 Td (Factory / partial / Useful if they discuss legacy tooling, CI/CD, identity,) Tj ET
+BT /F1 9.00 Tf 32.00 268.50 Td (shared standards.) Tj ET
+BT /F1 9.00 Tf 32.00 255.00 Td (Mixed panel / Commodity/financial business systems / Glencore Commodity Trade) Tj ET
+BT /F1 9.00 Tf 32.00 242.50 Td (Rewrite / partial / Use only if asked about business-user workflows or domain) Tj ET
+BT /F1 9.00 Tf 32.00 230.00 Td (ramp-up.) Tj ET
+BT /F2 13.00 Tf 24.00 211.50 Td (Questions To Ask Them) Tj ET
+BT /F1 9.50 Tf 24.00 185.50 Td (Ask Raphaël Ducret:) Tj ET
+BT /F1 9.50 Tf 32.00 166.00 Td (1. "Quels sont les deux ou trois sujets IT qui ont le plus d'impact sur) Tj ET
+BT /F1 9.50 Tf 32.00 153.50 Td (la performance ou l'efficacité de Mirabaud Asset Management aujourd'hui) Tj ET
+BT /F1 9.50 Tf 32.00 141.00 Td (?") Tj ET
+BT /F1 9.50 Tf 32.00 126.50 Td (2. "Dans ce rôle, qu'est-ce qui relève vraiment de l'arbitrage) Tj ET
+BT /F1 9.50 Tf 32.00 114.00 Td (business/IT, et qu'est-ce qui est déjà cadré par le groupe ?") Tj ET
+BT /F1 9.50 Tf 32.00 99.50 Td (3. "À quoi ressemblerait une première année réussie pour vous ?) Tj ET
+BT /F1 9.50 Tf 32.00 87.00 Td (Stabilité, transformation, coûts, satisfaction métier, gouvernance ?") Tj ET
+BT /F1 9.50 Tf 32.00 72.50 Td (4. "Quel niveau d'autonomie attendez-vous du responsable IT par rapport) Tj ET
+BT /F1 9.50 Tf 32.00 60.00 Td (au COO, au groupe, aux fournisseurs et aux équipes infrastructure ?") Tj ET
+BT /F1 8 Tf 344.00 14 Td (5/10) Tj ET
+endstream
+endobj
+14 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 390 844] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 13 0 R >>
+endobj
+15 0 obj
+<< /Length 4660 >>
+stream
+BT /F1 9.50 Tf 24.00 814.00 Td (Ask Pierre Antoni:) Tj ET
+BT /F1 9.50 Tf 32.00 794.50 Td (1. "Quels sont les systèmes ou processus où la connaissance implicite est) Tj ET
+BT /F1 9.50 Tf 32.00 782.00 Td (la plus importante aujourd'hui ?") Tj ET
+BT /F1 9.50 Tf 32.00 767.50 Td (2. "Quelles sont les dépendances fournisseurs ou groupe qu'il faut) Tj ET
+BT /F1 9.50 Tf 32.00 755.00 Td (comprendre très vite ?") Tj ET
+BT /F1 9.50 Tf 32.00 740.50 Td (3. "Quels incidents ou irritants reviennent le plus souvent côté) Tj ET
+BT /F1 9.50 Tf 32.00 728.00 Td (utilisateurs ou métiers ?") Tj ET
+BT /F1 9.50 Tf 32.00 713.50 Td (4. "Si vous aviez encore un an dans le poste, quel chantier prioriseriez-) Tj ET
+BT /F1 9.50 Tf 32.00 701.00 Td (vous ?") Tj ET
+BT /F1 9.50 Tf 32.00 686.50 Td (5. "Qu'est-ce qui fonctionne bien aujourd'hui et qu'il ne faudrait) Tj ET
+BT /F1 9.50 Tf 32.00 674.00 Td (surtout pas casser ?") Tj ET
+BT /F2 13.00 Tf 24.00 654.50 Td (Asset Management Ramp-Up Resources) Tj ET
+BT /F1 9.50 Tf 24.00 628.50 Td (Use this as a fast vocabulary and systems map before the interview. The) Tj ET
+BT /F1 9.50 Tf 24.00 616.00 Td (goal is not to sound like a portfolio manager; it is to show that you) Tj ET
+BT /F1 9.50 Tf 24.00 603.50 Td (understand what IT must make reliable for an asset-management business.) Tj ET
+BT /F2 11.00 Tf 24.00 584.00 Td (30-Minute Crash Path) Tj ET
+BT /F1 9.50 Tf 32.00 562.50 Td (1. Asset-management operating model: understand the chain from investment) Tj ET
+BT /F1 9.50 Tf 32.00 550.00 Td (idea -> portfolio construction -> order/execution -> position keeping ->) Tj ET
+BT /F1 9.50 Tf 32.00 537.50 Td (risk/performance -> client/regulatory reporting.) Tj ET
+BT /F1 9.50 Tf 32.00 523.00 Td (2. Fund structures: distinguish UCITS / mutual funds, mandates, ETFs,) Tj ET
+BT /F1 9.50 Tf 32.00 510.50 Td (alternative funds, hedge funds, private markets, and discretionary) Tj ET
+BT /F1 9.50 Tf 32.00 498.00 Td (portfolios.) Tj ET
+BT /F1 9.50 Tf 32.00 483.50 Td (3. Core records: learn IBOR, ABOR and PBOR:) Tj ET
+BT /F1 9.50 Tf 32.00 469.00 Td (- IBOR: investment book of record, used by portfolio managers and risk) Tj ET
+BT /F1 9.50 Tf 32.00 456.50 Td (teams for positions/exposures.) Tj ET
+BT /F1 9.50 Tf 32.00 442.00 Td (- ABOR: accounting book of record, used for official accounting, NAV and) Tj ET
+BT /F1 9.50 Tf 32.00 429.50 Td (reconciliation.) Tj ET
+BT /F1 9.50 Tf 32.00 415.00 Td (- PBOR: performance book of record, used for official performance,) Tj ET
+BT /F1 9.50 Tf 32.00 402.50 Td (attribution and reporting.) Tj ET
+BT /F1 9.50 Tf 32.00 388.00 Td (4. Risk and controls: focus on market risk, liquidity risk,) Tj ET
+BT /F1 9.50 Tf 32.00 375.50 Td (concentration, counterparty risk, benchmark deviation, valuation) Tj ET
+BT /F1 9.50 Tf 32.00 363.00 Td (controls, data lineage, access rights, and audit evidence.) Tj ET
+BT /F1 9.50 Tf 32.00 348.50 Td (5. Technology platforms: understand why systems like Aladdin matter: one) Tj ET
+BT /F1 9.50 Tf 32.00 336.00 Td (consistent data model for portfolio, risk, compliance, trading,) Tj ET
+BT /F1 9.50 Tf 32.00 323.50 Td (operations and accounting workflows.) Tj ET
+BT /F2 11.00 Tf 24.00 304.00 Td (BlackRock Aladdin - Why It Matters) Tj ET
+BT /F1 9.50 Tf 24.00 282.50 Td (Read: BlackRock Aladdin official overview) Tj ET
+BT /F1 9.50 Tf 24.00 263.00 Td (Key points to retain:) Tj ET
+BT /F1 9.50 Tf 32.00 243.50 Td (- Aladdin positions itself as a whole-portfolio investment-management) Tj ET
+BT /F1 9.50 Tf 32.00 231.00 Td (technology platform, not just a risk tool.) Tj ET
+BT /F1 9.50 Tf 32.00 216.50 Td (- It unifies portfolio management, risk/return views, asset allocation,) Tj ET
+BT /F1 9.50 Tf 32.00 204.00 Td (performance, operations and accounting around a common data language.) Tj ET
+BT /F1 9.50 Tf 32.00 189.50 Td (- BlackRock highlights public and private markets coverage, integrated) Tj ET
+BT /F1 9.50 Tf 32.00 177.00 Td (ecosystem partners, API-first/open innovation, and stable operating-model) Tj ET
+BT /F1 9.50 Tf 32.00 164.50 Td (foundations.) Tj ET
+BT /F1 9.50 Tf 32.00 150.00 Td (- The product areas listed by BlackRock are exactly the vocabulary to) Tj ET
+BT /F1 9.50 Tf 32.00 137.50 Td (listen for in Mirabaud's setup: order management, trade execution,) Tj ET
+BT /F1 9.50 Tf 32.00 125.00 Td (compliance, operations, data cloud, portfolio risk and attribution,) Tj ET
+BT /F1 9.50 Tf 32.00 112.50 Td (private markets, climate analytics, wealth tools, investment accounting) Tj ET
+BT /F1 9.50 Tf 32.00 100.00 Td (\(ABOR\), and official performance \(PBOR\).) Tj ET
+BT /F1 9.50 Tf 24.00 80.50 Td (Interview use:) Tj ET
+BT /F1 8 Tf 344.00 14 Td (6/10) Tj ET
+endstream
+endobj
+16 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 390 844] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 15 0 R >>
+endobj
+17 0 obj
+<< /Length 4782 >>
+stream
+BT /F1 9.50 Tf 36.00 814.00 Td ("Je ne sais pas encore quels outils vous utilisez - Aladdin, Bloomberg) Tj ET
+BT /F1 9.50 Tf 36.00 801.50 Td (PORT, SimCorp, MSCI/Barra, un système interne ou une combinaison - mais) Tj ET
+BT /F1 9.50 Tf 36.00 789.00 Td (je voudrais comprendre où se trouve votre golden source: positions,) Tj ET
+BT /F1 9.50 Tf 36.00 776.50 Td (risque, performance, accounting, ordres, reporting et contrôles. C'est) Tj ET
+BT /F1 9.50 Tf 36.00 764.00 Td (souvent là que la qualité IT a le plus d'impact sur un asset manager.") Tj ET
+BT /F1 9.50 Tf 24.00 743.50 Td (Ask Pierre:) Tj ET
+BT /F1 9.50 Tf 32.00 724.00 Td (- "Quel est aujourd'hui votre système de référence pour les positions et) Tj ET
+BT /F1 9.50 Tf 32.00 711.50 Td (expositions: IBOR, accounting, performance, ou plusieurs sources) Tj ET
+BT /F1 9.50 Tf 32.00 699.00 Td (reconciliées ?") Tj ET
+BT /F1 9.50 Tf 32.00 684.50 Td (- "Est-ce que les équipes d'investissement et opérations regardent la) Tj ET
+BT /F1 9.50 Tf 32.00 672.00 Td (même donnée, ou y a-t-il encore des écarts à réconcilier manuellement ?") Tj ET
+BT /F1 9.50 Tf 32.00 657.50 Td (- "Quels outils sont critiques aujourd'hui: PMS/OMS, Bloomberg,) Tj ET
+BT /F1 9.50 Tf 32.00 645.00 Td (Aladdin/SimCorp/MSCI, data warehouse, reporting client, risk engine ?") Tj ET
+BT /F2 11.00 Tf 24.00 625.50 Td (Funds, Hedge Funds And Alternatives) Tj ET
+BT /F1 9.50 Tf 24.00 604.00 Td (Read:) Tj ET
+BT /F1 9.50 Tf 32.00 584.50 Td (- Investor.gov - Hedge Funds) Tj ET
+BT /F1 9.50 Tf 32.00 570.00 Td (- SEC Investor Bulletin - Hedge Funds PDF) Tj ET
+BT /F1 9.50 Tf 24.00 550.50 Td (Key points to retain:) Tj ET
+BT /F1 9.50 Tf 32.00 531.00 Td (- Hedge funds pool investor money like mutual funds, but typically have) Tj ET
+BT /F1 9.50 Tf 32.00 518.50 Td (more flexible strategies.) Tj ET
+BT /F1 9.50 Tf 32.00 504.00 Td (- Common hedge-fund techniques include leverage, short-selling,) Tj ET
+BT /F1 9.50 Tf 32.00 491.50 Td (derivatives and less liquid or more complex positions.) Tj ET
+BT /F1 9.50 Tf 32.00 477.00 Td (- The IT implications are data, valuation, risk, liquidity, exposure,) Tj ET
+BT /F1 9.50 Tf 32.00 464.50 Td (fees, performance, investor reporting, and controls.) Tj ET
+BT /F1 9.50 Tf 32.00 450.00 Td (- The operational questions are often more important than the label) Tj ET
+BT /F1 9.50 Tf 32.00 437.50 Td ("hedge fund": How are assets valued? Who validates prices? How is) Tj ET
+BT /F1 9.50 Tf 32.00 425.00 Td (leverage measured? How often can investors redeem? What happens under) Tj ET
+BT /F1 9.50 Tf 32.00 412.50 Td (stress? What data supports performance and fees?) Tj ET
+BT /F1 9.50 Tf 24.00 393.00 Td (Interview use:) Tj ET
+BT /F1 9.50 Tf 36.00 373.50 Td ("Sur les stratégies plus complexes ou alternatives, le sujet IT n'est) Tj ET
+BT /F1 9.50 Tf 36.00 361.00 Td (pas seulement de stocker les positions. Il faut fiabiliser la) Tj ET
+BT /F1 9.50 Tf 36.00 348.50 Td (valorisation, les expositions, la liquidité, les contrôles, le reporting) Tj ET
+BT /F1 9.50 Tf 36.00 336.00 Td (et la traçabilité des décisions. C'est très proche de ce que j'ai vu en) Tj ET
+BT /F1 9.50 Tf 36.00 323.50 Td (banque régulée et en custody institutionnelle.") Tj ET
+BT /F2 11.00 Tf 24.00 303.00 Td (What IT Must Make Work In Asset Management) Tj ET
+BT /F1 9.50 Tf 24.00 281.50 Td (For this role, expect Mirabaud to care about:) Tj ET
+BT /F1 9.50 Tf 32.00 262.00 Td (- Portfolio data: positions, transactions, cash, corporate actions,) Tj ET
+BT /F1 9.50 Tf 32.00 249.50 Td (pricing, benchmarks, exposures.) Tj ET
+BT /F1 9.50 Tf 32.00 235.00 Td (- Front office: portfolio managers, analysts, investment decisions, pre-) Tj ET
+BT /F1 9.50 Tf 32.00 222.50 Td (trade checks, OMS/PMS usability.) Tj ET
+BT /F1 9.50 Tf 32.00 208.00 Td (- Middle office: trade lifecycle, reconciliations, risk, compliance,) Tj ET
+BT /F1 9.50 Tf 32.00 195.50 Td (performance attribution, exceptions.) Tj ET
+BT /F1 9.50 Tf 32.00 181.00 Td (- Back office / accounting: NAV, accounting records, settlement,) Tj ET
+BT /F1 9.50 Tf 32.00 168.50 Td (reporting, external administrators/custodians.) Tj ET
+BT /F1 9.50 Tf 32.00 154.00 Td (- Client and regulatory reporting: factsheets, mandates, performance,) Tj ET
+BT /F1 9.50 Tf 32.00 141.50 Td (risk, ESG/climate metrics, audit trail.) Tj ET
+BT /F1 9.50 Tf 32.00 127.00 Td (- Infrastructure and workplace: secure access, M365/Azure, identity,) Tj ET
+BT /F1 9.50 Tf 32.00 114.50 Td (endpoint stability, data protection, disaster recovery.) Tj ET
+BT /F1 9.50 Tf 32.00 100.00 Td (- Vendor governance: Bloomberg, custodians, fund administrators, risk) Tj ET
+BT /F1 9.50 Tf 32.00 87.50 Td (engines, data vendors, group IT, outsourced infrastructure.) Tj ET
+BT /F1 9.50 Tf 24.00 68.00 Td (Good phrase:) Tj ET
+BT /F1 8 Tf 344.00 14 Td (7/10) Tj ET
+endstream
+endobj
+18 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 390 844] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 17 0 R >>
+endobj
+19 0 obj
+<< /Length 4851 >>
+stream
+BT /F1 9.50 Tf 36.00 814.00 Td ("Je veux comprendre la chaîne de valeur complète: de l'idée) Tj ET
+BT /F1 9.50 Tf 36.00 801.50 Td (d'investissement jusqu'au reporting client, en passant par les ordres,) Tj ET
+BT /F1 9.50 Tf 36.00 789.00 Td (les positions, le risque, la performance, l'accounting et les contrôles.) Tj ET
+BT /F1 9.50 Tf 36.00 776.50 Td (Ensuite seulement on peut prioriser correctement l'IT.") Tj ET
+BT /F2 11.00 Tf 24.00 756.00 Td (Systems Vocabulary To Recognize) Tj ET
+BT /F1 9.50 Tf 32.00 734.50 Td (- PMS: Portfolio Management System.) Tj ET
+BT /F1 9.50 Tf 32.00 720.00 Td (- OMS / EMS: Order / Execution Management System.) Tj ET
+BT /F1 9.50 Tf 32.00 705.50 Td (- IBOR / ABOR / PBOR: investment, accounting and performance books of) Tj ET
+BT /F1 9.50 Tf 32.00 693.00 Td (record.) Tj ET
+BT /F1 9.50 Tf 32.00 678.50 Td (- NAV: Net Asset Value.) Tj ET
+BT /F1 9.50 Tf 32.00 664.00 Td (- AUM: Assets under management.) Tj ET
+BT /F1 9.50 Tf 32.00 649.50 Td (- Benchmark: reference index or target used to compare performance and) Tj ET
+BT /F1 9.50 Tf 32.00 637.00 Td (risk.) Tj ET
+BT /F1 9.50 Tf 32.00 622.50 Td (- Tracking error: how much a portfolio deviates from its benchmark.) Tj ET
+BT /F1 9.50 Tf 32.00 608.00 Td (- Attribution: explaining performance by asset allocation, selection,) Tj ET
+BT /F1 9.50 Tf 32.00 595.50 Td (factor, currency, sector or other effects.) Tj ET
+BT /F1 9.50 Tf 32.00 581.00 Td (- VaR / stress testing: risk measures and scenario analysis.) Tj ET
+BT /F1 9.50 Tf 32.00 566.50 Td (- Mandate / restriction: investment rules for a client or fund.) Tj ET
+BT /F1 9.50 Tf 32.00 552.00 Td (- Reconciliation: resolving differences between internal records,) Tj ET
+BT /F1 9.50 Tf 32.00 539.50 Td (custodian records, accounting, trading and reporting systems.) Tj ET
+BT /F1 9.50 Tf 32.00 525.00 Td (- Golden source: authoritative source for a data object such as position,) Tj ET
+BT /F1 9.50 Tf 32.00 512.50 Td (price, security master, client, portfolio or benchmark.) Tj ET
+BT /F2 11.00 Tf 24.00 493.00 Td (Sharp Domain Questions To Ask) Tj ET
+BT /F1 9.50 Tf 24.00 471.50 Td (Use one or two, not all:) Tj ET
+BT /F1 9.50 Tf 32.00 452.00 Td (1. "Où sont aujourd'hui les plus gros frottements dans la chaîne front-) Tj ET
+BT /F1 9.50 Tf 32.00 439.50 Td (to-back: décision d'investissement, ordres, positions, risque,) Tj ET
+BT /F1 9.50 Tf 32.00 427.00 Td (performance, accounting ou reporting ?") Tj ET
+BT /F1 9.50 Tf 32.00 412.50 Td (2. "Quelle est la source de vérité pour les positions, les prix et les) Tj ET
+BT /F1 9.50 Tf 32.00 400.00 Td (benchmarks ?") Tj ET
+BT /F1 9.50 Tf 32.00 385.50 Td (3. "Quels contrôles sont encore trop manuels aujourd'hui dans les) Tj ET
+BT /F1 9.50 Tf 32.00 373.00 Td (réconciliations ou le reporting ?") Tj ET
+BT /F1 9.50 Tf 32.00 358.50 Td (4. "Est-ce que Mirabaud Asset Management a des enjeux private markets,) Tj ET
+BT /F1 9.50 Tf 32.00 346.00 Td (alternatives ou stratégies moins liquides qui changent la façon de gérer) Tj ET
+BT /F1 9.50 Tf 32.00 333.50 Td (la donnée et le risque ?") Tj ET
+BT /F1 9.50 Tf 32.00 319.00 Td (5. "Quels outils sont imposés par le groupe, et où l'Asset Management) Tj ET
+BT /F1 9.50 Tf 32.00 306.50 Td (garde-t-il une autonomie de choix ?") Tj ET
+BT /F2 13.00 Tf 24.00 287.00 Td (Topics To Prepare Tonight) Tj ET
+BT /F1 9.50 Tf 32.00 261.00 Td (- Re-read the Mirabaud JD and your cover letter. Your best phrasing is) Tj ET
+BT /F1 9.50 Tf 32.00 248.50 Td (already there.) Tj ET
+BT /F1 9.50 Tf 32.00 234.00 Td (- Read the Asset Management Ramp-Up Resources section above, especially) Tj ET
+BT /F1 9.50 Tf 32.00 221.50 Td (Aladdin, IBOR/ABOR/PBOR, NAV, risk, performance and reconciliation) Tj ET
+BT /F1 9.50 Tf 32.00 209.00 Td (vocabulary.) Tj ET
+BT /F1 9.50 Tf 32.00 194.50 Td (- Prepare a 2-minute FlowBank story: scope, budget, ExCo, AWS, Core) Tj ET
+BT /F1 9.50 Tf 32.00 182.00 Td (Banking, CRM, data platform.) Tj ET
+BT /F1 9.50 Tf 32.00 167.50 Td (- Prepare a 90-second Pictet Asset Management story: security) Tj ET
+BT /F1 9.50 Tf 32.00 155.00 Td (constraints, EKS, Helm, Terraform, SRE.) Tj ET
+BT /F1 9.50 Tf 32.00 140.50 Td (- Prepare a 90-second UBP story: IT audit, IAM bug, remediation,) Tj ET
+BT /F1 9.50 Tf 32.00 128.00 Td (governance.) Tj ET
+BT /F1 9.50 Tf 32.00 113.50 Td (- Prepare a transition plan with Pierre: systems, vendors, incidents,) Tj ET
+BT /F1 9.50 Tf 32.00 101.00 Td (contracts, implicit knowledge.) Tj ET
+BT /F1 9.50 Tf 32.00 86.50 Td (- Prepare one AI example, but make it controlled and banking-safe.) Tj ET
+BT /F1 9.50 Tf 32.00 72.00 Td (- Decide your salary floor for this specific role before walking in.) Tj ET
+BT /F1 9.50 Tf 32.00 59.50 Td (Profile target is CHF 230k TC, minimum CHF 160k, but scope may justify) Tj ET
+BT /F1 9.50 Tf 32.00 47.00 Td (anchoring high.) Tj ET
+BT /F1 8 Tf 344.00 14 Td (8/10) Tj ET
+endstream
+endobj
+20 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 390 844] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 19 0 R >>
+endobj
+21 0 obj
+<< /Length 4559 >>
+stream
+BT /F2 13.00 Tf 24.00 814.00 Td (Red Flags To Probe) Tj ET
+BT /F1 9.50 Tf 32.00 788.00 Td (- Is the role true IT ownership for Asset Management, or mostly) Tj ET
+BT /F1 9.50 Tf 32.00 775.50 Td (coordination under group IT?) Tj ET
+BT /F1 9.50 Tf 32.00 761.00 Td (- How much of the work is daily support / escalation versus strategy and) Tj ET
+BT /F1 9.50 Tf 32.00 748.50 Td (transformation?) Tj ET
+BT /F1 9.50 Tf 32.00 734.00 Td (- What budget authority exists?) Tj ET
+BT /F1 9.50 Tf 32.00 719.50 Td (- Who owns infrastructure decisions: Asset Management IT, group IT, or) Tj ET
+BT /F1 9.50 Tf 32.00 707.00 Td (external providers?) Tj ET
+BT /F1 9.50 Tf 32.00 692.50 Td (- Is Pierre's knowledge documented, and how much transition time is) Tj ET
+BT /F1 9.50 Tf 32.00 680.00 Td (available?) Tj ET
+BT /F1 9.50 Tf 32.00 665.50 Td (- Are they hiring because of retirement only, or also because the) Tj ET
+BT /F1 9.50 Tf 32.00 653.00 Td (function needs transformation?) Tj ET
+BT /F1 9.50 Tf 32.00 638.50 Td (- Are there open audit, risk, cyber, data-quality, or vendor issues?) Tj ET
+BT /F1 9.50 Tf 32.00 624.00 Td (- Does the role have a real seat with the COO and senior business) Tj ET
+BT /F1 9.50 Tf 32.00 611.50 Td (stakeholders?) Tj ET
+BT /F2 13.00 Tf 24.00 592.00 Td (Things Not To Volunteer) Tj ET
+BT /F1 9.50 Tf 32.00 566.00 Td (- Do not open with compensation.) Tj ET
+BT /F1 9.50 Tf 32.00 551.50 Td (- Do not volunteer the FINMA enforcement topic. Be prepared if asked) Tj ET
+BT /F1 9.50 Tf 32.00 539.00 Td (about governance/risk, but do not bring reputational issues into the) Tj ET
+BT /F1 9.50 Tf 32.00 526.50 Td (conversation unprompted.) Tj ET
+BT /F1 9.50 Tf 32.00 512.00 Td (- Do not make Mirabaud sound "small" compared with FlowBank/Ripple. Frame) Tj ET
+BT /F1 9.50 Tf 32.00 499.50 Td (it as a focused, high-trust environment where breadth and pragmatism) Tj ET
+BT /F1 9.50 Tf 32.00 487.00 Td (matter.) Tj ET
+BT /F1 9.50 Tf 32.00 472.50 Td (- Do not overplay AI. Their JD says AI-related initiatives, but the role) Tj ET
+BT /F1 9.50 Tf 32.00 460.00 Td (buys continuity, governance, budget, architecture, and stakeholder trust) Tj ET
+BT /F1 9.50 Tf 32.00 447.50 Td (first.) Tj ET
+BT /F1 9.50 Tf 32.00 433.00 Td (- Do not imply you are only interested if the role becomes CTO-shaped.) Tj ET
+BT /F1 9.50 Tf 32.00 420.50 Td (Instead: "scope, autonomy, impact, and business proximity.") Tj ET
+BT /F2 13.00 Tf 24.00 401.00 Td (Closing Statement) Tj ET
+BT /F1 9.50 Tf 24.00 375.00 Td (Use this near the end if the conversation went well:) Tj ET
+BT /F1 9.50 Tf 36.00 355.50 Td (Ce qui me plaît dans ce rôle, c'est qu'il demande exactement l'équilibre) Tj ET
+BT /F1 9.50 Tf 36.00 343.00 Td (que j'aime: comprendre le business, garder un environnement IT robuste,) Tj ET
+BT /F1 9.50 Tf 36.00 330.50 Td (structurer le run et la transformation, challenger les fournisseurs, et) Tj ET
+BT /F1 9.50 Tf 36.00 318.00 Td (apporter de l'innovation de manière pragmatique. J'ai déjà porté ces) Tj ET
+BT /F1 9.50 Tf 36.00 305.50 Td (sujets dans des environnements financiers genevois, et je pense pouvoir) Tj ET
+BT /F1 9.50 Tf 36.00 293.00 Td (sécuriser la transition avec Pierre tout en donnant à Mirabaud Asset) Tj ET
+BT /F1 9.50 Tf 36.00 280.50 Td (Management une trajectoire IT très claire pour les prochaines années.) Tj ET
+BT /F2 13.00 Tf 24.00 260.00 Td (Follow-Up Draft After The Interview) Tj ET
+BT /F1 9.50 Tf 24.00 234.00 Td (Subject: Merci pour l'échange - Responsable IT Asset Management) Tj ET
+BT /F1 9.50 Tf 24.00 214.50 Td (Bonjour Madame Bovat,) Tj ET
+BT /F1 9.50 Tf 24.00 195.00 Td (Merci encore pour l'organisation de l'entretien avec M. Ducret et M.) Tj ET
+BT /F1 9.50 Tf 24.00 182.50 Td (Antoni.) Tj ET
+BT /F1 9.50 Tf 24.00 163.00 Td (J'ai apprécié l'échange autour du rôle de responsable IT pour Mirabaud) Tj ET
+BT /F1 9.50 Tf 24.00 150.50 Td (Asset Management, en particulier l'équilibre entre continuité) Tj ET
+BT /F1 9.50 Tf 24.00 138.00 Td (opérationnelle, gouvernance, relation métier, fournisseurs et) Tj ET
+BT /F1 9.50 Tf 24.00 125.50 Td (transformation digitale. La discussion a confirmé mon intérêt pour le poste) Tj ET
+BT /F1 9.50 Tf 24.00 113.00 Td (et pour le type de mandat: une fonction IT proche du business, pragmatique,) Tj ET
+BT /F1 9.50 Tf 24.00 100.50 Td (fiable et capable d'accompagner l'évolution de l'Asset Management.) Tj ET
+BT /F1 9.50 Tf 24.00 81.00 Td (Je reste bien entendu disponible pour la suite du processus.) Tj ET
+BT /F1 9.50 Tf 24.00 61.50 Td (Meilleures salutations,) Tj ET
+BT /F1 8 Tf 344.00 14 Td (9/10) Tj ET
+endstream
+endobj
+22 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 390 844] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 21 0 R >>
+endobj
+23 0 obj
+<< /Length 94 >>
+stream
+BT /F1 9.50 Tf 24.00 814.00 Td (Thibault Fouache) Tj ET
+BT /F1 8 Tf 344.00 14 Td (10/10) Tj ET
+endstream
+endobj
+24 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 390 844] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 23 0 R >>
+endobj
+xref
+0 25
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000184 00000 n 
+0000000281 00000 n 
+0000000383 00000 n 
+0000005107 00000 n 
+0000005243 00000 n 
+0000009873 00000 n 
+0000010009 00000 n 
+0000014469 00000 n 
+0000014606 00000 n 
+0000020125 00000 n 
+0000020263 00000 n 
+0000025525 00000 n 
+0000025663 00000 n 
+0000030376 00000 n 
+0000030514 00000 n 
+0000035349 00000 n 
+0000035487 00000 n 
+0000040391 00000 n 
+0000040529 00000 n 
+0000045141 00000 n 
+0000045279 00000 n 
+0000045424 00000 n 
+trailer
+<< /Size 25 /Root 1 0 R >>
+startxref
+45562
+%%EOF
