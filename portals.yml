@@ -695,6 +695,25 @@ tracked_companies:
     notes: "Geneva HQ privacy/security product company. Watch platform/security/product engineering leadership, technical product, AI/privacy/security, infrastructure and architecture roles. Filter out mobile-only or narrow implementation roles unless senior strategic scope is explicit."
     enabled: true
 
+  - name: Vitol
+    careers_url: https://www.vitol.com/open-roles/
+    scan_method: local_parser
+    parser:
+      command: node
+      script: scripts/parsers/smartrecruiters-jobs.mjs
+      args:
+        - "{careers_url}"
+        - "Vitol"
+      format: jobs-json-v1
+    notes: "Geneva-headquartered energy and commodities trading group on SmartRecruiters. Watch Geneva MIS/Technology roles, AI/data, trading platforms, cybersecurity, IAM, infrastructure architecture, engineering leadership and transformation roles. Filter out non-Swiss operational, trading/commercial analyst, support-only and downlevel admin roles unless the mandate has strategic technology ownership."
+    enabled: true
+
+  - name: Trafigura
+    careers_url: https://trafigura.wd3.myworkdayjobs.com/TrafiguraCareerSite
+    provider: workday
+    notes: "Geneva-relevant commodities trading group on Workday. Watch Geneva/Switzerland technology, trading platforms, data/AI, cybersecurity, infrastructure, enterprise architecture, product, transformation and engineering leadership roles. Filter out non-Swiss operations, commercial analyst, finance-only and downlevel support/admin roles unless there is clear strategic technology ownership."
+    enabled: true
+
   - name: Swissquote
     careers_url: https://careers.smartrecruiters.com/Swissquote/tech-jobs
     scan_method: local_parser
