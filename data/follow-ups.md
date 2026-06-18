@@ -41,3 +41,4 @@
 | 37 | 83 | 2026-06-17 | OpenAI | Strategic Delivery Lead, International Public Sector | Tracker closure | OpenAI careers | Considered rejected: no response after application; reopen only if OpenAI replies later. |
 | 38 | 81 | 2026-06-17 | Amazon Web Services (AWS) | Principal GTM Specialist Solution Architect AI/ML, GenAI | Position closed | Amazon Recruiting Team | Amazon email: position no longer available; update not related to other Amazon applications. |
 | 39 | 45 | 2026-06-17 | OM Pharma | Head of IT - Geneva | Portal check | OM Pharma careers | Rejected: candidate checked the portal and the job is closed. |
+| 40 | 119 | 2026-06-18 | Alpian | Business Technology Lead | Email / Teams | Luca Magnoni / Alpian interview team | Sent: thank-you / next-step message after positive CTO interview; only Luca attended on 2026-06-17, with Damien Chambon and Sergii Kuku meetings expected soon. |
