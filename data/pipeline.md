@@ -5,6 +5,12 @@
 
 
 
+- [ ] https://www.carrieres-rolex.com/Rolex/job/Gen%C3%A8ve-Architecte-d'entreprise-%28HF%29-Gen%C3%A8/1385797633/ | Rolex | Architecte d'entreprise (H/F)
+- [ ] https://jobs.smartrecruiters.com/Nexthink/744000132687759-senior-ai-research-engineer | Nexthink | Senior AI Research Engineer
+- [ ] https://swissdevjobs.ch/jobs/Docpier-Senior-AI-Engineer | Docpier | Senior AI Engineer [CHF 110'000 - 130'000]
+- [ ] https://swissdevjobs.ch/jobs/Docpier-Professional-AI-Engineer | Docpier | Professional AI Engineer [CHF 85'000 - 110'000]
+- [ ] https://swissdevjobs.ch/jobs/AMAG-Group-AG-Big-Data--Platform-Engineer | AMAG Group AG | Big Data & Platform Engineer [CHF 90'000 - 120'000]
+
 ## Procesadas
 
 - [x] DISCARDED | https://www.carrieres-rolex.com/Rolex/job/Gen%C3%A8ve-Architecte-s%C3%A9curit%C3%A9-ICSOT-%28HF%29-Gen%C3%A8/1226441801/ | Rolex | Architecte sécurité ICS/OT (H/F) | Discarded 2026-06-17 by candidate from scan results before evaluation.
