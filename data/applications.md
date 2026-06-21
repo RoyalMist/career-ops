@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 140 | 2026-06-21 | Etat de Vaud / DGNSI | Responsable des Systemes d'information "metier" | 3.7/5 | Evaluated | ❌ | [140](reports/140-etat-de-vaud-dgnsi-rsi-metier-2026-06-21.md) | Do not prioritize: credible VD/DGNSI SI urbanization role, but no direct reports, salary class 13 and senior specialist scope are below CTO/Head/Director target. |
 | 139 | 2026-06-17 | Unit8 SA | Managing Director - Data & AI | 3.4/5 | Discarded | ❌ | [139](reports/139-unit8-managing-director-data-ai-2026-06-17.md) | Discarded by candidate 2026-06-17: explicit fluent German and DACH pharma/insurance/chemicals network requirements are major blockers despite strong AI transformation overlap. |
 | 138 | 2026-06-17 | SkyCell AG | VP Product Ecosystem - Hardware, Software & IoT | 3.8/5 | Discarded | ❌ | [138](reports/138-skycell-vp-product-ecosystem-2026-06-17.md) | Discarded by candidate 2026-06-17: Zurich hybrid, pharma-logistics ramp-up and product-VP rather than CTO/engineering ownership keep it below priority. |
 | 137 | 2026-06-17 | Stealth | Deputy Chief Technology Officer | 4.1/5 | Evaluated | ❌ | [137](reports/137-stealth-deputy-cto-digital-assets-2026-06-17.md) | Strong Deputy CTO fit for regulated digital-assets engineering operations; qualify hidden company, Switzerland remote eligibility, comp, low-latency/Rust depth and M&A scope before applying. |
