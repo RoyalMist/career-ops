@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 141 | 2026-06-23 | BCV | Responsable de plateformes IT Distribution Marketing - Chef de service | 4.0/5 | Evaluated | ❌ | [141](reports/141-bcv-responsable-plateformes-it-distribution-marketing-2026-06-23.md) | Strong local banking IT service-head fit with team/budget/platform scope; qualify salary band, Lausanne cadence and strategic decision rights before applying. |
 | 140 | 2026-06-21 | Etat de Vaud / DGNSI | Responsable des Systemes d'information "metier" | 3.7/5 | Evaluated | ❌ | [140](reports/140-etat-de-vaud-dgnsi-rsi-metier-2026-06-21.md) | Do not prioritize: credible VD/DGNSI SI urbanization role, but no direct reports, salary class 13 and senior specialist scope are below CTO/Head/Director target. |
 | 139 | 2026-06-17 | Unit8 SA | Managing Director - Data & AI | 3.4/5 | Discarded | ❌ | [139](reports/139-unit8-managing-director-data-ai-2026-06-17.md) | Discarded by candidate 2026-06-17: explicit fluent German and DACH pharma/insurance/chemicals network requirements are major blockers despite strong AI transformation overlap. |
 | 138 | 2026-06-17 | SkyCell AG | VP Product Ecosystem - Hardware, Software & IoT | 3.8/5 | Discarded | ❌ | [138](reports/138-skycell-vp-product-ecosystem-2026-06-17.md) | Discarded by candidate 2026-06-17: Zurich hybrid, pharma-logistics ramp-up and product-VP rather than CTO/engineering ownership keep it below priority. |
