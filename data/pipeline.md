@@ -2,6 +2,21 @@
 
 ## Pendientes
 
+- [ ] https://jobs.smartrecruiters.com/CERN/744000134256199-atlas-forward-detector-daq-developments-ep-atl-am-2026-119-grap | CERN | ATLAS Forward Detector DAQ Developments (EP-ATL-AM-2026-119-GRAP)
+- [ ] https://jobs.smartrecruiters.com/CERN/744000133598850-detector-scientist-ep-atl-trk-2026-116-grap | CERN | Detector Scientist (EP-ATL-TRK-2026-116-GRAP)
+- [ ] https://jobs.smartrecruiters.com/CERN/744000133510249-mechanical-technician-for-the-cms-ecal-detector-at-lhc-ep-cms-ld-2026-138-ld | CERN | Mechanical Technician for the CMS ECAL Detector at LHC (EP-CMS-LD-2026-138-LD)
+- [ ] https://jobs.smartrecruiters.com/CERN/744000133320799-controls-and-automation-engineer-en-cv-cl-2026-171-grae | CERN | Controls and Automation Engineer (EN-CV-CL-2026-171-GRAE)
+- [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4906263101 | Parloa | Senior Forward Deployed Engineer (Spain)
+- [ ] https://careers.icrc.org/job/Geneva-%28GVA%29-Platform-Engineering-Lead-32595/1407139833/ | ICRC | Platform Engineering Lead
+- [ ] https://careers.icrc.org/job/Geneva-%28GVA%29-AI-Tech-Lead-32594/1407099033/ | ICRC | AI Tech Lead
+- [ ] https://swissdevjobs.ch/jobs/Rockstar-Recruiting-AG-Senior-Data--AI-Consultant | Rockstar Recruiting AG | Senior Data & AI Consultant [CHF 100'000 - 130'000]
+- [ ] https://swissdevjobs.ch/jobs/KPMG-Switzerland-Consultant---Management-Consulting---Digital-Transformation | KPMG Switzerland | Consultant - Management Consulting - Digital Transformation [CHF 100'000 - 130'000]
+- [ ] https://swissdevjobs.ch/jobs/Lombard-Odier-Systems-Engineer---Automation-WindowsVMware---Genve | Lombard Odier | Systems Engineer - Automation (Windows/VMware) - Genève [CHF 110'000 - 150'000]
+- [ ] https://jobs.lever.co/sonarsource/6f3f1499-d6f0-4348-bc8d-15411e986ae4 | Sonar | Technical Product Manager - Code Quality (f/m/d)
+- [ ] https://jobs.ashbyhq.com/langchain/ea3df015-477b-4197-a53f-c44029632a7d | LangChain | Senior Platform Engineer, Ingestion
+- [ ] https://jobs.ashbyhq.com/synthesia/c2d3d3a8-f7b8-45f5-ad89-dba6ac14625c | Synthesia |  ML Platform Engineer
+- [ ] https://jobs.ashbyhq.com/supabase/99a80436-89ec-412b-b782-1dd462bd16dc | Supabase | Engineering Manager
+
 ## Procesadas
 
 - [x] DISCARDED | https://www.carrieres-rolex.com/Rolex/job/Gen%C3%A8ve-Architecte-d'entreprise-%28HF%29-Gen%C3%A8/1385797633/ | Rolex | Architecte d'entreprise (H/F) | Discarded 2026-06-21 by candidate from scan results before evaluation.
