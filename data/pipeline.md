@@ -19,6 +19,15 @@
 
 ## Procesadas
 
+- [x] DISCARDED | https://jobs.smartrecruiters.com/Nexthink/744000134724299-product-manager | Nexthink | Product Manager | Discarded 2026-06-29 by candidate from scan results before evaluation: not for me.
+- [x] DISCARDED | https://jobs.smartrecruiters.com/Nexthink/744000134506669-senior-ai-engineer | Nexthink | Senior AI Engineer | Discarded 2026-06-29 by candidate from scan results before evaluation: not for me.
+- [x] DISCARDED | https://jobs.smartrecruiters.com/Swissquote/744000134725330-product-manager-100 | Swissquote | Product Manager - 100% | Discarded 2026-06-29 by candidate from scan results before evaluation: not for me.
+- [x] DISCARDED | https://swissdevjobs.ch/jobs/Innovation-Process-Technology-AG-Senior-Integration-Engineer-im-IT-Consulting | Innovation Process Technology AG | Senior Integration Engineer im IT-Consulting [CHF 125'000 - 140'000] | Discarded 2026-06-29 by candidate from scan results before evaluation: not for me.
+- [x] DISCARDED | https://swissdevjobs.ch/jobs/Innovation-Process-Technology-AG-Integration-Engineer-im-IT-Consulting | Innovation Process Technology AG | Integration Engineer im IT-Consulting [CHF 100'000 - 110'000] | Discarded 2026-06-29 by candidate from scan results before evaluation: not for me.
+- [x] DISCARDED | https://job-boards.greenhouse.io/intercom/jobs/8030046 | Intercom | Director, Product Analytics | Discarded 2026-06-29 by candidate from scan results before evaluation: not for me.
+- [x] DISCARDED | https://careers.icrc.org/job/Geneva-%28GVA%29-Resource-Mobilization-Partnership-Manager-%28Asia-Pacific%29-32639/1408883433/ | ICRC | Resource Mobilization Partnership Manager (Asia-Pacific) | Discarded 2026-06-29 by candidate from scan results before evaluation: not for me.
+- [x] DISCARDED | https://jobs.lever.co/sonarsource/6fcc969d-d5c6-4ffd-9e8d-41802e310dfd | Sonar | Deal Desk Specialist - (Contractor) | Discarded 2026-06-29 by candidate from scan results before evaluation: not for me.
+
 - [x] DISCARDED | https://www.carrieres-rolex.com/Rolex/job/Gen%C3%A8ve-Architecte-d'entreprise-%28HF%29-Gen%C3%A8/1385797633/ | Rolex | Architecte d'entreprise (H/F) | Discarded 2026-06-21 by candidate from scan results before evaluation.
 - [x] DISCARDED | https://jobs.smartrecruiters.com/Nexthink/744000132687759-senior-ai-research-engineer | Nexthink | Senior AI Research Engineer | Discarded 2026-06-21 by candidate from scan results before evaluation.
 - [x] DISCARDED | https://swissdevjobs.ch/jobs/Docpier-Senior-AI-Engineer | Docpier | Senior AI Engineer [CHF 110'000 - 130'000] | Discarded 2026-06-21 by candidate from scan results before evaluation.
