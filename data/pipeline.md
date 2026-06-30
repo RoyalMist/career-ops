@@ -17,8 +17,11 @@
 - [ ] https://jobs.ashbyhq.com/synthesia/c2d3d3a8-f7b8-45f5-ad89-dba6ac14625c | Synthesia |  ML Platform Engineer
 - [ ] https://jobs.ashbyhq.com/supabase/99a80436-89ec-412b-b782-1dd462bd16dc | Supabase | Engineering Manager
 
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/6104620004 | Hightouch | Solutions Engineer, Mid-Market (Pre-Sales)
+
 ## Procesadas
 
+- [x] DISCARDED | https://jobs.smartrecruiters.com/Nexthink/744000134949229-senior-ai-engineer | Nexthink | Senior AI Engineer | Discarded 2026-06-30 by prior candidate preference: Nexthink Senior AI Engineer is not for me.
 - [x] DISCARDED | https://jobs.smartrecruiters.com/Nexthink/744000134724299-product-manager | Nexthink | Product Manager | Discarded 2026-06-29 by candidate from scan results before evaluation: not for me.
 - [x] DISCARDED | https://jobs.smartrecruiters.com/Nexthink/744000134506669-senior-ai-engineer | Nexthink | Senior AI Engineer | Discarded 2026-06-29 by candidate from scan results before evaluation: not for me.
 - [x] DISCARDED | https://jobs.smartrecruiters.com/Swissquote/744000134725330-product-manager-100 | Swissquote | Product Manager - 100% | Discarded 2026-06-29 by candidate from scan results before evaluation: not for me.
