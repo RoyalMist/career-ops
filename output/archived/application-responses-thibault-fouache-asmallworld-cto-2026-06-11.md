@@ -2,7 +2,7 @@
 
 Prepared: 2026-06-11  
 Role URL: https://www.linkedin.com/jobs/view/4427023532/  
-Report: [127](../reports/127-asmallworld-cto-2026-06-11.md)
+Report: [127](../../reports/127-asmallworld-cto-2026-06-11.md)
 
 ## Candidate Details
 

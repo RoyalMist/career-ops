@@ -5,7 +5,7 @@
 **Archetype:** CTO / AI Transformation / Consumer Digital Platform
 **Score:** 4.1/5
 **Legitimacy:** Proceed with Caution
-**PDF:** [CV](../output/cv-thibault-fouache-asmallworld-cto-2026-06-11.pdf) / [Cover letter](../output/cover-letter-thibault-fouache-asmallworld-cto-2026-06-11.pdf)
+**PDF:** [CV](../output/archived/cv-thibault-fouache-asmallworld-cto-2026-06-11.pdf) / [Cover letter](../output/archived/cover-letter-thibault-fouache-asmallworld-cto-2026-06-11.pdf)
 
 ---
 
@@ -108,10 +108,10 @@ ASMALLWORLD, CTO, Chief Technology Officer, Swiss-listed, SIX ASWN, luxury trave
 
 Prepared on 2026-06-11:
 
-- [Tailored CV HTML](../output/cv-thibault-fouache-asmallworld-cto-2026-06-11.html)
-- [Tailored CV PDF](../output/cv-thibault-fouache-asmallworld-cto-2026-06-11.pdf)
-- [Cover letter HTML](../output/cover-letter-thibault-fouache-asmallworld-cto-2026-06-11.html)
-- [Cover letter PDF](../output/cover-letter-thibault-fouache-asmallworld-cto-2026-06-11.pdf)
-- [Application responses](../output/application-responses-thibault-fouache-asmallworld-cto-2026-06-11.md)
+- [Tailored CV HTML](../output/archived/cv-thibault-fouache-asmallworld-cto-2026-06-11.html)
+- [Tailored CV PDF](../output/archived/cv-thibault-fouache-asmallworld-cto-2026-06-11.pdf)
+- [Cover letter HTML](../output/archived/cover-letter-thibault-fouache-asmallworld-cto-2026-06-11.html)
+- [Cover letter PDF](../output/archived/cover-letter-thibault-fouache-asmallworld-cto-2026-06-11.pdf)
+- [Application responses](../output/archived/application-responses-thibault-fouache-asmallworld-cto-2026-06-11.md)
 
 Status remains `Evaluated` until the application is submitted by the candidate.
