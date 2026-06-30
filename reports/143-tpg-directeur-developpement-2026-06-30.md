@@ -1,4 +1,4 @@
-# Evaluation: Transports Publics Genevois / Page Executive - Directeur-trice du Developpement
+# Evaluation: Transports Publics Genevois / Page Executive - Directeur-trice du Développement
 
 **Date:** 2026-06-30  
 **URL:** https://www.linkedin.com/jobs/view/4434721821/  
@@ -6,8 +6,8 @@
 **Archetype:** AI Transformation / Enterprise Innovation Executive; adjacent public-sector CTO / digital transformation leader  
 **Score:** 4.2/5  
 **Legitimacy:** High Confidence  
-**PDF:** output/cv-thibault-fouache-tpg-directeur-developpement-2026-06-30.pdf
-**Motivation letter:** output/cover-letter-thibault-fouache-tpg-directeur-developpement-2026-06-30.pdf
+**PDF:** output/archived/cv-thibault-fouache-tpg-directeur-developpement-2026-06-30.pdf
+**Motivation letter:** output/archived/cover-letter-thibault-fouache-tpg-directeur-developpement-2026-06-30.pdf
 
 ---
 
@@ -16,7 +16,7 @@
 | Field | Assessment |
 |---|---|
 | Company | Transports Publics Genevois, searched via Page Executive |
-| Role | Directeur-trice du Developpement |
+| Role | Directeur-trice du Développement |
 | Domain | Public mobility, digital mobility, innovation, network development, IT, PMO, sustainable transport |
 | Function | Executive-committee role leading growth, transformation, innovation, partnerships, IT-oriented digital mobility and performance |
 | Seniority | Executive; member of the direction committee, reporting to general management |
@@ -151,10 +151,12 @@ Not generated. Score is below 4.5/5. Generate if the candidate decides to apply.
 
 Generated on 2026-06-30:
 
-- CV: `output/cv-thibault-fouache-tpg-directeur-developpement-2026-06-30.pdf`
-- Motivation letter: `output/cover-letter-thibault-fouache-tpg-directeur-developpement-2026-06-30.pdf`
-- Application note: `output/application-note-thibault-fouache-tpg-directeur-developpement-2026-06-30.md`
+- CV: `output/archived/cv-thibault-fouache-tpg-directeur-developpement-2026-06-30.pdf`
+- Motivation letter: `output/archived/cover-letter-thibault-fouache-tpg-directeur-developpement-2026-06-30.pdf`
+- Application note: `output/archived/application-note-thibault-fouache-tpg-directeur-developpement-2026-06-30.md`
+
+Application submitted on 2026-06-30 via LinkedIn/Page Executive.
 
 ## Keywords extracted
 
-Directeur-trice du Developpement, Transports Publics Genevois, Page Executive, tpg, comité de direction, innovation, développement, digitalisation de la mobilité, systèmes d'information, PMO, développement réseau, cellule innovation, véhicules autonomes, gestion intelligente du trafic, métro, intelligence artificielle, applications clients connectées, partenariats, diversification des revenus, données, mobilité intégrée, transformation interne, KPIs, ROI, ROE, service public, Genève.
+Directeur-trice du Développement, Transports Publics Genevois, Page Executive, tpg, comité de direction, innovation, développement, digitalisation de la mobilité, systèmes d'information, PMO, développement réseau, cellule innovation, véhicules autonomes, gestion intelligente du trafic, métro, intelligence artificielle, applications clients connectées, partenariats, diversification des revenus, données, mobilité intégrée, transformation interne, KPIs, ROI, ROE, service public, Genève.
