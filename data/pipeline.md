@@ -8,7 +8,7 @@
 - [ ] https://jobs.smartrecruiters.com/CERN/744000133320799-controls-and-automation-engineer-en-cv-cl-2026-171-grae | CERN | Controls and Automation Engineer (EN-CV-CL-2026-171-GRAE)
 - [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4906263101 | Parloa | Senior Forward Deployed Engineer (Spain)
 - [ ] https://careers.icrc.org/job/Geneva-%28GVA%29-Platform-Engineering-Lead-32595/1407139833/ | ICRC | Platform Engineering Lead
-- [ ] https://careers.icrc.org/job/Geneva-%28GVA%29-AI-Tech-Lead-32594/1407099033/ | ICRC | AI Tech Lead
+- [x] #151 | https://careers.icrc.org/job/Geneva-%28GVA%29-AI-Tech-Lead-32594/1407099033/ | ICRC | AI Tech Lead | 3.5/5 | PDF ❌
 - [ ] https://swissdevjobs.ch/jobs/Rockstar-Recruiting-AG-Senior-Data--AI-Consultant | Rockstar Recruiting AG | Senior Data & AI Consultant [CHF 100'000 - 130'000]
 - [ ] https://swissdevjobs.ch/jobs/KPMG-Switzerland-Consultant---Management-Consulting---Digital-Transformation | KPMG Switzerland | Consultant - Management Consulting - Digital Transformation [CHF 100'000 - 130'000]
 - [ ] https://swissdevjobs.ch/jobs/Lombard-Odier-Systems-Engineer---Automation-WindowsVMware---Genve | Lombard Odier | Systems Engineer - Automation (Windows/VMware) - Genève [CHF 110'000 - 150'000]
