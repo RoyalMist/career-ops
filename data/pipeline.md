@@ -19,6 +19,16 @@
 
 - [ ] https://job-boards.greenhouse.io/hightouch/jobs/6104620004 | Hightouch | Solutions Engineer, Mid-Market (Pre-Sales)
 
+- [x] DISCARDED | https://job-boards.eu.greenhouse.io/proton/jobs/4914620101 | Proton | Engineering Manager (Apple) - Geneva | Discarded 2026-07-02: narrow mobile engineering-management scope; not compelling versus current priorities.
+- [x] DISCARDED | https://jobs.smartrecruiters.com/CERN/744000135412509-atlas-detector-installation-technician-ep-atl-po-2026-178-grae | CERN | ATLAS Detector Installation Technician (EP-ATL-PO-2026-178-GRAE) | Discarded 2026-07-02: technician role outside target scope.
+- [x] DISCARDED | https://careers.sophiagenetics.com/jobs/associate-director-sr-manager-biopharma-business-development-united-kingdom-germany-zurich-zurich-switzerland | SOPHiA GENETICS | Associate Director / Sr Manager, BioPharma Business Development | Discarded 2026-07-02: commercial/BD scope, not a strong technology leadership fit.
+- [x] DISCARDED | https://careers.sophiagenetics.com/jobs/senior-full-stack-software-machine-learning-engineer-bidart-nouvelle-aquitaine-france-boston-massachusetts-united-states-rolle-vaud-switzerland | SOPHiA GENETICS | Senior Full-Stack Software Machine Learning Engineer | Discarded 2026-07-02: hands-on IC engineering role below target scope.
+- [x] DISCARDED | https://weforum.wd3.myworkdayjobs.com/en-US/Forum_Careers/job/Geneva/Team-Coordinator--Regional-Agenda--India-and-South-Asia_R4162 | World Economic Forum | Team Coordinator, Regional Agenda, India and South Asia | Discarded 2026-07-02: coordinator role outside target scope.
+- [x] DISCARDED | https://jobs.ashbyhq.com/decagon/6431a6f9-2ebe-4b68-beb6-200b42aeeca8 | Decagon | Strategic Solutions Engineer, East | Discarded 2026-07-02: not compelling enough and likely US/East-oriented.
+- [x] DISCARDED | https://jobs.lever.co/sonarsource/c496f66e-364d-4978-9a1d-c4b409e55855 | Sonar | Platform Product Manager | Discarded 2026-07-02: product IC scope not compelling enough versus current priorities.
+- [x] DISCARDED | https://jobs.ashbyhq.com/cohere/d81c28f5-2945-4c49-bc5b-86e345334cfb | Cohere | Counsel, Privacy and AI Regulation (EU) | Discarded 2026-07-02: legal/privacy counsel role outside target scope.
+- [x] DISCARDED | https://www.scandit.com/careers/job-description/?gh_jid=8043068 | Scandit | Product Manager (ShelfView) | Discarded 2026-07-02: product IC scope not compelling enough versus current priorities.
+
 ## Procesadas
 
 - [x] DISCARDED | https://jobs.smartrecruiters.com/Nexthink/744000134949229-senior-ai-engineer | Nexthink | Senior AI Engineer | Discarded 2026-06-30 by prior candidate preference: Nexthink Senior AI Engineer is not for me.
